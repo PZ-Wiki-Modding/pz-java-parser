@@ -20,12 +20,12 @@ from pathlib import Path
 JAVA = Path("ZomboidDecompiler/output/source/zombie/core/Colors.java")
 OUT = Path("out/colors.json")
 
-PATERN = r"Color (?P<field>\S+) = (?:(?P<fct>AddGameColor|addColorCB|addColor)\(\"(?P<name>\S+)\", new Color\((?P<r>\d+\.\d+)F, (?P<g>\d+\.\d+)F, (?P<b>\d+\.\d+)F\)\)|(?P<ref>\S+));"
+PATTERN = r"Color (?P<field>\S+) = (?:(?P<fct>AddGameColor|addColorCB|addColor)\(\"(?P<name>\S+)\", new Color\((?P<r>\d+\.\d+)F, (?P<g>\d+\.\d+)F, (?P<b>\d+\.\d+)F\)\)|(?P<ref>\S+));"
 
 with open(JAVA, "r") as f:
     java_content = f.read()
 
-    matches = re.finditer(PATERN, java_content)
+    matches = re.finditer(PATTERN, java_content)
     colors = []
     for match in matches:
         color = match.groupdict()

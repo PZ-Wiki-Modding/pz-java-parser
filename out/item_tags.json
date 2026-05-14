@@ -1,0 +1,1838 @@
+[
+    {
+        "field": "AEROSOL",
+        "name": "base:aerosol"
+    },
+    {
+        "field": "ALCOHOLIC_BEVERAGE",
+        "name": "base:alcoholicbeverage"
+    },
+    {
+        "field": "ALREADY_BROKEN",
+        "name": "base:alreadybroken"
+    },
+    {
+        "field": "ALREADY_COOKED",
+        "name": "base:alreadycooked"
+    },
+    {
+        "field": "ALUMINUM",
+        "name": "base:aluminum"
+    },
+    {
+        "field": "ALWAYS_HAS_STUFF",
+        "name": "base:alwayshasstuff"
+    },
+    {
+        "field": "AMETHYST_JEWELLERY",
+        "name": "base:amethystjewellery"
+    },
+    {
+        "field": "AMMO",
+        "name": "base:ammo"
+    },
+    {
+        "field": "AMMO_CASE",
+        "name": "base:ammocase"
+    },
+    {
+        "field": "ANIMAL_BONE",
+        "name": "base:animalbone"
+    },
+    {
+        "field": "ANIMAL_BRAIN",
+        "name": "base:animalbrain"
+    },
+    {
+        "field": "ANIMAL_CORPSE",
+        "name": "base:animalcorpse"
+    },
+    {
+        "field": "ANIMAL_HEAD",
+        "name": "base:animalhead"
+    },
+    {
+        "field": "ANIMAL_SKULL",
+        "name": "base:animalskull"
+    },
+    {
+        "field": "APPLY_OWNER_NAME",
+        "name": "base:applyownername"
+    },
+    {
+        "field": "AWKWARD_GLOVES",
+        "name": "base:awkwardgloves"
+    },
+    {
+        "field": "AWL",
+        "name": "base:awl"
+    },
+    {
+        "field": "BAGS_FILL_EXCEPTION",
+        "name": "base:bagsfillexception"
+    },
+    {
+        "field": "BAKING_FAT",
+        "name": "base:bakingfat"
+    },
+    {
+        "field": "BALL_PEEN_HAMMER",
+        "name": "base:ballpeenhammer"
+    },
+    {
+        "field": "BARE_HANDS",
+        "name": "base:barehands"
+    },
+    {
+        "field": "BAR_STOCK",
+        "name": "base:barstock"
+    },
+    {
+        "field": "BAR_STOCK_HALF",
+        "name": "base:barstockhalf"
+    },
+    {
+        "field": "BAR_STOCK_QUARTER",
+        "name": "base:barstockquarter"
+    },
+    {
+        "field": "BINDING",
+        "name": "base:binding"
+    },
+    {
+        "field": "BIRD_SKULL",
+        "name": "base:birdskull"
+    },
+    {
+        "field": "BLADE",
+        "name": "base:blade"
+    },
+    {
+        "field": "BLOCK",
+        "name": "base:block"
+    },
+    {
+        "field": "BLOWER_FAN",
+        "name": "base:blowerfan"
+    },
+    {
+        "field": "BLOW_TORCH",
+        "name": "base:blowtorch"
+    },
+    {
+        "field": "BLUE_PEN",
+        "name": "base:bluepen"
+    },
+    {
+        "field": "BOLT_CUTTERS",
+        "name": "base:boltcutters"
+    },
+    {
+        "field": "BOOSTS_FLU_RECOVERY",
+        "name": "base:boostsflurecovery"
+    },
+    {
+        "field": "BOTTLE_OPENER",
+        "name": "base:bottleopener"
+    },
+    {
+        "field": "BOWL",
+        "name": "base:bowl"
+    },
+    {
+        "field": "BRAIN_TAN",
+        "name": "base:braintan"
+    },
+    {
+        "field": "BRAKE",
+        "name": "base:brake"
+    },
+    {
+        "field": "BREAK_FIBER",
+        "name": "base:breakfiber"
+    },
+    {
+        "field": "BREAK_ON_SMITHING",
+        "name": "base:breakonsmithing"
+    },
+    {
+        "field": "BREAK_WHEN_WET",
+        "name": "base:breakwhenwet"
+    },
+    {
+        "field": "BROKEN_GLASS",
+        "name": "base:brokenglass"
+    },
+    {
+        "field": "BUCKET",
+        "name": "base:bucket"
+    },
+    {
+        "field": "BUCKLE",
+        "name": "base:buckle"
+    },
+    {
+        "field": "BUILDING_KEY",
+        "name": "base:buildingkey"
+    },
+    {
+        "field": "BURLAP_BAG",
+        "name": "base:burlapbag"
+    },
+    {
+        "field": "BUTCHER_ANIMAL",
+        "name": "base:butcheranimal"
+    },
+    {
+        "field": "BUTTON",
+        "name": "base:button"
+    },
+    {
+        "field": "CAMERA",
+        "name": "base:camera"
+    },
+    {
+        "field": "CANT_COMPOST",
+        "name": "base:cantcompost"
+    },
+    {
+        "field": "CAN_BE_DIVIDED_IN_BOWLS",
+        "name": "base:canbedividedinbowls"
+    },
+    {
+        "field": "CAN_BE_DYED",
+        "name": "base:canbedyed"
+    },
+    {
+        "field": "CAN_BE_WASHED",
+        "name": "base:canbewashed"
+    },
+    {
+        "field": "CAN_EAT",
+        "name": "base:caneat"
+    },
+    {
+        "field": "CAN_OPENER",
+        "name": "base:canopener"
+    },
+    {
+        "field": "CARPENTRY_CHISEL",
+        "name": "base:carpentrychisel"
+    },
+    {
+        "field": "CARVE_LONG_STICK",
+        "name": "base:carvelongstick"
+    },
+    {
+        "field": "CAR_BATTERY",
+        "name": "base:carbattery"
+    },
+    {
+        "field": "CAR_KEY",
+        "name": "base:carkey"
+    },
+    {
+        "field": "CHARCOAL",
+        "name": "base:charcoal"
+    },
+    {
+        "field": "CHEESE",
+        "name": "base:cheese"
+    },
+    {
+        "field": "CHEWING_TOBACCO",
+        "name": "base:chewingtobacco"
+    },
+    {
+        "field": "CHOP_TREE",
+        "name": "base:choptree"
+    },
+    {
+        "field": "CHUNK",
+        "name": "base:chunk"
+    },
+    {
+        "field": "CLAY_TOOL",
+        "name": "base:claytool"
+    },
+    {
+        "field": "CLEAN_STAINS",
+        "name": "base:cleanstains"
+    },
+    {
+        "field": "CLEAR_ASHES",
+        "name": "base:clearashes"
+    },
+    {
+        "field": "CLUB_HAMMER",
+        "name": "base:clubhammer"
+    },
+    {
+        "field": "COFFEE_MAKER",
+        "name": "base:coffeemaker"
+    },
+    {
+        "field": "COMFREY",
+        "name": "base:comfrey"
+    },
+    {
+        "field": "COMMON_MALLOW",
+        "name": "base:commonmallow"
+    },
+    {
+        "field": "COMPASS",
+        "name": "base:compass"
+    },
+    {
+        "field": "COMPOST",
+        "name": "base:compost"
+    },
+    {
+        "field": "CONCRETE",
+        "name": "base:concrete"
+    },
+    {
+        "field": "CONSUMABLE",
+        "name": "base:consumable"
+    },
+    {
+        "field": "CONSUME_ON_READ",
+        "name": "base:consumeonread"
+    },
+    {
+        "field": "COOKABLE",
+        "name": "base:cookable"
+    },
+    {
+        "field": "COOKABLE_MICROWAVE",
+        "name": "base:cookablemicrowave"
+    },
+    {
+        "field": "COPPER_ORE",
+        "name": "base:copperore"
+    },
+    {
+        "field": "COPPER_SOURCE",
+        "name": "base:coppersource"
+    },
+    {
+        "field": "CORKSCREW",
+        "name": "base:corkscrew"
+    },
+    {
+        "field": "CROWBAR",
+        "name": "base:crowbar"
+    },
+    {
+        "field": "CRUDE",
+        "name": "base:crude"
+    },
+    {
+        "field": "CRUDE_BLADE",
+        "name": "base:crudeblade"
+    },
+    {
+        "field": "CRUDE_CHISEL",
+        "name": "base:crudechisel"
+    },
+    {
+        "field": "CRUDE_SAW",
+        "name": "base:crudesaw"
+    },
+    {
+        "field": "CRUDE_TONGS",
+        "name": "base:crudetongs"
+    },
+    {
+        "field": "CUT_HEAD_SACK",
+        "name": "base:cutheadsack"
+    },
+    {
+        "field": "CUT_PLANT",
+        "name": "base:cutplant"
+    },
+    {
+        "field": "D00",
+        "name": "base:d00"
+    },
+    {
+        "field": "D10",
+        "name": "base:d10"
+    },
+    {
+        "field": "D12",
+        "name": "base:d12"
+    },
+    {
+        "field": "D20",
+        "name": "base:d20"
+    },
+    {
+        "field": "D4",
+        "name": "base:d4"
+    },
+    {
+        "field": "D6",
+        "name": "base:d6"
+    },
+    {
+        "field": "D8",
+        "name": "base:d8"
+    },
+    {
+        "field": "DESTRUCTIBLE",
+        "name": "base:destructible"
+    },
+    {
+        "field": "DIAMOND_JEWELLERY",
+        "name": "base:diamondjewellery"
+    },
+    {
+        "field": "DIAMOND_SCRAP",
+        "name": "base:diamondscrap"
+    },
+    {
+        "field": "DICE",
+        "name": "base:dice"
+    },
+    {
+        "field": "DICE_2D6",
+        "name": "base:2d6"
+    },
+    {
+        "field": "DIGITAL",
+        "name": "base:digital"
+    },
+    {
+        "field": "DIG_GRAVE",
+        "name": "base:diggrave"
+    },
+    {
+        "field": "DIG_PLOW",
+        "name": "base:digplow"
+    },
+    {
+        "field": "DIG_WORMS",
+        "name": "base:digworms"
+    },
+    {
+        "field": "DOG_TAG",
+        "name": "base:dogtag"
+    },
+    {
+        "field": "DONT_INHERIT_CONDITION",
+        "name": "base:dontinheritcondition"
+    },
+    {
+        "field": "DO_HAIRDO",
+        "name": "base:dohairdo"
+    },
+    {
+        "field": "DRIED_FOOD",
+        "name": "base:driedfood"
+    },
+    {
+        "field": "DRILL_METAL",
+        "name": "base:drillmetal"
+    },
+    {
+        "field": "DRILL_WOOD",
+        "name": "base:drillwood"
+    },
+    {
+        "field": "DRILL_WOOD_POOR",
+        "name": "base:drillwoodpoor"
+    },
+    {
+        "field": "DUFFEL_BAG",
+        "name": "base:duffelbag"
+    },
+    {
+        "field": "DULL_KNIFE",
+        "name": "base:dullknife"
+    },
+    {
+        "field": "EGG",
+        "name": "base:egg"
+    },
+    {
+        "field": "EMERALD_JEWELLERY",
+        "name": "base:emeraldjewellery"
+    },
+    {
+        "field": "EMPTY_CAN",
+        "name": "base:emptycan"
+    },
+    {
+        "field": "EPOXY",
+        "name": "base:epoxy"
+    },
+    {
+        "field": "EQUIPPABLE",
+        "name": "base:equippable"
+    },
+    {
+        "field": "ERASER",
+        "name": "base:eraser"
+    },
+    {
+        "field": "FAKE_SPEAR",
+        "name": "base:fakespear"
+    },
+    {
+        "field": "FAKE_WEAPON",
+        "name": "base:fakeweapon"
+    },
+    {
+        "field": "FANCY_BOOK",
+        "name": "base:fancybook"
+    },
+    {
+        "field": "FARMING_LOOT",
+        "name": "base:farmingloot"
+    },
+    {
+        "field": "FAST_DRAW",
+        "name": "base:fastdraw"
+    },
+    {
+        "field": "FAST_READ",
+        "name": "base:fastread"
+    },
+    {
+        "field": "FEATHER",
+        "name": "base:feather"
+    },
+    {
+        "field": "FERTILIZER",
+        "name": "base:fertilizer"
+    },
+    {
+        "field": "FIBERGLASS_TAPE",
+        "name": "base:fiberglasstape"
+    },
+    {
+        "field": "FILE",
+        "name": "base:file"
+    },
+    {
+        "field": "FIREARM",
+        "name": "base:firearm"
+    },
+    {
+        "field": "FIREARM_LOOT",
+        "name": "base:firearmloot"
+    },
+    {
+        "field": "FISHING_HOOK",
+        "name": "base:fishinghook"
+    },
+    {
+        "field": "FISHING_LINE",
+        "name": "base:fishingline"
+    },
+    {
+        "field": "FISHING_NET",
+        "name": "base:fishingnet"
+    },
+    {
+        "field": "FISHING_ROD",
+        "name": "base:fishingrod"
+    },
+    {
+        "field": "FISHING_SPEAR",
+        "name": "base:fishingspear"
+    },
+    {
+        "field": "FISH_MEAT",
+        "name": "base:fishmeat"
+    },
+    {
+        "field": "FITS_KEY_RING",
+        "name": "base:fitskeyring"
+    },
+    {
+        "field": "FITS_TOASTER",
+        "name": "base:fitstoaster"
+    },
+    {
+        "field": "FITS_WALLET",
+        "name": "base:fitswallet"
+    },
+    {
+        "field": "FITS_CLOTHING_RACK",
+        "name": "base:fitsclothingrack"
+    },
+    {
+        "field": "FLASHLIGHT",
+        "name": "base:flashlight"
+    },
+    {
+        "field": "FLASHLIGHT_PILLAR",
+        "name": "base:flashlightpillar"
+    },
+    {
+        "field": "FLESHING_TOOL",
+        "name": "base:fleshingtool"
+    },
+    {
+        "field": "FLINT_PIECE",
+        "name": "base:flintpiece"
+    },
+    {
+        "field": "FLOUR",
+        "name": "base:flour"
+    },
+    {
+        "field": "FORGE_CRUDE_BLADE",
+        "name": "base:forge_crude_blade"
+    },
+    {
+        "field": "FORK",
+        "name": "base:fork"
+    },
+    {
+        "field": "FULL_BLADE",
+        "name": "base:fullblade"
+    },
+    {
+        "field": "GARBAGE_BAG",
+        "name": "base:garbagebag"
+    },
+    {
+        "field": "GASMASK_FILTER",
+        "name": "base:gasmaskfilter"
+    },
+    {
+        "field": "GAS_MASK",
+        "name": "base:gasmask"
+    },
+    {
+        "field": "RESPIRATOR",
+        "name": "base:respirator"
+    },
+    {
+        "field": "RESPIRATOR_NO_FILTER",
+        "name": "base:respiratornofilter"
+    },
+    {
+        "field": "GAS_MASK_NO_FILTER",
+        "name": "base:gasmasknofilter"
+    },
+    {
+        "field": "GENERATOR",
+        "name": "base:generator"
+    },
+    {
+        "field": "GIVES_LONG_STICK",
+        "name": "base:giveslongstick"
+    },
+    {
+        "field": "GLASS",
+        "name": "base:glass"
+    },
+    {
+        "field": "GLASS_BOTTLE",
+        "name": "base:glassbottle"
+    },
+    {
+        "field": "GLASS_BOTTLE_SMALL",
+        "name": "base:glassbottlesmall"
+    },
+    {
+        "field": "GLUE",
+        "name": "base:glue"
+    },
+    {
+        "field": "GOLD_SCRAP",
+        "name": "base:goldscrap"
+    },
+    {
+        "field": "GOOD_FROZEN",
+        "name": "base:goodfrozen"
+    },
+    {
+        "field": "GRATER",
+        "name": "base:grater"
+    },
+    {
+        "field": "GREEN_PEN",
+        "name": "base:greenpen"
+    },
+    {
+        "field": "GRILLED",
+        "name": "base:grilled"
+    },
+    {
+        "field": "HAMMER",
+        "name": "base:hammer"
+    },
+    {
+        "field": "HAMMER_STONE",
+        "name": "base:hammerstone"
+    },
+    {
+        "field": "HANDGUARD",
+        "name": "base:handguard"
+    },
+    {
+        "field": "HAND_SCYTHE",
+        "name": "base:handscythe"
+    },
+    {
+        "field": "HARDCOVER",
+        "name": "base:hardcover"
+    },
+    {
+        "field": "HARMONICA",
+        "name": "base:harmonica"
+    },
+    {
+        "field": "HAS_METAL",
+        "name": "base:hasmetal"
+    },
+    {
+        "field": "HAS_TOOL_HEAD",
+        "name": "base:hastoolhead"
+    },
+    {
+        "field": "HAZMAT_SUIT",
+        "name": "base:hazmatsuit"
+    },
+    {
+        "field": "HEADING_TOOL",
+        "name": "base:headingtool"
+    },
+    {
+        "field": "HEAVY_ITEM",
+        "name": "base:heavyitem"
+    },
+    {
+        "field": "HEAVY_THREAD",
+        "name": "base:heavythread"
+    },
+    {
+        "field": "HERBAL_TEA",
+        "name": "base:herbaltea"
+    },
+    {
+        "field": "HIDE_COOKED",
+        "name": "base:hidecooked"
+    },
+    {
+        "field": "HIDE_HUNGER_CHANGE",
+        "name": "base:hidehungerchange"
+    },
+    {
+        "field": "HIDE_REMAINING",
+        "name": "base:hideremaining"
+    },
+    {
+        "field": "HIDE_UNCOOKED",
+        "name": "base:hideuncooked"
+    },
+    {
+        "field": "HOLD_COMPOST",
+        "name": "base:holdcompost"
+    },
+    {
+        "field": "HOLD_DIRT",
+        "name": "base:holddirt"
+    },
+    {
+        "field": "HOLLOW_BOOK",
+        "name": "base:hollowbook"
+    },
+    {
+        "field": "IDCARD",
+        "name": "base:idcard"
+    },
+    {
+        "field": "IGNORE_ZOMBIE_DENSITY",
+        "name": "base:ignorezombiedensity"
+    },
+    {
+        "field": "IMPROVISED_GAS_MASK",
+        "name": "base:improvisedgasmask"
+    },
+    {
+        "field": "INFERIOR_BINDING",
+        "name": "base:inferiorbinding"
+    },
+    {
+        "field": "INGOT",
+        "name": "base:ingot"
+    },
+    {
+        "field": "IRON_MATERIAL",
+        "name": "base:ironmaterial"
+    },
+    {
+        "field": "IRON_ORE",
+        "name": "base:ironore"
+    },
+    {
+        "field": "IRON_SOURCE",
+        "name": "base:ironsource"
+    },
+    {
+        "field": "IS_ATOMIC",
+        "name": "base:isatomic"
+    },
+    {
+        "field": "IS_COMPOSTABLE",
+        "name": "base:iscompostable"
+    },
+    {
+        "field": "IS_CUTTING",
+        "name": "base:iscutting"
+    },
+    {
+        "field": "IS_DISGUISE",
+        "name": "base:isdisguise"
+    },
+    {
+        "field": "IS_FIRE_FUEL",
+        "name": "base:isfirefuel"
+    },
+    {
+        "field": "IS_FIRE_FUEL_SINGLE_USE",
+        "name": "base:isfirefuelsingleuse"
+    },
+    {
+        "field": "IS_FIRE_TINDER",
+        "name": "base:isfiretinder"
+    },
+    {
+        "field": "IS_LOWER_DISGUISE",
+        "name": "base:islowerdisguise"
+    },
+    {
+        "field": "IS_MEMENTO",
+        "name": "base:ismemento"
+    },
+    {
+        "field": "IS_SEED",
+        "name": "base:isseed"
+    },
+    {
+        "field": "IS_UPPER_DISGUISE",
+        "name": "base:isupperdisguise"
+    },
+    {
+        "field": "JAR",
+        "name": "base:jar"
+    },
+    {
+        "field": "KEY_RING",
+        "name": "base:keyring"
+    },
+    {
+        "field": "KILL_ANIMAL",
+        "name": "base:killanimal"
+    },
+    {
+        "field": "KNAPPING_TOOL",
+        "name": "base:knappingtool"
+    },
+    {
+        "field": "KNITTING_NEEDLES",
+        "name": "base:knittingneedles"
+    },
+    {
+        "field": "LARGE_ANIMAL_BONE",
+        "name": "base:largeanimalbone"
+    },
+    {
+        "field": "LARGE_BLADE",
+        "name": "base:largeblade"
+    },
+    {
+        "field": "LARGE_SACK",
+        "name": "base:largesack"
+    },
+    {
+        "field": "LEATHER_CRUDE_LARGE",
+        "name": "base:leathercrudelarge"
+    },
+    {
+        "field": "LEATHER_CRUDE_MEDIUM",
+        "name": "base:leathercrudemedium"
+    },
+    {
+        "field": "LEATHER_CRUDE_SMALL",
+        "name": "base:leathercrudesmall"
+    },
+    {
+        "field": "LEATHER_CRUDE_TANNED_LARGE",
+        "name": "base:leathercrudetannedlarge"
+    },
+    {
+        "field": "LEATHER_CRUDE_TANNED_MEDIUM",
+        "name": "base:leathercrudetannedmedium"
+    },
+    {
+        "field": "LEATHER_CRUDE_TANNED_SMALL",
+        "name": "base:leathercrudetannedsmall"
+    },
+    {
+        "field": "LEATHER_CRUDE_WET_LARGE",
+        "name": "base:leathercrudewetlarge"
+    },
+    {
+        "field": "LEATHER_CRUDE_WET_MEDIUM",
+        "name": "base:leathercrudewetmedium"
+    },
+    {
+        "field": "LEATHER_CRUDE_WET_SMALL",
+        "name": "base:leathercrudewetsmall"
+    },
+    {
+        "field": "LEATHER_FULL_LARGE",
+        "name": "base:leatherfulllarge"
+    },
+    {
+        "field": "LEATHER_FULL_MEDIUM",
+        "name": "base:leatherfullmedium"
+    },
+    {
+        "field": "LEATHER_FULL_SMALL",
+        "name": "base:leatherfullsmall"
+    },
+    {
+        "field": "LEATHER_FUR_LARGE",
+        "name": "base:leatherfurlarge"
+    },
+    {
+        "field": "LEATHER_FUR_MEDIUM",
+        "name": "base:leatherfurmedium"
+    },
+    {
+        "field": "LEATHER_FUR_SMALL",
+        "name": "base:leatherfursmall"
+    },
+    {
+        "field": "LEATHER_FUR_TANNED_LARGE",
+        "name": "base:leatherfurtannedlarge"
+    },
+    {
+        "field": "LEATHER_FUR_TANNED_MEDIUM",
+        "name": "base:leatherfurtannedmedium"
+    },
+    {
+        "field": "LEATHER_FUR_TANNED_SMALL",
+        "name": "base:leatherfurtannedsmall"
+    },
+    {
+        "field": "LEATHER_FUR_WET_LARGE",
+        "name": "base:leatherfurwetlarge"
+    },
+    {
+        "field": "LEATHER_FUR_WET_MEDIUM",
+        "name": "base:leatherfurwetmedium"
+    },
+    {
+        "field": "LEATHER_FUR_WET_SMALL",
+        "name": "base:leatherfurwetsmall"
+    },
+    {
+        "field": "LESS_FULL",
+        "name": "base:lessfull"
+    },
+    {
+        "field": "LIGHTBAR",
+        "name": "base:lightbar"
+    },
+    {
+        "field": "LIGHTER",
+        "name": "base:lighter"
+    },
+    {
+        "field": "LIGHTER_FLUID",
+        "name": "base:lighterfluid"
+    },
+    {
+        "field": "LIGHT_METAL_SNIPS",
+        "name": "base:lightmetalsnips"
+    },
+    {
+        "field": "LIGHT_WHEN_ATTACHED",
+        "name": "base:lightwhenattached"
+    },
+    {
+        "field": "LIMESTONE",
+        "name": "base:limestone"
+    },
+    {
+        "field": "LIT_LANTERN",
+        "name": "base:litlantern"
+    },
+    {
+        "field": "LOCK",
+        "name": "base:lock"
+    },
+    {
+        "field": "LOCK_ON_WRITE",
+        "name": "base:lockonwrite"
+    },
+    {
+        "field": "LOG",
+        "name": "base:log"
+    },
+    {
+        "field": "LONG_JOHNS",
+        "name": "base:long_johns"
+    },
+    {
+        "field": "LONG_STICK",
+        "name": "base:longstick"
+    },
+    {
+        "field": "LOW_ALCOHOL",
+        "name": "base:lowalcohol"
+    },
+    {
+        "field": "LUG_WRENCH",
+        "name": "base:lugwrench"
+    },
+    {
+        "field": "MAGAZINE",
+        "name": "base:magazine"
+    },
+    {
+        "field": "MAGNIFIER",
+        "name": "base:magnifier"
+    },
+    {
+        "field": "MAKE_WOOD_CHARCOAL_LARGE",
+        "name": "base:makewoodcharcoallarge"
+    },
+    {
+        "field": "MAKE_WOOD_CHARCOAL_MEDIUM",
+        "name": "base:makewoodcharcoalmedium"
+    },
+    {
+        "field": "MAKE_WOOD_CHARCOAL_SMALL",
+        "name": "base:makewoodcharcoalsmall"
+    },
+    {
+        "field": "MALLET",
+        "name": "base:mallet"
+    },
+    {
+        "field": "MASONS_CHISEL",
+        "name": "base:masonschisel"
+    },
+    {
+        "field": "MASONS_TROWEL",
+        "name": "base:masonstrowel"
+    },
+    {
+        "field": "MEAT_CLEAVER",
+        "name": "base:meatcleaver"
+    },
+    {
+        "field": "MEGAPHONE",
+        "name": "base:megaphone"
+    },
+    {
+        "field": "METALWORKING_CHISEL",
+        "name": "base:metalworkingchisel"
+    },
+    {
+        "field": "METALWORKING_PLIERS",
+        "name": "base:metalworkingpliers"
+    },
+    {
+        "field": "METALWORKING_PUNCH",
+        "name": "base:metalworkingpunch"
+    },
+    {
+        "field": "METAL_BUCKET",
+        "name": "base:metalbucket"
+    },
+    {
+        "field": "METAL_PIECE",
+        "name": "base:metalpiece"
+    },
+    {
+        "field": "METAL_SAW",
+        "name": "base:metalsaw"
+    },
+    {
+        "field": "MILK",
+        "name": "base:milk"
+    },
+    {
+        "field": "MINOR_INGREDIENT",
+        "name": "base:minoringredient"
+    },
+    {
+        "field": "MISC_ELECTRONIC",
+        "name": "base:miscelectronic"
+    },
+    {
+        "field": "MIXING_UTENSIL",
+        "name": "base:mixingutensil"
+    },
+    {
+        "field": "MONOGRAM_OWNER_NAME",
+        "name": "base:monogramownername"
+    },
+    {
+        "field": "MORE_WHEN_NO_ZOMBIES",
+        "name": "base:morewhennozombies"
+    },
+    {
+        "field": "MORTAR_PESTLE",
+        "name": "base:mortarpestle"
+    },
+    {
+        "field": "MUFFLE_SNEEZE",
+        "name": "base:mufflesneeze"
+    },
+    {
+        "field": "NEVER_EMPTY",
+        "name": "base:neverempty"
+    },
+    {
+        "field": "NEW",
+        "name": "base:new"
+    },
+    {
+        "field": "NEWSPAPER",
+        "name": "base:newspaper"
+    },
+    {
+        "field": "NEWSPAPER_NEW",
+        "name": "base:newspaper_new"
+    },
+    {
+        "field": "NEWSPAPER_READ",
+        "name": "base:newspaperread"
+    },
+    {
+        "field": "NORMAL_PILLOW",
+        "name": "base:normalpillow"
+    },
+    {
+        "field": "NO_COOKING_XP",
+        "name": "base:nocookingxp"
+    },
+    {
+        "field": "NO_CRITICALS",
+        "name": "base:nocriticals"
+    },
+    {
+        "field": "NO_DETECT",
+        "name": "base:nodetect"
+    },
+    {
+        "field": "NO_FENCE_STAB",
+        "name": "base:nofencestab"
+    },
+    {
+        "field": "NO_MAINTENANCE_XP",
+        "name": "base:nomaintenancexp"
+    },
+    {
+        "field": "NO_POUR",
+        "name": "base:nopour"
+    },
+    {
+        "field": "NO_RAGDOLL",
+        "name": "base:noragdoll"
+    },
+    {
+        "field": "NO_ROPE",
+        "name": "base:norope"
+    },
+    {
+        "field": "OIL",
+        "name": "base:oil"
+    },
+    {
+        "field": "OMIT_EMPTY_FROM_NAME",
+        "name": "base:omitemptyfromname"
+    },
+    {
+        "field": "OPTICS",
+        "name": "base:optics"
+    },
+    {
+        "field": "OXYGEN_TANK",
+        "name": "base:oxygentank"
+    },
+    {
+        "field": "PACKED",
+        "name": "base:packed"
+    },
+    {
+        "field": "PAINT",
+        "name": "base:paint"
+    },
+    {
+        "field": "PAINTBRUSH",
+        "name": "base:paintbrush"
+    },
+    {
+        "field": "PASTA",
+        "name": "base:pasta"
+    },
+    {
+        "field": "PEN",
+        "name": "base:pen"
+    },
+    {
+        "field": "PENCIL",
+        "name": "base:pencil"
+    },
+    {
+        "field": "PETROL",
+        "name": "base:petrol"
+    },
+    {
+        "field": "PICK_ARAMID_THREAD",
+        "name": "base:pickaramidthread"
+    },
+    {
+        "field": "PICK_AXE",
+        "name": "base:pickaxe"
+    },
+    {
+        "field": "PICTURE",
+        "name": "base:picture"
+    },
+    {
+        "field": "PICTUREBOOK",
+        "name": "base:picturebook"
+    },
+    {
+        "field": "PIERCED_BLOCK",
+        "name": "base:piercedblock"
+    },
+    {
+        "field": "PIERCED_CHUNK",
+        "name": "base:piercedchunk"
+    },
+    {
+        "field": "PIERCED_INGOT",
+        "name": "base:piercedingot"
+    },
+    {
+        "field": "PILLOW",
+        "name": "base:pillow"
+    },
+    {
+        "field": "PIPE_WRENCH",
+        "name": "base:pipewrench"
+    },
+    {
+        "field": "PISTOL_MAGAZINE",
+        "name": "base:pistolmagazine"
+    },
+    {
+        "field": "PIZZA_CUTTER",
+        "name": "base:pizzacutter"
+    },
+    {
+        "field": "PIZZA_SAUCE",
+        "name": "base:pizzasauce"
+    },
+    {
+        "field": "PLANTAIN",
+        "name": "base:plantain"
+    },
+    {
+        "field": "PLASTER_TROWEL",
+        "name": "base:plastertrowel"
+    },
+    {
+        "field": "PLASTER_BUCKET",
+        "name": "base:plasterbucket"
+    },
+    {
+        "field": "PLIERS",
+        "name": "base:pliers"
+    },
+    {
+        "field": "PRY_BAR",
+        "name": "base:prybar"
+    },
+    {
+        "field": "PRESERVED_FOOD",
+        "name": "base:preservedfood"
+    },
+    {
+        "field": "PUPPERS",
+        "name": "base:puppers"
+    },
+    {
+        "field": "PURIFY_WATER",
+        "name": "base:purifywater"
+    },
+    {
+        "field": "QUARTER_BAR_STOCK",
+        "name": "base:quarterbarstock"
+    },
+    {
+        "field": "RAILROAD_SPIKE_PULLER",
+        "name": "base:railroadspikepuller"
+    },
+    {
+        "field": "RAZOR",
+        "name": "base:razor"
+    },
+    {
+        "field": "RAG_FILTER",
+        "name": "base:ragfilter"
+    },
+    {
+        "field": "RED_PEN",
+        "name": "base:redpen"
+    },
+    {
+        "field": "REFILLABLE_LIGHTER",
+        "name": "base:refillablelighter"
+    },
+    {
+        "field": "REGIONAL",
+        "name": "base:regional"
+    },
+    {
+        "field": "RELOAD_FAST_BULLETS",
+        "name": "base:reloadfastbullets"
+    },
+    {
+        "field": "RELOAD_FAST_MAGAZINES",
+        "name": "base:reloadfastmagazines"
+    },
+    {
+        "field": "RELOAD_FAST_SHELLS",
+        "name": "base:reloadfastshells"
+    },
+    {
+        "field": "REMOVE_BARRICADE",
+        "name": "base:removebarricade"
+    },
+    {
+        "field": "REMOVE_BULLET",
+        "name": "base:removebullet"
+    },
+    {
+        "field": "REMOVE_GLASS",
+        "name": "base:removeglass"
+    },
+    {
+        "field": "REMOVE_STUMP",
+        "name": "base:removestump"
+    },
+    {
+        "field": "REPAIRABLE_SAWBLADE",
+        "name": "base:repairablesawblade"
+    },
+    {
+        "field": "REPAIR_WITH_EPOXY",
+        "name": "base:repairwithepoxy"
+    },
+    {
+        "field": "REPAIR_WITH_GLUE",
+        "name": "base:repairwithglue"
+    },
+    {
+        "field": "REPAIR_WITH_TAPE",
+        "name": "base:repairwithtape"
+    },
+    {
+        "field": "REPLACE_PRIMARY",
+        "name": "base:replaceprimary"
+    },
+    {
+        "field": "RESPIRATOR_FILTER",
+        "name": "base:respiratorfilter"
+    },
+    {
+        "field": "REUSABLE_BANDAGE",
+        "name": "base:reusablebandage"
+    },
+    {
+        "field": "RICE_RECIPE",
+        "name": "base:ricerecipe"
+    },
+    {
+        "field": "RIFLE_MAGAZINE",
+        "name": "base:riflemagazine"
+    },
+    {
+        "field": "RIP_CLOTHIG_COTTON",
+        "name": "base:ripclothigcotton"
+    },
+    {
+        "field": "RIP_CLOTHING_COTON",
+        "name": "base:ripclothingcoton"
+    },
+    {
+        "field": "RIP_CLOTHING_COTTON",
+        "name": "base:ripclothingcotton"
+    },
+    {
+        "field": "RIP_CLOTHING_DENIM",
+        "name": "base:ripclothingdenim"
+    },
+    {
+        "field": "RIP_CLOTHING_LEATHER",
+        "name": "base:ripclothingleather"
+    },
+    {
+        "field": "ROLLING_PAPER",
+        "name": "base:rollingpaper"
+    },
+    {
+        "field": "ROLLING_PIN",
+        "name": "base:rollingpin"
+    },
+    {
+        "field": "ROPE",
+        "name": "base:rope"
+    },
+    {
+        "field": "RUBY_JEWELLERY",
+        "name": "base:rubyjewellery"
+    },
+    {
+        "field": "SALT",
+        "name": "base:salt"
+    },
+    {
+        "field": "SAPPHIRE_JEWELLERY",
+        "name": "base:sapphirejewellery"
+    },
+    {
+        "field": "SAW",
+        "name": "base:saw"
+    },
+    {
+        "field": "SAW_BLADE",
+        "name": "base:sawblade"
+    },
+    {
+        "field": "SCBA",
+        "name": "base:scba"
+    },
+    {
+        "field": "SCBANO_TANK",
+        "name": "base:scbanotank"
+    },
+    {
+        "field": "SCISSORS",
+        "name": "base:scissors"
+    },
+    {
+        "field": "SCRAP_ALUMINUM",
+        "name": "base:scrapaluminum"
+    },
+    {
+        "field": "SCRAP_ALUMINUM_LARGE",
+        "name": "base:scrapaluminumlarge"
+    },
+    {
+        "field": "SCRAP_AS_BELT",
+        "name": "base:scrapasbelt"
+    },
+    {
+        "field": "SCRAP_LARGE_COPPER",
+        "name": "base:scraplargecopper"
+    },
+    {
+        "field": "SCRAP_LARGE_STEEL",
+        "name": "base:scraplargesteel"
+    },
+    {
+        "field": "SCRAP_SMALL_COPPER",
+        "name": "base:scrapsmallcopper"
+    },
+    {
+        "field": "SCREWDRIVER",
+        "name": "base:screwdriver"
+    },
+    {
+        "field": "SCYTHE",
+        "name": "base:scythe"
+    },
+    {
+        "field": "SEALED_BEVERAGE_CAN",
+        "name": "base:sealedbeveragecan"
+    },
+    {
+        "field": "SEWING_NEEDLE",
+        "name": "base:sewingneedle"
+    },
+    {
+        "field": "SHARPENABLE",
+        "name": "base:sharpenable"
+    },
+    {
+        "field": "SHARP_KNIFE",
+        "name": "base:sharpknife"
+    },
+    {
+        "field": "SHEAR",
+        "name": "base:shear"
+    },
+    {
+        "field": "SHEET",
+        "name": "base:sheet"
+    },
+    {
+        "field": "SHEET_METAL_SNIPS",
+        "name": "base:sheetmetalsnips"
+    },
+    {
+        "field": "SHOTGUN_SHELL",
+        "name": "base:shotgunshell"
+    },
+    {
+        "field": "SHOW_CONDITION",
+        "name": "base:showcondition"
+    },
+    {
+        "field": "SHOW_POISON",
+        "name": "base:showpoison"
+    },
+    {
+        "field": "SILVER_SCRAP",
+        "name": "base:silverscrap"
+    },
+    {
+        "field": "SIMPLE_WEAPON_BINDING",
+        "name": "base:simpleweaponbinding"
+    },
+    {
+        "field": "SIPHON_GAS",
+        "name": "base:siphongas"
+    },
+    {
+        "field": "SLEDGEHAMMER",
+        "name": "base:sledgehammer"
+    },
+    {
+        "field": "SMALLER_GOLD_SCRAP",
+        "name": "base:smallergoldscrap"
+    },
+    {
+        "field": "SMALLER_SILVER_SCRAP",
+        "name": "base:smallersilverscrap"
+    },
+    {
+        "field": "SMALLEST_GOLD_SCRAP",
+        "name": "base:smallestgoldscrap"
+    },
+    {
+        "field": "SMALLEST_SILVER_SCRAP",
+        "name": "base:smallestsilverscrap"
+    },
+    {
+        "field": "SMALL_ANIMAL_BONE",
+        "name": "base:smallanimalbone"
+    },
+    {
+        "field": "SMALL_FILES",
+        "name": "base:smallfiles"
+    },
+    {
+        "field": "SMALL_GOLD_SCRAP",
+        "name": "base:smallgoldscrap"
+    },
+    {
+        "field": "SMALL_PUNCH",
+        "name": "base:smallpunch"
+    },
+    {
+        "field": "SMALL_SAW",
+        "name": "base:smallsaw"
+    },
+    {
+        "field": "SMALL_SHEET_METAL",
+        "name": "base:smallsheetmetal"
+    },
+    {
+        "field": "SMALL_SILVER_SCRAP",
+        "name": "base:smallsilverscrap"
+    },
+    {
+        "field": "SMELTABLE_IRON_LARGE",
+        "name": "base:smeltableironlarge"
+    },
+    {
+        "field": "SMELTABLE_IRON_MEDIUM",
+        "name": "base:smeltableironmedium"
+    },
+    {
+        "field": "SMELTABLE_IRON_MEDIUM_PLUS",
+        "name": "base:smeltableironmediumplus"
+    },
+    {
+        "field": "SMELTABLE_IRON_SMALL",
+        "name": "base:smeltableironsmall"
+    },
+    {
+        "field": "SMELTABLE_STEEL_LARGE",
+        "name": "base:smeltablesteellarge"
+    },
+    {
+        "field": "SMELTABLE_STEEL_MEDIUM",
+        "name": "base:smeltablesteelmedium"
+    },
+    {
+        "field": "SMELTABLE_STEEL_MEDIUM_PLUS",
+        "name": "base:smeltablesteelmediumplus"
+    },
+    {
+        "field": "SMELTABLE_STEEL_SMALL",
+        "name": "base:smeltablesteelsmall"
+    },
+    {
+        "field": "SMITHING_HAMMER",
+        "name": "base:smithinghammer"
+    },
+    {
+        "field": "SMOKABLE",
+        "name": "base:smokable"
+    },
+    {
+        "field": "SOFTCOVER",
+        "name": "base:softcover"
+    },
+    {
+        "field": "SPAWN_COOKED",
+        "name": "base:spawncooked"
+    },
+    {
+        "field": "SPAWN_FULL_UNLESS_LAUNDRY",
+        "name": "base:spawnfullunlesslaundry"
+    },
+    {
+        "field": "SPEAR_HEAD",
+        "name": "base:spearhead"
+    },
+    {
+        "field": "SPIKED",
+        "name": "base:spiked"
+    },
+    {
+        "field": "SPIKED_BEHIND",
+        "name": "base:spikedbehind"
+    },
+    {
+        "field": "SPOON",
+        "name": "base:spoon"
+    },
+    {
+        "field": "SPRAYER",
+        "name": "base:sprayer"
+    },
+    {
+        "field": "START_FIRE",
+        "name": "base:startfire"
+    },
+    {
+        "field": "STEEL_MATERIAL",
+        "name": "base:steelmaterial"
+    },
+    {
+        "field": "STONE",
+        "name": "base:stone"
+    },
+    {
+        "field": "STONE_MAUL",
+        "name": "base:stonemaul"
+    },
+    {
+        "field": "SUGAR",
+        "name": "base:sugar"
+    },
+    {
+        "field": "TAKE_DIRT",
+        "name": "base:takedirt"
+    },
+    {
+        "field": "TAKE_DUNG",
+        "name": "base:takedung"
+    },
+    {
+        "field": "TAPE",
+        "name": "base:tape"
+    },
+    {
+        "field": "TENT_BED",
+        "name": "base:tentbed"
+    },
+    {
+        "field": "TENT_PEG",
+        "name": "base:tentpeg"
+    },
+    {
+        "field": "THERMAL",
+        "name": "base:thermal"
+    },
+    {
+        "field": "THIMBLE",
+        "name": "base:thimble"
+    },
+    {
+        "field": "THREAD",
+        "name": "base:thread"
+    },
+    {
+        "field": "TINY_GOLD_SCRAP",
+        "name": "base:tinygoldscrap"
+    },
+    {
+        "field": "TINY_SILVER_SCRAP",
+        "name": "base:tinysilverscrap"
+    },
+    {
+        "field": "TIN_CAN",
+        "name": "base:tincan"
+    },
+    {
+        "field": "TOASTABLE",
+        "name": "base:toastable"
+    },
+    {
+        "field": "TOBACCO",
+        "name": "base:tobacco"
+    },
+    {
+        "field": "TOILET_BRUSH",
+        "name": "base:toiletbrush"
+    },
+    {
+        "field": "TONGS",
+        "name": "base:tongs"
+    },
+    {
+        "field": "TOOL_HEAD",
+        "name": "base:toolhead"
+    },
+    {
+        "field": "TVREMOTE",
+        "name": "base:tvremote"
+    },
+    {
+        "field": "TWEEZERS",
+        "name": "base:tweezers"
+    },
+    {
+        "field": "TWINE",
+        "name": "base:twine"
+    },
+    {
+        "field": "TWO_DIAMOND_JEWELLERY",
+        "name": "base:2diamondjewellery"
+    },
+    {
+        "field": "TWO_EMERALD_JEWELLERY",
+        "name": "base:2emeraldjewellery"
+    },
+    {
+        "field": "TWO_RUBY_JEWELLERY",
+        "name": "base:2rubyjewellery"
+    },
+    {
+        "field": "TWO_SAPPHIRE_JEWELLERY",
+        "name": "base:2sapphirejewellery"
+    },
+    {
+        "field": "UNCUT_FISH",
+        "name": "base:uncutfish"
+    },
+    {
+        "field": "UNINTERESTING",
+        "name": "base:uninteresting"
+    },
+    {
+        "field": "UNLIT_LANTERN",
+        "name": "base:unlitlantern"
+    },
+    {
+        "field": "USES_BATTERY",
+        "name": "base:usesbattery"
+    },
+    {
+        "field": "USE_ALL",
+        "name": "base:useall"
+    },
+    {
+        "field": "USE_DISPLAY_NAME",
+        "name": "base:usedisplayname"
+    },
+    {
+        "field": "USE_WORLD_STATIC_MODEL",
+        "name": "base:useworldstaticmodel"
+    },
+    {
+        "field": "VERMIN",
+        "name": "base:vermin"
+    },
+    {
+        "field": "VINEGAR",
+        "name": "base:vinegar"
+    },
+    {
+        "field": "VISE_GRIPS",
+        "name": "base:visegrips"
+    },
+    {
+        "field": "WALLPAPER",
+        "name": "base:wallpaper"
+    },
+    {
+        "field": "WALLPAPER_PASTE",
+        "name": "base:wallpaperpaste"
+    },
+    {
+        "field": "WEARABLE",
+        "name": "base:wearable"
+    },
+    {
+        "field": "WELDING_MASK",
+        "name": "base:weldingmask"
+    },
+    {
+        "field": "WET_BEVERAGE_INGREDIENT",
+        "name": "base:wetbeverageingredient"
+    },
+    {
+        "field": "WHETSTONE",
+        "name": "base:whetstone"
+    },
+    {
+        "field": "WHISTLE",
+        "name": "base:whistle"
+    },
+    {
+        "field": "WHOLE_TIRE",
+        "name": "base:wholetire"
+    },
+    {
+        "field": "WILD_GARLIC",
+        "name": "base:wildgarlic"
+    },
+    {
+        "field": "WIRE",
+        "name": "base:wire"
+    },
+    {
+        "field": "WOOD_HANDLE",
+        "name": "base:woodhandle"
+    },
+    {
+        "field": "WRENCH",
+        "name": "base:wrench"
+    },
+    {
+        "field": "WRITE",
+        "name": "base:write"
+    }
+]
