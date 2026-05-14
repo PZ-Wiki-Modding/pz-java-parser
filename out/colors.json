@@ -1,0 +1,1541 @@
+[
+    {
+        "field": "UI_Background",
+        "fct": "AddGameColor",
+        "name": "UI_Background",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "ref": null
+    },
+    {
+        "field": "Black",
+        "fct": "AddGameColor",
+        "name": "Black",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "ref": null
+    },
+    {
+        "field": "CB_G0_SherwoodGreen",
+        "fct": "addColorCB",
+        "name": "SherwoodGreen",
+        "r": 0.0,
+        "g": 0.239,
+        "b": 0.188,
+        "ref": null
+    },
+    {
+        "field": "CB_G1_PthaloGreen",
+        "fct": "addColorCB",
+        "name": "PthaloGreen",
+        "r": 0.0,
+        "g": 0.341,
+        "b": 0.271,
+        "ref": null
+    },
+    {
+        "field": "CB_G2_TropicalRainForest",
+        "fct": "addColorCB",
+        "name": "TropicalRainForest",
+        "r": 0.0,
+        "g": 0.451,
+        "b": 0.361,
+        "ref": null
+    },
+    {
+        "field": "CB_G3_Observatory",
+        "fct": "addColorCB",
+        "name": "Observatory",
+        "r": 0.0,
+        "g": 0.569,
+        "b": 0.459,
+        "ref": null
+    },
+    {
+        "field": "CB_G4_JungleGreen",
+        "fct": "addColorCB",
+        "name": "JungleGreen",
+        "r": 0.0,
+        "g": 0.686,
+        "b": 0.557,
+        "ref": null
+    },
+    {
+        "field": "CB_G5_Dali",
+        "fct": "addColorCB",
+        "name": "Dali",
+        "r": 0.0,
+        "g": 0.796,
+        "b": 0.655,
+        "ref": null
+    },
+    {
+        "field": "CB_G6_AquaMarine",
+        "fct": "addColorCB",
+        "name": "AquaMarine",
+        "r": 0.0,
+        "g": 0.922,
+        "b": 0.757,
+        "ref": null
+    },
+    {
+        "field": "CB_G7_LightAqua",
+        "fct": "addColorCB",
+        "name": "LightAqua",
+        "r": 0.525,
+        "g": 1.0,
+        "b": 0.871,
+        "ref": null
+    },
+    {
+        "field": "CB_B0_Submerge",
+        "fct": "addColorCB",
+        "name": "Submerge",
+        "r": 0.0,
+        "g": 0.188,
+        "b": 0.435,
+        "ref": null
+    },
+    {
+        "field": "CB_B1_Elvis",
+        "fct": "addColorCB",
+        "name": "Elvis",
+        "r": 0.0,
+        "g": 0.282,
+        "b": 0.62,
+        "ref": null
+    },
+    {
+        "field": "CB_B2_FlatMediumBlue",
+        "fct": "addColorCB",
+        "name": "FlatMediumBlue",
+        "r": 0.0,
+        "g": 0.373,
+        "b": 0.8,
+        "ref": null
+    },
+    {
+        "field": "CB_B3_ClearBlue",
+        "fct": "addColorCB",
+        "name": "ClearBlue",
+        "r": 0.0,
+        "g": 0.475,
+        "b": 0.98,
+        "ref": null
+    },
+    {
+        "field": "CB_B4_Azure",
+        "fct": "addColorCB",
+        "name": "Azure",
+        "r": 0.0,
+        "g": 0.624,
+        "b": 0.98,
+        "ref": null
+    },
+    {
+        "field": "CB_B5_SpiroDiscoBall",
+        "fct": "addColorCB",
+        "name": "SpiroDiscoBall",
+        "r": 0.0,
+        "g": 0.761,
+        "b": 0.976,
+        "ref": null
+    },
+    {
+        "field": "CB_B6_AquaBlue",
+        "fct": "addColorCB",
+        "name": "AquaBlue",
+        "r": 0.0,
+        "g": 0.898,
+        "b": 0.973,
+        "ref": null
+    },
+    {
+        "field": "CB_B7_LightBrilliantCyan",
+        "fct": "addColorCB",
+        "name": "LightBrilliantCyan",
+        "r": 0.486,
+        "g": 1.0,
+        "b": 0.98,
+        "ref": null
+    },
+    {
+        "field": "CB_R0_DeepAmaranth",
+        "fct": "addColorCB",
+        "name": "DeepAmaranth",
+        "r": 0.373,
+        "g": 0.0353,
+        "b": 0.0784,
+        "ref": null
+    },
+    {
+        "field": "CB_R1_HotChile",
+        "fct": "addColorCB",
+        "name": "HotChile",
+        "r": 0.525,
+        "g": 0.0314,
+        "b": 0.11,
+        "ref": null
+    },
+    {
+        "field": "CB_R2_Smashing",
+        "fct": "addColorCB",
+        "name": "Smashing",
+        "r": 0.698,
+        "g": 0.0275,
+        "b": 0.145,
+        "ref": null
+    },
+    {
+        "field": "CB_R3_GeraniumLake",
+        "fct": "addColorCB",
+        "name": "GeraniumLake",
+        "r": 0.871,
+        "g": 0.051,
+        "b": 0.18,
+        "ref": null
+    },
+    {
+        "field": "CB_R4_RedOrange",
+        "fct": "addColorCB",
+        "name": "RedOrange",
+        "r": 1.0,
+        "g": 0.259,
+        "b": 0.208,
+        "ref": null
+    },
+    {
+        "field": "CB_R5_Crusta",
+        "fct": "addColorCB",
+        "name": "Crusta",
+        "r": 1.0,
+        "g": 0.529,
+        "b": 0.208,
+        "ref": null
+    },
+    {
+        "field": "CB_R6_GoldenYellow",
+        "fct": "addColorCB",
+        "name": "GoldenYellow",
+        "r": 1.0,
+        "g": 0.725,
+        "b": 0.208,
+        "ref": null
+    },
+    {
+        "field": "CB_R7_BananaYellow",
+        "fct": "addColorCB",
+        "name": "BananaYellow",
+        "r": 1.0,
+        "g": 0.886,
+        "b": 0.224,
+        "ref": null
+    },
+    {
+        "field": "CB_White",
+        "fct": "addColorCB",
+        "name": "White",
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "ref": null
+    },
+    {
+        "field": "White",
+        "fct": "addColor",
+        "name": "White",
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "ref": null
+    },
+    {
+        "field": "Silver",
+        "fct": "addColor",
+        "name": "Silver",
+        "r": 0.753,
+        "g": 0.753,
+        "b": 0.753,
+        "ref": null
+    },
+    {
+        "field": "Gray",
+        "fct": "addColor",
+        "name": "Gray",
+        "r": 0.502,
+        "g": 0.502,
+        "b": 0.502,
+        "ref": null
+    },
+    {
+        "field": "Red",
+        "fct": "addColor",
+        "name": "Red",
+        "r": 1.0,
+        "g": 0.0,
+        "b": 0.0,
+        "ref": null
+    },
+    {
+        "field": "Maroon",
+        "fct": "addColor",
+        "name": "Maroon",
+        "r": 0.502,
+        "g": 0.0,
+        "b": 0.0,
+        "ref": null
+    },
+    {
+        "field": "Yellow",
+        "fct": "addColor",
+        "name": "Yellow",
+        "r": 1.0,
+        "g": 1.0,
+        "b": 0.0,
+        "ref": null
+    },
+    {
+        "field": "Olive",
+        "fct": "addColor",
+        "name": "Olive",
+        "r": 0.502,
+        "g": 0.502,
+        "b": 0.0,
+        "ref": null
+    },
+    {
+        "field": "Lime",
+        "fct": "addColor",
+        "name": "Lime",
+        "r": 0.0,
+        "g": 1.0,
+        "b": 0.0,
+        "ref": null
+    },
+    {
+        "field": "Green",
+        "fct": "addColor",
+        "name": "Green",
+        "r": 0.0,
+        "g": 0.502,
+        "b": 0.0,
+        "ref": null
+    },
+    {
+        "field": "Aqua",
+        "fct": "addColor",
+        "name": "Cyan",
+        "r": 0.0,
+        "g": 1.0,
+        "b": 1.0,
+        "ref": "Cyan"
+    },
+    {
+        "field": "Teal",
+        "fct": "addColor",
+        "name": "Teal",
+        "r": 0.0,
+        "g": 0.502,
+        "b": 0.502,
+        "ref": null
+    },
+    {
+        "field": "Blue",
+        "fct": "addColor",
+        "name": "Blue",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 1.0,
+        "ref": null
+    },
+    {
+        "field": "Navy",
+        "fct": "addColor",
+        "name": "Navy",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.502,
+        "ref": null
+    },
+    {
+        "field": "Fuchsia",
+        "fct": "addColor",
+        "name": "Magenta",
+        "r": 1.0,
+        "g": 0.0,
+        "b": 1.0,
+        "ref": "Magenta"
+    },
+    {
+        "field": "Purple",
+        "fct": "addColor",
+        "name": "Purple",
+        "r": 0.502,
+        "g": 0.0,
+        "b": 0.502,
+        "ref": null
+    },
+    {
+        "field": "Orange",
+        "fct": "addColor",
+        "name": "Orange",
+        "r": 1.0,
+        "g": 0.647,
+        "b": 0.0,
+        "ref": null
+    },
+    {
+        "field": "Pink",
+        "fct": "addColor",
+        "name": "Pink",
+        "r": 1.0,
+        "g": 0.753,
+        "b": 0.796,
+        "ref": null
+    },
+    {
+        "field": "Brown",
+        "fct": "addColor",
+        "name": "Brown",
+        "r": 0.647,
+        "g": 0.165,
+        "b": 0.165,
+        "ref": null
+    },
+    {
+        "field": "Gainsboro",
+        "fct": "addColor",
+        "name": "Gainsboro",
+        "r": 0.863,
+        "g": 0.863,
+        "b": 0.863,
+        "ref": null
+    },
+    {
+        "field": "LightGray",
+        "fct": "addColor",
+        "name": "LightGray",
+        "r": 0.827,
+        "g": 0.827,
+        "b": 0.827,
+        "ref": null
+    },
+    {
+        "field": "DarkGray",
+        "fct": "addColor",
+        "name": "DarkGray",
+        "r": 0.663,
+        "g": 0.663,
+        "b": 0.663,
+        "ref": null
+    },
+    {
+        "field": "DimGray",
+        "fct": "addColor",
+        "name": "DimGray",
+        "r": 0.412,
+        "g": 0.412,
+        "b": 0.412,
+        "ref": null
+    },
+    {
+        "field": "LightSlateGray",
+        "fct": "addColor",
+        "name": "LightSlateGray",
+        "r": 0.467,
+        "g": 0.533,
+        "b": 0.6,
+        "ref": null
+    },
+    {
+        "field": "SlateGray",
+        "fct": "addColor",
+        "name": "SlateGray",
+        "r": 0.439,
+        "g": 0.502,
+        "b": 0.565,
+        "ref": null
+    },
+    {
+        "field": "DarkSlateGray",
+        "fct": "addColor",
+        "name": "DarkSlateGray",
+        "r": 0.184,
+        "g": 0.31,
+        "b": 0.31,
+        "ref": null
+    },
+    {
+        "field": "IndianRed",
+        "fct": "addColor",
+        "name": "IndianRed",
+        "r": 0.804,
+        "g": 0.361,
+        "b": 0.361,
+        "ref": null
+    },
+    {
+        "field": "LightCoral",
+        "fct": "addColor",
+        "name": "LightCoral",
+        "r": 0.941,
+        "g": 0.502,
+        "b": 0.502,
+        "ref": null
+    },
+    {
+        "field": "Salmon",
+        "fct": "addColor",
+        "name": "Salmon",
+        "r": 0.98,
+        "g": 0.502,
+        "b": 0.447,
+        "ref": null
+    },
+    {
+        "field": "DarkSalmon",
+        "fct": "addColor",
+        "name": "DarkSalmon",
+        "r": 0.914,
+        "g": 0.588,
+        "b": 0.478,
+        "ref": null
+    },
+    {
+        "field": "LightSalmon",
+        "fct": "addColor",
+        "name": "LightSalmon",
+        "r": 1.0,
+        "g": 0.627,
+        "b": 0.478,
+        "ref": null
+    },
+    {
+        "field": "Crimson",
+        "fct": "addColor",
+        "name": "Crimson",
+        "r": 0.863,
+        "g": 0.0784,
+        "b": 0.235,
+        "ref": null
+    },
+    {
+        "field": "FireBrick",
+        "fct": "addColor",
+        "name": "FireBrick",
+        "r": 0.698,
+        "g": 0.133,
+        "b": 0.133,
+        "ref": null
+    },
+    {
+        "field": "DarkRed",
+        "fct": "addColor",
+        "name": "DarkRed",
+        "r": 0.545,
+        "g": 0.0,
+        "b": 0.0,
+        "ref": null
+    },
+    {
+        "field": "LightPink",
+        "fct": "addColor",
+        "name": "LightPink",
+        "r": 1.0,
+        "g": 0.714,
+        "b": 0.757,
+        "ref": null
+    },
+    {
+        "field": "HotPink",
+        "fct": "addColor",
+        "name": "HotPink",
+        "r": 1.0,
+        "g": 0.412,
+        "b": 0.706,
+        "ref": null
+    },
+    {
+        "field": "DeepPink",
+        "fct": "addColor",
+        "name": "DeepPink",
+        "r": 1.0,
+        "g": 0.0784,
+        "b": 0.576,
+        "ref": null
+    },
+    {
+        "field": "MediumVioletRed",
+        "fct": "addColor",
+        "name": "MediumVioletRed",
+        "r": 0.78,
+        "g": 0.0824,
+        "b": 0.522,
+        "ref": null
+    },
+    {
+        "field": "PaleVioletRed",
+        "fct": "addColor",
+        "name": "PaleVioletRed",
+        "r": 0.859,
+        "g": 0.439,
+        "b": 0.576,
+        "ref": null
+    },
+    {
+        "field": "Coral",
+        "fct": "addColor",
+        "name": "Coral",
+        "r": 1.0,
+        "g": 0.498,
+        "b": 0.314,
+        "ref": null
+    },
+    {
+        "field": "Tomato",
+        "fct": "addColor",
+        "name": "Tomato",
+        "r": 1.0,
+        "g": 0.388,
+        "b": 0.278,
+        "ref": null
+    },
+    {
+        "field": "OrangeRed",
+        "fct": "addColor",
+        "name": "OrangeRed",
+        "r": 1.0,
+        "g": 0.271,
+        "b": 0.0,
+        "ref": null
+    },
+    {
+        "field": "DarkOrange",
+        "fct": "addColor",
+        "name": "DarkOrange",
+        "r": 1.0,
+        "g": 0.549,
+        "b": 0.0,
+        "ref": null
+    },
+    {
+        "field": "Gold",
+        "fct": "addColor",
+        "name": "Gold",
+        "r": 1.0,
+        "g": 0.843,
+        "b": 0.0,
+        "ref": null
+    },
+    {
+        "field": "LightYellow",
+        "fct": "addColor",
+        "name": "LightYellow",
+        "r": 1.0,
+        "g": 1.0,
+        "b": 0.878,
+        "ref": null
+    },
+    {
+        "field": "LemonChiffon",
+        "fct": "addColor",
+        "name": "LemonChiffon",
+        "r": 1.0,
+        "g": 0.98,
+        "b": 0.804,
+        "ref": null
+    },
+    {
+        "field": "LightGoldenrodYellow",
+        "fct": "addColor",
+        "name": "LightGoldenrodYellow",
+        "r": 0.98,
+        "g": 0.98,
+        "b": 0.824,
+        "ref": null
+    },
+    {
+        "field": "PapayaWhip",
+        "fct": "addColor",
+        "name": "PapayaWhip",
+        "r": 1.0,
+        "g": 0.937,
+        "b": 0.835,
+        "ref": null
+    },
+    {
+        "field": "Moccasin",
+        "fct": "addColor",
+        "name": "Moccasin",
+        "r": 1.0,
+        "g": 0.894,
+        "b": 0.71,
+        "ref": null
+    },
+    {
+        "field": "PeachPuff",
+        "fct": "addColor",
+        "name": "PeachPuff",
+        "r": 1.0,
+        "g": 0.855,
+        "b": 0.725,
+        "ref": null
+    },
+    {
+        "field": "PaleGoldenrod",
+        "fct": "addColor",
+        "name": "PaleGoldenrod",
+        "r": 0.933,
+        "g": 0.91,
+        "b": 0.667,
+        "ref": null
+    },
+    {
+        "field": "Khaki",
+        "fct": "addColor",
+        "name": "Khaki",
+        "r": 0.941,
+        "g": 0.902,
+        "b": 0.549,
+        "ref": null
+    },
+    {
+        "field": "DarkKhaki",
+        "fct": "addColor",
+        "name": "DarkKhaki",
+        "r": 0.741,
+        "g": 0.718,
+        "b": 0.42,
+        "ref": null
+    },
+    {
+        "field": "Lavender",
+        "fct": "addColor",
+        "name": "Lavender",
+        "r": 0.902,
+        "g": 0.902,
+        "b": 0.98,
+        "ref": null
+    },
+    {
+        "field": "Thistle",
+        "fct": "addColor",
+        "name": "Thistle",
+        "r": 0.847,
+        "g": 0.749,
+        "b": 0.847,
+        "ref": null
+    },
+    {
+        "field": "Plum",
+        "fct": "addColor",
+        "name": "Plum",
+        "r": 0.867,
+        "g": 0.627,
+        "b": 0.867,
+        "ref": null
+    },
+    {
+        "field": "Violet",
+        "fct": "addColor",
+        "name": "Violet",
+        "r": 0.933,
+        "g": 0.51,
+        "b": 0.933,
+        "ref": null
+    },
+    {
+        "field": "Orchid",
+        "fct": "addColor",
+        "name": "Orchid",
+        "r": 0.855,
+        "g": 0.439,
+        "b": 0.839,
+        "ref": null
+    },
+    {
+        "field": "MediumOrchid",
+        "fct": "addColor",
+        "name": "MediumOrchid",
+        "r": 0.729,
+        "g": 0.333,
+        "b": 0.827,
+        "ref": null
+    },
+    {
+        "field": "MediumPurple",
+        "fct": "addColor",
+        "name": "MediumPurple",
+        "r": 0.576,
+        "g": 0.439,
+        "b": 0.859,
+        "ref": null
+    },
+    {
+        "field": "RebeccaPurple",
+        "fct": "addColor",
+        "name": "RebeccaPurple",
+        "r": 0.4,
+        "g": 0.2,
+        "b": 0.6,
+        "ref": null
+    },
+    {
+        "field": "BlueViolet",
+        "fct": "addColor",
+        "name": "BlueViolet",
+        "r": 0.541,
+        "g": 0.169,
+        "b": 0.886,
+        "ref": null
+    },
+    {
+        "field": "DarkViolet",
+        "fct": "addColor",
+        "name": "DarkViolet",
+        "r": 0.58,
+        "g": 0.0,
+        "b": 0.827,
+        "ref": null
+    },
+    {
+        "field": "DarkOrchid",
+        "fct": "addColor",
+        "name": "DarkOrchid",
+        "r": 0.6,
+        "g": 0.196,
+        "b": 0.8,
+        "ref": null
+    },
+    {
+        "field": "DarkMagenta",
+        "fct": "addColor",
+        "name": "DarkMagenta",
+        "r": 0.545,
+        "g": 0.0,
+        "b": 0.545,
+        "ref": null
+    },
+    {
+        "field": "Indigo",
+        "fct": "addColor",
+        "name": "Indigo",
+        "r": 0.294,
+        "g": 0.0,
+        "b": 0.51,
+        "ref": null
+    },
+    {
+        "field": "SlateBlue",
+        "fct": "addColor",
+        "name": "SlateBlue",
+        "r": 0.416,
+        "g": 0.353,
+        "b": 0.804,
+        "ref": null
+    },
+    {
+        "field": "DarkSlateBlue",
+        "fct": "addColor",
+        "name": "DarkSlateBlue",
+        "r": 0.282,
+        "g": 0.239,
+        "b": 0.545,
+        "ref": null
+    },
+    {
+        "field": "MediumSlateBlue",
+        "fct": "addColor",
+        "name": "MediumSlateBlue",
+        "r": 0.482,
+        "g": 0.408,
+        "b": 0.933,
+        "ref": null
+    },
+    {
+        "field": "GreenYellow",
+        "fct": "addColor",
+        "name": "GreenYellow",
+        "r": 0.678,
+        "g": 1.0,
+        "b": 0.184,
+        "ref": null
+    },
+    {
+        "field": "Chartreuse",
+        "fct": "addColor",
+        "name": "Chartreuse",
+        "r": 0.498,
+        "g": 1.0,
+        "b": 0.0,
+        "ref": null
+    },
+    {
+        "field": "LawnGreen",
+        "fct": "addColor",
+        "name": "LawnGreen",
+        "r": 0.486,
+        "g": 0.988,
+        "b": 0.0,
+        "ref": null
+    },
+    {
+        "field": "LimeGreen",
+        "fct": "addColor",
+        "name": "LimeGreen",
+        "r": 0.196,
+        "g": 0.804,
+        "b": 0.196,
+        "ref": null
+    },
+    {
+        "field": "PaleGreen",
+        "fct": "addColor",
+        "name": "PaleGreen",
+        "r": 0.596,
+        "g": 0.984,
+        "b": 0.596,
+        "ref": null
+    },
+    {
+        "field": "LightGreen",
+        "fct": "addColor",
+        "name": "LightGreen",
+        "r": 0.565,
+        "g": 0.933,
+        "b": 0.565,
+        "ref": null
+    },
+    {
+        "field": "MediumSpringGreen",
+        "fct": "addColor",
+        "name": "MediumSpringGreen",
+        "r": 0.0,
+        "g": 0.98,
+        "b": 0.604,
+        "ref": null
+    },
+    {
+        "field": "SpringGreen",
+        "fct": "addColor",
+        "name": "SpringGreen",
+        "r": 0.0,
+        "g": 1.0,
+        "b": 0.498,
+        "ref": null
+    },
+    {
+        "field": "MediumSeaGreen",
+        "fct": "addColor",
+        "name": "MediumSeaGreen",
+        "r": 0.235,
+        "g": 0.702,
+        "b": 0.443,
+        "ref": null
+    },
+    {
+        "field": "SeaGreen",
+        "fct": "addColor",
+        "name": "SeaGreen",
+        "r": 0.18,
+        "g": 0.545,
+        "b": 0.341,
+        "ref": null
+    },
+    {
+        "field": "ForestGreen",
+        "fct": "addColor",
+        "name": "ForestGreen",
+        "r": 0.133,
+        "g": 0.545,
+        "b": 0.133,
+        "ref": null
+    },
+    {
+        "field": "DarkGreen",
+        "fct": "addColor",
+        "name": "DarkGreen",
+        "r": 0.0,
+        "g": 0.392,
+        "b": 0.0,
+        "ref": null
+    },
+    {
+        "field": "YellowGreen",
+        "fct": "addColor",
+        "name": "YellowGreen",
+        "r": 0.604,
+        "g": 0.804,
+        "b": 0.196,
+        "ref": null
+    },
+    {
+        "field": "OliveDrab",
+        "fct": "addColor",
+        "name": "OliveDrab",
+        "r": 0.42,
+        "g": 0.557,
+        "b": 0.137,
+        "ref": null
+    },
+    {
+        "field": "DarkOliveGreen",
+        "fct": "addColor",
+        "name": "DarkOliveGreen",
+        "r": 0.333,
+        "g": 0.42,
+        "b": 0.184,
+        "ref": null
+    },
+    {
+        "field": "MediumAquamarine",
+        "fct": "addColor",
+        "name": "MediumAquamarine",
+        "r": 0.4,
+        "g": 0.804,
+        "b": 0.667,
+        "ref": null
+    },
+    {
+        "field": "DarkSeaGreen",
+        "fct": "addColor",
+        "name": "DarkSeaGreen",
+        "r": 0.561,
+        "g": 0.737,
+        "b": 0.545,
+        "ref": null
+    },
+    {
+        "field": "LightSeaGreen",
+        "fct": "addColor",
+        "name": "LightSeaGreen",
+        "r": 0.125,
+        "g": 0.698,
+        "b": 0.667,
+        "ref": null
+    },
+    {
+        "field": "DarkCyan",
+        "fct": "addColor",
+        "name": "DarkCyan",
+        "r": 0.0,
+        "g": 0.545,
+        "b": 0.545,
+        "ref": null
+    },
+    {
+        "field": "LightCyan",
+        "fct": "addColor",
+        "name": "LightCyan",
+        "r": 0.878,
+        "g": 1.0,
+        "b": 1.0,
+        "ref": null
+    },
+    {
+        "field": "PaleTurquoise",
+        "fct": "addColor",
+        "name": "PaleTurquoise",
+        "r": 0.686,
+        "g": 0.933,
+        "b": 0.933,
+        "ref": null
+    },
+    {
+        "field": "Aquamarine",
+        "fct": "addColor",
+        "name": "Aquamarine",
+        "r": 0.498,
+        "g": 1.0,
+        "b": 0.831,
+        "ref": null
+    },
+    {
+        "field": "Turquoise",
+        "fct": "addColor",
+        "name": "Turquoise",
+        "r": 0.251,
+        "g": 0.878,
+        "b": 0.816,
+        "ref": null
+    },
+    {
+        "field": "MediumTurquoise",
+        "fct": "addColor",
+        "name": "MediumTurquoise",
+        "r": 0.282,
+        "g": 0.82,
+        "b": 0.8,
+        "ref": null
+    },
+    {
+        "field": "DarkTurquoise",
+        "fct": "addColor",
+        "name": "DarkTurquoise",
+        "r": 0.0,
+        "g": 0.808,
+        "b": 0.82,
+        "ref": null
+    },
+    {
+        "field": "CadetBlue",
+        "fct": "addColor",
+        "name": "CadetBlue",
+        "r": 0.373,
+        "g": 0.62,
+        "b": 0.627,
+        "ref": null
+    },
+    {
+        "field": "SteelBlue",
+        "fct": "addColor",
+        "name": "SteelBlue",
+        "r": 0.275,
+        "g": 0.51,
+        "b": 0.706,
+        "ref": null
+    },
+    {
+        "field": "LightSteelBlue",
+        "fct": "addColor",
+        "name": "LightSteelBlue",
+        "r": 0.69,
+        "g": 0.769,
+        "b": 0.871,
+        "ref": null
+    },
+    {
+        "field": "PowderBlue",
+        "fct": "addColor",
+        "name": "PowderBlue",
+        "r": 0.69,
+        "g": 0.878,
+        "b": 0.902,
+        "ref": null
+    },
+    {
+        "field": "LightBlue",
+        "fct": "addColor",
+        "name": "LightBlue",
+        "r": 0.678,
+        "g": 0.847,
+        "b": 0.902,
+        "ref": null
+    },
+    {
+        "field": "SkyBlue",
+        "fct": "addColor",
+        "name": "SkyBlue",
+        "r": 0.529,
+        "g": 0.808,
+        "b": 0.922,
+        "ref": null
+    },
+    {
+        "field": "LightSkyBlue",
+        "fct": "addColor",
+        "name": "LightSkyBlue",
+        "r": 0.529,
+        "g": 0.808,
+        "b": 0.98,
+        "ref": null
+    },
+    {
+        "field": "DeepSkyBlue",
+        "fct": "addColor",
+        "name": "DeepSkyBlue",
+        "r": 0.0,
+        "g": 0.749,
+        "b": 1.0,
+        "ref": null
+    },
+    {
+        "field": "DodgerBlue",
+        "fct": "addColor",
+        "name": "DodgerBlue",
+        "r": 0.118,
+        "g": 0.565,
+        "b": 1.0,
+        "ref": null
+    },
+    {
+        "field": "CornFlowerBlue",
+        "fct": "addColor",
+        "name": "CornFlowerBlue",
+        "r": 0.392,
+        "g": 0.584,
+        "b": 0.929,
+        "ref": null
+    },
+    {
+        "field": "RoyalBlue",
+        "fct": "addColor",
+        "name": "RoyalBlue",
+        "r": 0.255,
+        "g": 0.412,
+        "b": 0.882,
+        "ref": null
+    },
+    {
+        "field": "MediumBlue",
+        "fct": "addColor",
+        "name": "MediumBlue",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.804,
+        "ref": null
+    },
+    {
+        "field": "DarkBlue",
+        "fct": "addColor",
+        "name": "DarkBlue",
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.545,
+        "ref": null
+    },
+    {
+        "field": "MidnightBlue",
+        "fct": "addColor",
+        "name": "MidnightBlue",
+        "r": 0.098,
+        "g": 0.098,
+        "b": 0.439,
+        "ref": null
+    },
+    {
+        "field": "Cornsilk",
+        "fct": "addColor",
+        "name": "Cornsilk",
+        "r": 1.0,
+        "g": 0.973,
+        "b": 0.863,
+        "ref": null
+    },
+    {
+        "field": "BlanchedAlmond",
+        "fct": "addColor",
+        "name": "BlanchedAlmond",
+        "r": 1.0,
+        "g": 0.922,
+        "b": 0.804,
+        "ref": null
+    },
+    {
+        "field": "Bisque",
+        "fct": "addColor",
+        "name": "Bisque",
+        "r": 1.0,
+        "g": 0.894,
+        "b": 0.769,
+        "ref": null
+    },
+    {
+        "field": "NavajoWhite",
+        "fct": "addColor",
+        "name": "NavajoWhite",
+        "r": 1.0,
+        "g": 0.871,
+        "b": 0.678,
+        "ref": null
+    },
+    {
+        "field": "Wheat",
+        "fct": "addColor",
+        "name": "Wheat",
+        "r": 0.961,
+        "g": 0.871,
+        "b": 0.702,
+        "ref": null
+    },
+    {
+        "field": "BurlyWood",
+        "fct": "addColor",
+        "name": "BurlyWood",
+        "r": 0.871,
+        "g": 0.722,
+        "b": 0.529,
+        "ref": null
+    },
+    {
+        "field": "Tan",
+        "fct": "addColor",
+        "name": "Tan",
+        "r": 0.824,
+        "g": 0.706,
+        "b": 0.549,
+        "ref": null
+    },
+    {
+        "field": "RosyBrown",
+        "fct": "addColor",
+        "name": "RosyBrown",
+        "r": 0.737,
+        "g": 0.561,
+        "b": 0.561,
+        "ref": null
+    },
+    {
+        "field": "SandyBrown",
+        "fct": "addColor",
+        "name": "SandyBrown",
+        "r": 0.957,
+        "g": 0.643,
+        "b": 0.376,
+        "ref": null
+    },
+    {
+        "field": "Goldenrod",
+        "fct": "addColor",
+        "name": "Goldenrod",
+        "r": 0.855,
+        "g": 0.647,
+        "b": 0.125,
+        "ref": null
+    },
+    {
+        "field": "DarkGoldenrod",
+        "fct": "addColor",
+        "name": "DarkGoldenrod",
+        "r": 0.722,
+        "g": 0.525,
+        "b": 0.0431,
+        "ref": null
+    },
+    {
+        "field": "Peru",
+        "fct": "addColor",
+        "name": "Peru",
+        "r": 0.804,
+        "g": 0.522,
+        "b": 0.247,
+        "ref": null
+    },
+    {
+        "field": "Chocolate",
+        "fct": "addColor",
+        "name": "Chocolate",
+        "r": 0.824,
+        "g": 0.412,
+        "b": 0.118,
+        "ref": null
+    },
+    {
+        "field": "SaddleBrown",
+        "fct": "addColor",
+        "name": "SaddleBrown",
+        "r": 0.545,
+        "g": 0.271,
+        "b": 0.0745,
+        "ref": null
+    },
+    {
+        "field": "Sienna",
+        "fct": "addColor",
+        "name": "Sienna",
+        "r": 0.627,
+        "g": 0.322,
+        "b": 0.176,
+        "ref": null
+    },
+    {
+        "field": "Snow",
+        "fct": "addColor",
+        "name": "Snow",
+        "r": 1.0,
+        "g": 0.98,
+        "b": 0.98,
+        "ref": null
+    },
+    {
+        "field": "HoneyDew",
+        "fct": "addColor",
+        "name": "HoneyDew",
+        "r": 0.941,
+        "g": 1.0,
+        "b": 0.941,
+        "ref": null
+    },
+    {
+        "field": "MintCream",
+        "fct": "addColor",
+        "name": "MintCream",
+        "r": 0.961,
+        "g": 1.0,
+        "b": 0.98,
+        "ref": null
+    },
+    {
+        "field": "Azure",
+        "fct": "addColor",
+        "name": "Azure",
+        "r": 0.941,
+        "g": 1.0,
+        "b": 1.0,
+        "ref": null
+    },
+    {
+        "field": "AliceBlue",
+        "fct": "addColor",
+        "name": "AliceBlue",
+        "r": 0.941,
+        "g": 0.973,
+        "b": 1.0,
+        "ref": null
+    },
+    {
+        "field": "GhostWhite",
+        "fct": "addColor",
+        "name": "GhostWhite",
+        "r": 0.973,
+        "g": 0.973,
+        "b": 1.0,
+        "ref": null
+    },
+    {
+        "field": "WhiteSmoke",
+        "fct": "addColor",
+        "name": "WhiteSmoke",
+        "r": 0.961,
+        "g": 0.961,
+        "b": 0.961,
+        "ref": null
+    },
+    {
+        "field": "SeaShell",
+        "fct": "addColor",
+        "name": "SeaShell",
+        "r": 1.0,
+        "g": 0.961,
+        "b": 0.933,
+        "ref": null
+    },
+    {
+        "field": "Beige",
+        "fct": "addColor",
+        "name": "Beige",
+        "r": 0.961,
+        "g": 0.961,
+        "b": 0.863,
+        "ref": null
+    },
+    {
+        "field": "OldLace",
+        "fct": "addColor",
+        "name": "OldLace",
+        "r": 0.992,
+        "g": 0.961,
+        "b": 0.902,
+        "ref": null
+    },
+    {
+        "field": "FloralWhite",
+        "fct": "addColor",
+        "name": "FloralWhite",
+        "r": 1.0,
+        "g": 0.98,
+        "b": 0.941,
+        "ref": null
+    },
+    {
+        "field": "Ivory",
+        "fct": "addColor",
+        "name": "Ivory",
+        "r": 1.0,
+        "g": 1.0,
+        "b": 0.941,
+        "ref": null
+    },
+    {
+        "field": "AntiqueWhite",
+        "fct": "addColor",
+        "name": "AntiqueWhite",
+        "r": 0.98,
+        "g": 0.922,
+        "b": 0.843,
+        "ref": null
+    },
+    {
+        "field": "Linen",
+        "fct": "addColor",
+        "name": "Linen",
+        "r": 0.98,
+        "g": 0.941,
+        "b": 0.902,
+        "ref": null
+    },
+    {
+        "field": "LavenderBlush",
+        "fct": "addColor",
+        "name": "LavenderBlush",
+        "r": 1.0,
+        "g": 0.941,
+        "b": 0.961,
+        "ref": null
+    },
+    {
+        "field": "MistyRose",
+        "fct": "addColor",
+        "name": "MistyRose",
+        "r": 1.0,
+        "g": 0.894,
+        "b": 0.882,
+        "ref": null
+    },
+    {
+        "field": "Grenadine",
+        "fct": "addColor",
+        "name": "Grenadine",
+        "r": 0.674,
+        "g": 0.329,
+        "b": 0.368,
+        "ref": null
+    },
+    {
+        "field": "Cola",
+        "fct": "addColor",
+        "name": "Cola",
+        "r": 0.235,
+        "g": 0.184,
+        "b": 0.137,
+        "ref": null
+    },
+    {
+        "field": "Ginger",
+        "fct": "addColor",
+        "name": "Ginger",
+        "r": 0.69,
+        "g": 0.396,
+        "b": 0.0,
+        "ref": null
+    },
+    {
+        "field": "FruitPunch",
+        "fct": "addColor",
+        "name": "FruitPunch",
+        "r": 0.807,
+        "g": 0.239,
+        "b": 0.282,
+        "ref": null
+    },
+    {
+        "field": "Fuchsia",
+        "fct": "addColor",
+        "name": "Magenta",
+        "r": 1.0,
+        "g": 0.0,
+        "b": 1.0,
+        "ref": "Magenta"
+    },
+    {
+        "field": "Aqua",
+        "fct": "addColor",
+        "name": "Cyan",
+        "r": 0.0,
+        "g": 1.0,
+        "b": 1.0,
+        "ref": "Cyan"
+    }
+]
