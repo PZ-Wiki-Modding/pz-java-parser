@@ -3,9 +3,9 @@ Parses the Colors.java file to extract available colors, notably used in
 some Scripts like the fluid block or by the game at different places.
 
 Colors can be of 3 types depending on the function used to create them:
-- addGameColor
+- addGameColor (valid for fluid blocks)
 - addColorCB
-- addColor
+- addColor (valid for fluid blocks)
 
 I don't know what the different is as I haven't checked tho but figured that 
 info might be important anyway to store
