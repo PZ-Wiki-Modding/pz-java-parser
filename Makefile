@@ -17,14 +17,16 @@ help:
 
 decompile:
 # download the latest release of ZomboidDecompiler.zip from GitHub
-# 	@echo "Downloading ZomboidDecompiler.zip..."
-# 	@curl -s https://api.github.com/repos/demiurgeQuantified/ZomboidDecompiler/releases/latest | grep -oE 'https://github\.com/[^"]*ZomboidDecompiler\.zip' | head -n1 | xargs curl -L -o ZomboidDecompiler.zip
-# 	@echo "Download complete: ZomboidDecompiler.zip"
-
-# unzip
-# 	@echo "Unzipping ZomboidDecompiler.zip..."
-# 	@unzip -o ZomboidDecompiler.zip -d ./
-# 	@echo "Unzip complete"
+	@if [ ! -d "ZomboidDecompiler" ]; then \
+		echo "Downloading ZomboidDecompiler.zip..."; \
+		curl -s https://api.github.com/repos/demiurgeQuantified/ZomboidDecompiler/releases/latest | grep -oE 'https://github\.com/[^"]*ZomboidDecompiler\.zip' | head -n1 | xargs curl -L -o ZomboidDecompiler.zip; \
+		echo "Download complete: ZomboidDecompiler.zip"; \
+		echo "Unzipping ZomboidDecompiler.zip..."; \
+		unzip -o ZomboidDecompiler.zip -d ./; \
+		echo "Unzip complete"; \
+	else \
+		echo "ZomboidDecompiler already present"; \
+	fi
 
 # run decompiler
 	cd ZomboidDecompiler
@@ -33,6 +35,6 @@ decompile:
 	@echo "Decompiler finished"
 
 
-run:
+run: decompile
 	@echo "Fetch colors"
 	./.venv/bin/python ./scripts/colors.py
