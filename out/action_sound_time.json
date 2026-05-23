@@ -1,0 +1,14 @@
+[
+    {
+        "enum": "ACTION_START",
+        "name": "action_start"
+    },
+    {
+        "enum": "ANIMATION_EVENT",
+        "name": "animation_event"
+    },
+    {
+        "enum": "ANIMATION_START",
+        "name": "animation_start"
+    }
+]
