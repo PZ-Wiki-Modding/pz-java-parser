@@ -36,5 +36,8 @@ decompile:
 
 
 run: decompile
-	@echo "Fetch colors"
 	./.venv/bin/python ./scripts/colors.py
+	./.venv/bin/python ./scripts/item_tags.py
+	./.venv/bin/python ./scripts/magazine_subjects.py
+	./.venv/bin/python ./scripts/metabolics.py
+	./.venv/bin/python ./scripts/action_sound_time.py
