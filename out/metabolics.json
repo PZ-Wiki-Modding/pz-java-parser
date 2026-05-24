@@ -1,0 +1,98 @@
+[
+    {
+        "enum": "Sleeping",
+        "value": 0.8
+    },
+    {
+        "enum": "SeatedResting",
+        "value": 1.0
+    },
+    {
+        "enum": "StandingAtRest",
+        "value": 1.1
+    },
+    {
+        "enum": "SedentaryActivity",
+        "value": 1.2
+    },
+    {
+        "enum": "Default",
+        "value": 1.5
+    },
+    {
+        "enum": "DrivingCar",
+        "value": 1.4
+    },
+    {
+        "enum": "LightDomestic",
+        "value": 1.6
+    },
+    {
+        "enum": "HeavyDomestic",
+        "value": 2.0
+    },
+    {
+        "enum": "DefaultExercise",
+        "value": 3.0
+    },
+    {
+        "enum": "UsingTools",
+        "value": 2.5
+    },
+    {
+        "enum": "LightWork",
+        "value": 3.2
+    },
+    {
+        "enum": "MediumWork",
+        "value": 3.9
+    },
+    {
+        "enum": "DiggingSpade",
+        "value": 5.5
+    },
+    {
+        "enum": "HeavyWork",
+        "value": 6.0
+    },
+    {
+        "enum": "ForestryAxe",
+        "value": 8.0
+    },
+    {
+        "enum": "Walking2kmh",
+        "value": 1.9
+    },
+    {
+        "enum": "Walking5kmh",
+        "value": 3.1
+    },
+    {
+        "enum": "Running10kmh",
+        "value": 6.9
+    },
+    {
+        "enum": "Running15kmh",
+        "value": 9.5
+    },
+    {
+        "enum": "JumpFence",
+        "value": 4.0
+    },
+    {
+        "enum": "ClimbRope",
+        "value": 8.0
+    },
+    {
+        "enum": "Fitness",
+        "value": 6.0
+    },
+    {
+        "enum": "FitnessHeavy",
+        "value": 9.0
+    },
+    {
+        "enum": "MAX",
+        "value": 10.3
+    }
+]
