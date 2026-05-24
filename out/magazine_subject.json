@@ -1,0 +1,98 @@
+[
+    {
+        "field": "ART",
+        "name": "Art"
+    },
+    {
+        "field": "BUSINESS",
+        "name": "Business"
+    },
+    {
+        "field": "CARS",
+        "name": "Cars"
+    },
+    {
+        "field": "CHILDS",
+        "name": "Childs"
+    },
+    {
+        "field": "CINEMA",
+        "name": "Cinema"
+    },
+    {
+        "field": "CRIME",
+        "name": "Crime"
+    },
+    {
+        "field": "FASHION",
+        "name": "Fashion"
+    },
+    {
+        "field": "FIREARM",
+        "name": "Firearm"
+    },
+    {
+        "field": "GAMING",
+        "name": "Gaming"
+    },
+    {
+        "field": "GOLF",
+        "name": "Golf"
+    },
+    {
+        "field": "HEALTH",
+        "name": "Health"
+    },
+    {
+        "field": "HOBBY",
+        "name": "Hobby"
+    },
+    {
+        "field": "HORROR",
+        "name": "Horror"
+    },
+    {
+        "field": "HUMOR",
+        "name": "Humor"
+    },
+    {
+        "field": "MILITARY",
+        "name": "Military"
+    },
+    {
+        "field": "MUSIC",
+        "name": "Music"
+    },
+    {
+        "field": "OUTDOORS",
+        "name": "Outdoors"
+    },
+    {
+        "field": "POLICE",
+        "name": "Police"
+    },
+    {
+        "field": "POPULAR",
+        "name": "Popular"
+    },
+    {
+        "field": "RICH",
+        "name": "Rich"
+    },
+    {
+        "field": "SCIENCE",
+        "name": "Science"
+    },
+    {
+        "field": "SPORTS",
+        "name": "Sports"
+    },
+    {
+        "field": "TECH",
+        "name": "Tech"
+    },
+    {
+        "field": "TEENS",
+        "name": "Teens"
+    }
+]
