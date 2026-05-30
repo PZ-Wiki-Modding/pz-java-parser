@@ -41,3 +41,4 @@ run: decompile
 	./.venv/bin/python ./scripts/magazine_subjects.py
 	./.venv/bin/python ./scripts/metabolics.py
 	./.venv/bin/python ./scripts/action_sound_time.py
+	./.venv/bin/python ./scripts/sound_keys.py
