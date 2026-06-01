@@ -2168,6 +2168,18 @@
         "id": "CarBatteryChargerRunning"
     },
     {
+        "field": "CASH_REGISTER_CLOSE",
+        "id": "CashRegisterClose"
+    },
+    {
+        "field": "CASH_REGISTER_OPEN",
+        "id": "CashRegisterOpen"
+    },
+    {
+        "field": "CASH_REGISTER_TRANSFER_ITEM",
+        "id": "CashRegisterTransferItem"
+    },
+    {
         "field": "CAST_FISHING_LINE",
         "id": "CastFishingLine"
     },
@@ -3066,6 +3078,18 @@
     {
         "field": "DIG_FURROW_WITH_TROWEL",
         "id": "DigFurrowWithTrowel"
+    },
+    {
+        "field": "DISHWASHER_CLOSE",
+        "id": "DishwasherClose"
+    },
+    {
+        "field": "DISHWASHER_OPEN",
+        "id": "DishwasherOpen"
+    },
+    {
+        "field": "DISHWASHER_TRANSFER_ITEM",
+        "id": "DishwasherTransferItem"
     },
     {
         "field": "DISMANTLE",
@@ -5028,6 +5052,10 @@
         "id": "LargeKnifeSwing"
     },
     {
+        "field": "LAUNDRY_CART_TRANSFER_ITEM",
+        "id": "LaundryCartTransferItem"
+    },
+    {
         "field": "LEAD_PIPE_BREAK",
         "id": "LeadPipeBreak"
     },
@@ -5146,6 +5174,10 @@
     {
         "field": "LOG_REMOVE_FROM_STACK",
         "id": "LogRemoveFromStack"
+    },
+    {
+        "field": "LOG_STACK_TRANSFER_ITEM",
+        "id": "LogStackTransferItem"
     },
     {
         "field": "LONG_CRUDE_SPEAR_BREAK",
@@ -5854,6 +5886,30 @@
     {
         "field": "MAGNUM_UN_EQUIP",
         "id": "MagnumUnEquip"
+    },
+    {
+        "field": "MAILBOX_LARGE_CLOSE",
+        "id": "MailboxLargeClose"
+    },
+    {
+        "field": "MAILBOX_LARGE_OPEN",
+        "id": "MailboxLargeOpen"
+    },
+    {
+        "field": "MAILBOX_LARGE_TRANSFER_ITEM",
+        "id": "MailboxLargeTransferItem"
+    },
+    {
+        "field": "MAILBOX_SMALL_CLOSE",
+        "id": "MailboxSmallClose"
+    },
+    {
+        "field": "MAILBOX_SMALL_OPEN",
+        "id": "MailboxSmallOpen"
+    },
+    {
+        "field": "MAILBOX_SMALL_TRANSFER_ITEM",
+        "id": "MailboxSmallTransferItem"
     },
     {
         "field": "MAKE_CHUM_BASE",
@@ -8872,6 +8928,10 @@
         "id": "SliceBread"
     },
     {
+        "field": "SLICE_FOOD",
+        "id": "SliceFood"
+    },
+    {
         "field": "SLICE_MEAT",
         "id": "SliceMeat"
     },
@@ -10220,6 +10280,18 @@
         "id": "TentAmbiance"
     },
     {
+        "field": "TENT_CLOSE",
+        "id": "TentClose"
+    },
+    {
+        "field": "TENT_OPEN",
+        "id": "TentOpen"
+    },
+    {
+        "field": "TENT_TRANSFER_ITEM",
+        "id": "TentTransferItem"
+    },
+    {
         "field": "TENT_PUT_UP",
         "id": "TentPutUp"
     },
@@ -10620,6 +10692,10 @@
         "id": "VehicleBackUpBeeper"
     },
     {
+        "field": "VEHICLE_CARSEAT_TRANSFER_ITEM",
+        "id": "VehicleCarseatTransferItem"
+    },
+    {
         "field": "VEHICLE_CHANGE_SEAT",
         "id": "VehicleChangeSeat"
     },
@@ -10770,6 +10846,18 @@
     {
         "field": "VEHICLE_ENGINE_VAN",
         "id": "VehicleEngineVan"
+    },
+    {
+        "field": "VEHICLE_GLOVEBOX_CLOSE",
+        "id": "VehicleGloveboxClose"
+    },
+    {
+        "field": "VEHICLE_GLOVEBOX_OPEN",
+        "id": "VehicleGloveboxOpen"
+    },
+    {
+        "field": "VEHICLE_GLOVEBOX_TRANSFER_ITEM",
+        "id": "VehicleGloveboxTransferItem"
     },
     {
         "field": "VEHICLE_GO_TO_SLEEP",
@@ -11156,6 +11244,10 @@
         "id": "VehicleTrunkOpenVan"
     },
     {
+        "field": "VEHICLE_TRUNK_TRANSFER_ITEM",
+        "id": "VehicleTrunkTransferItem"
+    },
+    {
         "field": "VEHICLE_TRUNK_UNLOCK_JEEP",
         "id": "VehicleTrunkUnlockJeep"
     },
@@ -11194,6 +11286,26 @@
     {
         "field": "VEHICLE_WINDOW_SMASH",
         "id": "VehicleWindowSmash"
+    },
+    {
+        "field": "VENDING_MACHINE_CLOSE",
+        "id": "VendingMachineClose"
+    },
+    {
+        "field": "VENDING_MACHINE_OPEN",
+        "id": "VendingMachineOpen"
+    },
+    {
+        "field": "VENDING_MACHINE_TRANSFER_ITEM",
+        "id": "VendingMachineTransferItem"
+    },
+    {
+        "field": "VENTILATION_SMALL_AMBIENCE",
+        "id": "VentilationSmallAmbience"
+    },
+    {
+        "field": "VENTILATION_LARGE_AMBIENCE",
+        "id": "VentilationLargeAmbience"
     },
     {
         "field": "VIOLIN_BREAK",
@@ -11608,6 +11720,18 @@
         "id": "WashYourself"
     },
     {
+        "field": "WASHING_MACHINE_CLOSE",
+        "id": "WashingMachineClose"
+    },
+    {
+        "field": "WASHING_MACHINE_OPEN",
+        "id": "WashingMachineOpen"
+    },
+    {
+        "field": "WASHING_MACHINE_TRANSFER_ITEM",
+        "id": "WashingMachineTransferItem"
+    },
+    {
         "field": "WATCH_ALARM_LOOP",
         "id": "WatchAlarmLoop"
     },
@@ -11618,6 +11742,10 @@
     {
         "field": "WATER_DRIP",
         "id": "WaterDrip"
+    },
+    {
+        "field": "WATER_TOWER_AMBIENCE",
+        "id": "WaterTowerAmbience"
     },
     {
         "field": "WINDOW_AMBIANCE",
