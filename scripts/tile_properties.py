@@ -29,5 +29,20 @@ with open(DATA, "r") as f:
             for key, value in obj.items():
                 property[name][key] = value
 
+# check provided data is not providing for a non-existing tile
+for name in data["objects"].keys():
+    if name not in property:
+        print(f"Warning: provided data for non-existing tile property '{name}'")
+
+# copy #desc to description
+for prop in property.values():
+    if "#desc" in prop:
+        ref = prop["#desc"]
+        if ref not in property:
+            print(f"Warning: description reference '{ref}' not found for property '{prop['field']}'")
+            continue
+        prop["description"] = property[ref]["description"]
+
+# output
 with open(OUT, "w") as out_file:
     json.dump(property, out_file, indent=4)
