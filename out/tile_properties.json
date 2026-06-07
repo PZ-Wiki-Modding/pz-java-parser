@@ -1,1118 +1,878 @@
-[
-    {
-        "field": "ALWAYS_DRAW",
-        "name": "alwaysDraw"
-    },
-    {
-        "field": "AMBIENT_SOUND",
-        "name": "AmbientSound"
-    },
-    {
-        "field": "ATTACHED_CEILING",
-        "name": "attachedCeiling"
-    },
-    {
-        "field": "ATTACHED_E",
-        "name": "attachedE"
-    },
-    {
-        "field": "ATTACHED_FLOOR",
-        "name": "AttachedFloor"
-    },
-    {
-        "field": "ATTACHED_N",
-        "name": "attachedN"
-    },
-    {
-        "field": "ATTACHED_NW",
-        "name": "attachedNW"
-    },
-    {
-        "field": "ATTACHED_S",
-        "name": "attachedS"
-    },
-    {
-        "field": "ATTACHED_SE",
-        "name": "attachedSE"
-    },
-    {
-        "field": "ATTACHED_SURFACE",
-        "name": "attachedSurface"
-    },
-    {
-        "field": "ATTACHED_TO_GLASS",
-        "name": "AttachedToGlass"
-    },
-    {
-        "field": "ATTACHED_W",
-        "name": "attachedW"
-    },
-    {
-        "field": "ATTACH_TO_STAIRS",
-        "name": "attachtostairs"
-    },
-    {
-        "field": "BED",
-        "name": "bed"
-    },
-    {
-        "field": "BED_TYPE",
-        "name": "BedType"
-    },
-    {
-        "field": "BLOCKS_PLACEMENT",
-        "name": "BlocksPlacement"
-    },
-    {
-        "field": "BLOCK_RAIN",
-        "name": "BlockRain"
-    },
-    {
-        "field": "BLOCK_SIGHT",
-        "name": "blocksight"
-    },
-    {
-        "field": "BLUEPRINT",
-        "name": "blueprint"
-    },
-    {
-        "field": "BURNING",
-        "name": "burning"
-    },
-    {
-        "field": "BURNT_OUT",
-        "name": "burntOut"
-    },
-    {
-        "field": "BURNT_TILE",
-        "name": "BurntTile"
-    },
-    {
-        "field": "BUSH",
-        "name": "Bush"
-    },
-    {
-        "field": "CANT_CLIMB",
-        "name": "CantClimb"
-    },
-    {
-        "field": "CAN_ATTACH_ANIMAL",
-        "name": "CanAttachAnimal"
-    },
-    {
-        "field": "CAN_BE_CUT",
-        "name": "canBeCut"
+{
+    "alwaysDraw": {
+        "field": "ALWAYS_DRAW"
     },
-    {
-        "field": "CAN_BE_REMOVED",
-        "name": "canBeRemoved"
+    "AmbientSound": {
+        "field": "AMBIENT_SOUND"
     },
-    {
-        "field": "CAN_BREAK",
-        "name": "CanBreak"
+    "attachedCeiling": {
+        "field": "ATTACHED_CEILING"
     },
-    {
-        "field": "CAN_PATH_N",
-        "name": "canPathN"
+    "attachedE": {
+        "field": "ATTACHED_E"
     },
-    {
-        "field": "CAN_PATH_W",
-        "name": "canPathW"
+    "AttachedFloor": {
+        "field": "ATTACHED_FLOOR"
     },
-    {
-        "field": "CAN_SCRAP",
-        "name": "CanScrap"
+    "attachedN": {
+        "field": "ATTACHED_N"
     },
-    {
-        "field": "CAR_SLOW_FACTOR",
-        "name": "CarSlowFactor"
+    "attachedNW": {
+        "field": "ATTACHED_NW"
     },
-    {
-        "field": "CHAIR_E",
-        "name": "chairE"
+    "attachedS": {
+        "field": "ATTACHED_S"
     },
-    {
-        "field": "CHAIR_N",
-        "name": "chairN"
+    "attachedSE": {
+        "field": "ATTACHED_SE"
     },
-    {
-        "field": "CHAIR_S",
-        "name": "chairS"
+    "attachedSurface": {
+        "field": "ATTACHED_SURFACE"
     },
-    {
-        "field": "CHAIR_W",
-        "name": "chairW"
+    "AttachedToGlass": {
+        "field": "ATTACHED_TO_GLASS"
     },
-    {
-        "field": "CLIMB_SHEET_E",
-        "name": "climbSheetE"
+    "attachedW": {
+        "field": "ATTACHED_W"
     },
-    {
-        "field": "CLIMB_SHEET_N",
-        "name": "climbSheetN"
+    "attachtostairs": {
+        "field": "ATTACH_TO_STAIRS"
     },
-    {
-        "field": "CLIMB_SHEET_S",
-        "name": "climbSheetS"
+    "bed": {
+        "field": "BED"
     },
-    {
-        "field": "CLIMB_SHEET_TOP_E",
-        "name": "climbSheetTopE"
+    "BedType": {
+        "field": "BED_TYPE"
     },
-    {
-        "field": "CLIMB_SHEET_TOP_N",
-        "name": "climbSheetTopN"
+    "BlocksPlacement": {
+        "field": "BLOCKS_PLACEMENT"
     },
-    {
-        "field": "CLIMB_SHEET_TOP_S",
-        "name": "climbSheetTopS"
+    "BlockRain": {
+        "field": "BLOCK_RAIN"
     },
-    {
-        "field": "CLIMB_SHEET_TOP_W",
-        "name": "climbSheetTopW"
+    "blocksight": {
+        "field": "BLOCK_SIGHT"
     },
-    {
-        "field": "CLIMB_SHEET_W",
-        "name": "climbSheetW"
+    "blueprint": {
+        "field": "BLUEPRINT"
     },
-    {
-        "field": "CLOSE_SNEAK_BONUS",
-        "name": "CloseSneakBonus"
+    "burning": {
+        "field": "BURNING"
     },
-    {
-        "field": "COLLIDE_N",
-        "name": "collideN"
+    "burntOut": {
+        "field": "BURNT_OUT"
     },
-    {
-        "field": "COLLIDE_W",
-        "name": "collideW"
+    "BurntTile": {
+        "field": "BURNT_TILE"
     },
-    {
-        "field": "CONNECT_X",
-        "name": "connectX"
+    "Bush": {
+        "field": "BUSH"
     },
-    {
-        "field": "CONNECT_Y",
-        "name": "connectY"
+    "CantClimb": {
+        "field": "CANT_CLIMB"
     },
-    {
-        "field": "CONTAINER",
-        "name": "container"
+    "CanAttachAnimal": {
+        "field": "CAN_ATTACH_ANIMAL"
     },
-    {
-        "field": "CONTAINER_CAPACITY",
-        "name": "ContainerCapacity"
+    "canBeCut": {
+        "field": "CAN_BE_CUT"
     },
-    {
-        "field": "CONTAINER_CLOSE_SOUND",
-        "name": "ContainerCloseSound"
+    "canBeRemoved": {
+        "field": "CAN_BE_REMOVED"
     },
-    {
-        "field": "CONTAINER_OPEN_SOUND",
-        "name": "ContainerOpenSound"
+    "CanBreak": {
+        "field": "CAN_BREAK"
     },
-    {
-        "field": "CONTAINER_POSITION",
-        "name": "ContainerPosition"
+    "canPathN": {
+        "field": "CAN_PATH_N"
     },
-    {
-        "field": "CONTAINER_PUT_SOUND",
-        "name": "ContainerPutSound"
+    "canPathW": {
+        "field": "CAN_PATH_W"
     },
-    {
-        "field": "CONTAINER_TAKE_SOUND",
-        "name": "ContainerTakeSound"
+    "CanScrap": {
+        "field": "CAN_SCRAP"
     },
-    {
-        "field": "CORNER_NORTH_WALL",
-        "name": "CornerNorthWall"
+    "CarSlowFactor": {
+        "field": "CAR_SLOW_FACTOR"
     },
-    {
-        "field": "CORNER_WEST_WALL",
-        "name": "CornerWestWall"
+    "chairE": {
+        "field": "CHAIR_E"
     },
-    {
-        "field": "CURTAIN_E",
-        "name": "curtainE"
+    "chairN": {
+        "field": "CHAIR_N"
     },
-    {
-        "field": "CURTAIN_N",
-        "name": "curtainN"
+    "chairS": {
+        "field": "CHAIR_S"
     },
-    {
-        "field": "CURTAIN_OFFSET",
-        "name": "CurtainOffset"
+    "chairW": {
+        "field": "CHAIR_W"
     },
-    {
-        "field": "CURTAIN_S",
-        "name": "curtainS"
+    "climbSheetE": {
+        "field": "CLIMB_SHEET_E"
     },
-    {
-        "field": "CURTAIN_SOUND",
-        "name": "CurtainSound"
+    "climbSheetN": {
+        "field": "CLIMB_SHEET_N"
     },
-    {
-        "field": "CURTAIN_W",
-        "name": "curtainW"
+    "climbSheetS": {
+        "field": "CLIMB_SHEET_S"
     },
-    {
-        "field": "CUSTOM_ITEM",
-        "name": "CustomItem"
+    "climbSheetTopE": {
+        "field": "CLIMB_SHEET_TOP_E"
     },
-    {
-        "field": "CUSTOM_NAME",
-        "name": "CustomName"
+    "climbSheetTopN": {
+        "field": "CLIMB_SHEET_TOP_N"
     },
-    {
-        "field": "CUTAWAY_HINT",
-        "name": "CutawayHint"
+    "climbSheetTopS": {
+        "field": "CLIMB_SHEET_TOP_S"
     },
-    {
-        "field": "CUT_N",
-        "name": "cutN"
+    "climbSheetTopW": {
+        "field": "CLIMB_SHEET_TOP_W"
     },
-    {
-        "field": "CUT_W",
-        "name": "cutW"
+    "climbSheetW": {
+        "field": "CLIMB_SHEET_W"
     },
-    {
-        "field": "DAMAGED_SPRITE",
-        "name": "DamagedSprite"
+    "CloseSneakBonus": {
+        "field": "CLOSE_SNEAK_BONUS"
     },
-    {
-        "field": "DIAMOND_FLOOR",
-        "name": "diamondFloor"
+    "collideN": {
+        "field": "COLLIDE_N"
     },
-    {
-        "field": "DOOR_FR_N",
-        "name": "doorFrN"
+    "collideW": {
+        "field": "COLLIDE_W"
     },
-    {
-        "field": "DOOR_FR_W",
-        "name": "doorFrW"
+    "connectX": {
+        "field": "CONNECT_X"
     },
-    {
-        "field": "DOOR_N",
-        "name": "doorN"
+    "connectY": {
+        "field": "CONNECT_Y"
     },
-    {
-        "field": "DOOR_SOUND",
-        "name": "DoorSound"
+    "container": {
+        "field": "CONTAINER"
     },
-    {
-        "field": "DOOR_TRANS",
-        "name": "doorTrans"
+    "ContainerCapacity": {
+        "field": "CONTAINER_CAPACITY"
     },
-    {
-        "field": "DOOR_W",
-        "name": "doorW"
+    "ContainerCloseSound": {
+        "field": "CONTAINER_CLOSE_SOUND"
     },
-    {
-        "field": "DOOR_WALL_N",
-        "name": "DoorWallN"
+    "ContainerOpenSound": {
+        "field": "CONTAINER_OPEN_SOUND"
     },
-    {
-        "field": "DOOR_WALL_NW",
-        "name": "DoorWallNW"
+    "ContainerPosition": {
+        "field": "CONTAINER_POSITION"
     },
-    {
-        "field": "DOOR_WALL_NW_TRANS",
-        "name": "DoorWallNWTrans"
+    "ContainerPutSound": {
+        "field": "CONTAINER_PUT_SOUND"
     },
-    {
-        "field": "DOOR_WALL_N_TRANS",
-        "name": "DoorWallNTrans"
+    "ContainerTakeSound": {
+        "field": "CONTAINER_TAKE_SOUND"
     },
-    {
-        "field": "DOOR_WALL_W",
-        "name": "DoorWallW"
+    "CornerNorthWall": {
+        "field": "CORNER_NORTH_WALL"
     },
-    {
-        "field": "DOOR_WALL_W_TRANS",
-        "name": "DoorWallWTrans"
+    "CornerWestWall": {
+        "field": "CORNER_WEST_WALL"
     },
-    {
-        "field": "DOUBLE_DOOR",
-        "name": "DoubleDoor"
+    "curtainE": {
+        "field": "CURTAIN_E"
     },
-    {
-        "field": "DOUBLE_DOOR_1",
-        "name": "DoubleDoor1"
+    "curtainN": {
+        "field": "CURTAIN_N"
     },
-    {
-        "field": "DOUBLE_DOOR_2",
-        "name": "DoubleDoor2"
+    "CurtainOffset": {
+        "field": "CURTAIN_OFFSET"
     },
-    {
-        "field": "ENTITY_SCRIPT",
-        "name": "EntityScript"
+    "curtainS": {
+        "field": "CURTAIN_S"
     },
-    {
-        "field": "ENTITY_SCRIPT_NAME",
-        "name": "EntityScriptName"
+    "CurtainSound": {
+        "field": "CURTAIN_SOUND"
     },
-    {
-        "field": "EXTERIOR",
-        "name": "exterior"
+    "curtainW": {
+        "field": "CURTAIN_W"
     },
-    {
-        "field": "E_OFFSET",
-        "name": "Eoffset"
+    "CustomItem": {
+        "field": "CUSTOM_ITEM"
     },
-    {
-        "field": "FACING",
-        "name": "Facing"
+    "CustomName": {
+        "field": "CUSTOM_NAME"
     },
-    {
-        "field": "FASCIA_EDGE",
-        "name": "FasciaEdge"
+    "CutawayHint": {
+        "field": "CUTAWAY_HINT"
     },
-    {
-        "field": "FASCIA_EDGE_REVERSIBLE",
-        "name": "FasciaEdgeReversible"
+    "cutN": {
+        "field": "CUT_N"
     },
-    {
-        "field": "FENCE_TYPE_HIGH",
-        "name": "FenceTypeHigh"
+    "cutW": {
+        "field": "CUT_W"
     },
-    {
-        "field": "FENCE_TYPE_LOW",
-        "name": "FenceTypeLow"
+    "DamagedSprite": {
+        "field": "DAMAGED_SPRITE"
     },
-    {
-        "field": "FIRE_REQUIREMENT",
-        "name": "firerequirement"
+    "diamondFloor": {
+        "field": "DIAMOND_FLOOR"
     },
-    {
-        "field": "FLOOR_ATTACHMENT_E",
-        "name": "FloorAttachmentE"
+    "doorFrN": {
+        "field": "DOOR_FR_N"
     },
-    {
-        "field": "FLOOR_ATTACHMENT_N",
-        "name": "FloorAttachmentN"
+    "doorFrW": {
+        "field": "DOOR_FR_W"
     },
-    {
-        "field": "FLOOR_ATTACHMENT_S",
-        "name": "FloorAttachmentS"
+    "doorN": {
+        "field": "DOOR_N"
     },
-    {
-        "field": "FLOOR_ATTACHMENT_W",
-        "name": "FloorAttachmentW"
+    "DoorSound": {
+        "field": "DOOR_SOUND"
     },
-    {
-        "field": "FLOOR_HEIGHT",
-        "name": "FloorHeight"
+    "doorTrans": {
+        "field": "DOOR_TRANS"
     },
-    {
-        "field": "FLOOR_HEIGHT_ONE_THIRD",
-        "name": "FloorHeightOneThird"
+    "doorW": {
+        "field": "DOOR_W"
     },
-    {
-        "field": "FLOOR_HEIGHT_TWO_THIRDS",
-        "name": "FloorHeightTwoThirds"
+    "DoorWallN": {
+        "field": "DOOR_WALL_N"
     },
-    {
-        "field": "FLOOR_MATERIAL",
-        "name": "FloorMaterial"
+    "DoorWallNW": {
+        "field": "DOOR_WALL_NW"
     },
-    {
-        "field": "FLOOR_OVERLAY",
-        "name": "FloorOverlay"
+    "DoorWallNWTrans": {
+        "field": "DOOR_WALL_NW_TRANS"
     },
-    {
-        "field": "FOOTSTEP_MATERIAL",
-        "name": "FootstepMaterial"
+    "DoorWallNTrans": {
+        "field": "DOOR_WALL_N_TRANS"
     },
-    {
-        "field": "FORCED_LOCKED",
-        "name": "forcedLocked"
+    "DoorWallW": {
+        "field": "DOOR_WALL_W"
     },
-    {
-        "field": "FORCE_AMBIENT",
-        "name": "ForceAmbient"
+    "DoorWallWTrans": {
+        "field": "DOOR_WALL_W_TRANS"
     },
-    {
-        "field": "FORCE_FADE",
-        "name": "forceFade"
+    "DoubleDoor": {
+        "field": "DOUBLE_DOOR"
     },
-    {
-        "field": "FORCE_LOCKED",
-        "name": "forceLocked"
+    "DoubleDoor1": {
+        "field": "DOUBLE_DOOR_1"
     },
-    {
-        "field": "FORCE_RENDER",
-        "name": "forceRender"
+    "DoubleDoor2": {
+        "field": "DOUBLE_DOOR_2"
     },
-    {
-        "field": "FORCE_SINGLE_ITEM",
-        "name": "ForceSingleItem"
+    "EntityScript": {
+        "field": "ENTITY_SCRIPT"
     },
-    {
-        "field": "FREEZER",
-        "name": "Freezer"
+    "EntityScriptName": {
+        "field": "ENTITY_SCRIPT_NAME"
     },
-    {
-        "field": "FREEZER_CAPACITY",
-        "name": "FreezerCapacity"
+    "exterior": {
+        "field": "EXTERIOR"
     },
-    {
-        "field": "FREEZER_POSITION",
-        "name": "FreezerPosition"
+    "Eoffset": {
+        "field": "E_OFFSET"
     },
-    {
-        "field": "FUEL_AMOUNT",
-        "name": "fuelAmount"
+    "Facing": {
+        "field": "FACING"
     },
-    {
-        "field": "GARAGE_DOOR",
-        "name": "GarageDoor"
+    "FasciaEdge": {
+        "field": "FASCIA_EDGE"
     },
-    {
-        "field": "GENERATOR_SOUND",
-        "name": "GeneratorSound"
+    "FasciaEdgeReversible": {
+        "field": "FASCIA_EDGE_REVERSIBLE"
     },
-    {
-        "field": "GENERIC_CRAFTING_SURFACE",
-        "name": "GenericCraftingSurface"
+    "FenceTypeHigh": {
+        "field": "FENCE_TYPE_HIGH"
     },
-    {
-        "field": "GLASS_REMOVED_OFFSET",
-        "name": "GlassRemovedOffset"
+    "FenceTypeLow": {
+        "field": "FENCE_TYPE_LOW"
     },
-    {
-        "field": "GRASS_FLOOR",
-        "name": "grassFloor"
+    "firerequirement": {
+        "field": "FIRE_REQUIREMENT"
     },
-    {
-        "field": "GRIME_TYPE",
-        "name": "GrimeType"
+    "FloorAttachmentE": {
+        "field": "FLOOR_ATTACHMENT_E"
     },
-    {
-        "field": "GROUP_NAME",
-        "name": "GroupName"
+    "FloorAttachmentN": {
+        "field": "FLOOR_ATTACHMENT_N"
     },
-    {
-        "field": "HALF_HEIGHT",
-        "name": "halfheight"
+    "FloorAttachmentS": {
+        "field": "FLOOR_ATTACHMENT_S"
     },
-    {
-        "field": "HAS_LIGHT_ON_SPRITE",
-        "name": "HasLightOnSprite"
+    "FloorAttachmentW": {
+        "field": "FLOOR_ATTACHMENT_W"
     },
-    {
-        "field": "HAS_RAINDROP",
-        "name": "HasRaindrop"
+    "FloorHeight": {
+        "field": "FLOOR_HEIGHT"
     },
-    {
-        "field": "HAS_RAIN_SPLASHES",
-        "name": "HasRainSplashes"
+    "FloorHeightOneThird": {
+        "field": "FLOOR_HEIGHT_ONE_THIRD"
     },
-    {
-        "field": "HIDE_WALLS",
-        "name": "hidewalls"
+    "FloorHeightTwoThirds": {
+        "field": "FLOOR_HEIGHT_TWO_THIRDS"
     },
-    {
-        "field": "HIT_BY_CAR",
-        "name": "HitByCar"
+    "FloorMaterial": {
+        "field": "FLOOR_MATERIAL"
     },
-    {
-        "field": "HOPPABLE_N",
-        "name": "HoppableN"
+    "FloorOverlay": {
+        "field": "FLOOR_OVERLAY"
     },
-    {
-        "field": "HOPPABLE_W",
-        "name": "HoppableW"
+    "FootstepMaterial": {
+        "field": "FOOTSTEP_MATERIAL"
     },
-    {
-        "field": "IGNORE_SURFACE_SNAP",
-        "name": "IgnoreSurfaceSnap"
+    "forcedLocked": {
+        "field": "FORCED_LOCKED"
     },
-    {
-        "field": "INTERIOR",
-        "name": "interior"
+    "ForceAmbient": {
+        "field": "FORCE_AMBIENT"
     },
-    {
-        "field": "INTERIOR_SIDE",
-        "name": "InteriorSide"
+    "forceFade": {
+        "field": "FORCE_FADE"
     },
-    {
-        "field": "INVISIBLE",
-        "name": "invisible"
+    "forceLocked": {
+        "field": "FORCE_LOCKED"
     },
-    {
-        "field": "ISO_TYPE",
-        "name": "IsoType"
+    "forceRender": {
+        "field": "FORCE_RENDER"
     },
-    {
-        "field": "IS_CLOSED_STATE",
-        "name": "IsClosedState"
+    "ForceSingleItem": {
+        "field": "FORCE_SINGLE_ITEM"
     },
-    {
-        "field": "IS_EAVE",
-        "name": "isEave"
+    "Freezer": {
+        "field": "FREEZER"
     },
-    {
-        "field": "IS_FLOOR_ATTACHED",
-        "name": "IsFloorAttached"
+    "FreezerCapacity": {
+        "field": "FREEZER_CAPACITY"
     },
-    {
-        "field": "IS_FRIDGE",
-        "name": "IsFridge"
+    "FreezerPosition": {
+        "field": "FREEZER_POSITION"
     },
-    {
-        "field": "IS_GRID_EXTENSION_TILE",
-        "name": "IsGridExtensionTile"
+    "fuelAmount": {
+        "field": "FUEL_AMOUNT"
     },
-    {
-        "field": "IS_HIGH",
-        "name": "IsHigh"
+    "GarageDoor": {
+        "field": "GARAGE_DOOR"
     },
-    {
-        "field": "IS_LOW",
-        "name": "IsLow"
+    "GeneratorSound": {
+        "field": "GENERATOR_SOUND"
     },
-    {
-        "field": "IS_MIRROR",
-        "name": "IsMirror"
+    "GenericCraftingSurface": {
+        "field": "GENERIC_CRAFTING_SURFACE"
     },
-    {
-        "field": "IS_MOVE_ABLE",
-        "name": "IsMoveAble"
+    "GlassRemovedOffset": {
+        "field": "GLASS_REMOVED_OFFSET"
     },
-    {
-        "field": "IS_MOVE_ABLE_OBJECT",
-        "name": "isMoveAbleObject"
+    "grassFloor": {
+        "field": "GRASS_FLOOR"
     },
-    {
-        "field": "IS_PAINTABLE",
-        "name": "IsPaintable"
+    "GrimeType": {
+        "field": "GRIME_TYPE"
     },
-    {
-        "field": "IS_STACKABLE",
-        "name": "IsStackable"
+    "GroupName": {
+        "field": "GROUP_NAME"
     },
-    {
-        "field": "IS_SURFACE_OFFSET",
-        "name": "IsSurfaceOffset"
+    "halfheight": {
+        "field": "HALF_HEIGHT"
     },
-    {
-        "field": "IS_TABLE",
-        "name": "IsTable"
+    "HasLightOnSprite": {
+        "field": "HAS_LIGHT_ON_SPRITE"
     },
-    {
-        "field": "IS_TABLE_TOP",
-        "name": "IsTableTop"
+    "HasRaindrop": {
+        "field": "HAS_RAINDROP"
     },
-    {
-        "field": "IS_TRASH_CAN",
-        "name": "IsTrashCan"
+    "HasRainSplashes": {
+        "field": "HAS_RAIN_SPLASHES"
     },
-    {
-        "field": "IS_WATER_COLLECTOR",
-        "name": "IsWaterCollector"
+    "hidewalls": {
+        "field": "HIDE_WALLS"
     },
-    {
+    "HitByCar": {
+        "field": "HIT_BY_CAR"
+    },
+    "HoppableN": {
+        "field": "HOPPABLE_N"
+    },
+    "HoppableW": {
+        "field": "HOPPABLE_W"
+    },
+    "IgnoreSurfaceSnap": {
+        "field": "IGNORE_SURFACE_SNAP"
+    },
+    "interior": {
+        "field": "INTERIOR"
+    },
+    "InteriorSide": {
+        "field": "INTERIOR_SIDE"
+    },
+    "invisible": {
+        "field": "INVISIBLE"
+    },
+    "IsoType": {
+        "field": "ISO_TYPE"
+    },
+    "IsClosedState": {
+        "field": "IS_CLOSED_STATE"
+    },
+    "isEave": {
+        "field": "IS_EAVE"
+    },
+    "IsFloorAttached": {
+        "field": "IS_FLOOR_ATTACHED"
+    },
+    "IsFridge": {
+        "field": "IS_FRIDGE"
+    },
+    "IsGridExtensionTile": {
+        "field": "IS_GRID_EXTENSION_TILE"
+    },
+    "IsHigh": {
+        "field": "IS_HIGH"
+    },
+    "IsLow": {
+        "field": "IS_LOW"
+    },
+    "IsMirror": {
+        "field": "IS_MIRROR"
+    },
+    "IsMoveAble": {
+        "field": "IS_MOVE_ABLE"
+    },
+    "isMoveAbleObject": {
+        "field": "IS_MOVE_ABLE_OBJECT"
+    },
+    "IsPaintable": {
+        "field": "IS_PAINTABLE"
+    },
+    "IsStackable": {
+        "field": "IS_STACKABLE"
+    },
+    "IsSurfaceOffset": {
+        "field": "IS_SURFACE_OFFSET"
+    },
+    "IsTable": {
+        "field": "IS_TABLE"
+    },
+    "IsTableTop": {
+        "field": "IS_TABLE_TOP"
+    },
+    "IsTrashCan": {
+        "field": "IS_TRASH_CAN"
+    },
+    "IsWaterCollector": {
+        "field": "IS_WATER_COLLECTOR"
+    },
+    "ItemHeight": {
         "field": "ITEM_HEIGHT",
-        "name": "ItemHeight"
-    },
-    {
-        "field": "JUKEBOX",
-        "name": "jukebox"
-    },
-    {
-        "field": "LIGHTSWITCH",
-        "name": "lightswitch"
-    },
-    {
-        "field": "LIGHT_B",
-        "name": "lightB"
-    },
-    {
-        "field": "LIGHT_FILTER_B",
-        "name": "LightFilterB"
-    },
-    {
-        "field": "LIGHT_FILTER_G",
-        "name": "LightFilterG"
-    },
-    {
-        "field": "LIGHT_FILTER_INTENSITY",
-        "name": "LightFilterIntensity"
-    },
-    {
-        "field": "LIGHT_FILTER_MIX",
-        "name": "LightFilterMix"
-    },
-    {
-        "field": "LIGHT_FILTER_R",
-        "name": "LightFilterR"
-    },
-    {
-        "field": "LIGHT_G",
-        "name": "lightG"
-    },
-    {
-        "field": "LIGHT_R",
-        "name": "lightR"
-    },
-    {
-        "field": "LIGHT_RADIUS",
-        "name": "LightRadius"
-    },
-    {
-        "field": "LINKED_LOC_IS",
-        "name": "LinkedLocIs"
-    },
-    {
-        "field": "LINKED_OFFSET",
-        "name": "LinkedOffset"
-    },
-    {
-        "field": "LIVING_ROOM",
-        "name": "livingRoom"
-    },
-    {
-        "field": "MAKE_WINDOW_INVINCIBLE",
-        "name": "makeWindowInvincible"
-    },
-    {
-        "field": "MATERIAL",
-        "name": "Material"
-    },
-    {
-        "field": "MATERIAL_2",
-        "name": "Material2"
-    },
-    {
-        "field": "MATERIAL_3",
-        "name": "Material3"
-    },
-    {
-        "field": "MATERIAL_TYPE",
-        "name": "MaterialType"
-    },
-    {
-        "field": "MICROWAVE",
-        "name": "Microwave"
-    },
-    {
-        "field": "MINIMUM_CAR_SPEED_DMG",
-        "name": "MinimumCarSpeedDmg"
-    },
-    {
-        "field": "MOVEMENT",
-        "name": "Movement"
-    },
-    {
-        "field": "MOVE_TYPE",
-        "name": "MoveType"
-    },
-    {
-        "field": "MOVE_WITH_WIND",
-        "name": "MoveWithWind"
-    },
-    {
-        "field": "NAME",
-        "name": "name"
-    },
-    {
-        "field": "NATURE_FLOOR",
-        "name": "natureFloor"
-    },
-    {
-        "field": "NEVER_CUTAWAY",
-        "name": "NeverCutaway"
-    },
-    {
-        "field": "NO_FREEZER",
-        "name": "NoFreezer"
-    },
-    {
-        "field": "NO_START",
-        "name": "noStart"
-    },
-    {
-        "field": "NO_WALL_LIGHTING",
-        "name": "NoWallLighting"
-    },
-    {
-        "field": "N_OFFSET",
-        "name": "Noffset"
-    },
-    {
-        "field": "OPAQUE_PIXELS_ONLY",
-        "name": "OpaquePixelsOnly"
-    },
-    {
-        "field": "OPEN",
-        "name": "open"
-    },
-    {
-        "field": "OPEN_TILE_OFFSET",
-        "name": "OpenTileOffset"
-    },
-    {
-        "field": "PAINTING_TYPE",
-        "name": "PaintingType"
-    },
-    {
-        "field": "PHYSICS_MESH",
-        "name": "PhysicsMesh"
-    },
-    {
-        "field": "PHYSICS_SHAPE",
-        "name": "PhysicsShape"
-    },
-    {
-        "field": "PICK_UP_LEVEL",
-        "name": "PickUpLevel"
-    },
-    {
-        "field": "PICK_UP_TOOL",
-        "name": "PickUpTool"
-    },
-    {
-        "field": "PICK_UP_WEIGHT",
-        "name": "PickUpWeight"
-    },
-    {
-        "field": "PLACE_TOOL",
-        "name": "PlaceTool"
-    },
-    {
-        "field": "PROPANE_TANK",
-        "name": "propaneTank"
-    },
-    {
-        "field": "RADIO",
-        "name": "radio"
-    },
-    {
-        "field": "RENDER_LAYER",
-        "name": "RenderLayer"
-    },
-    {
-        "field": "ROOF_GROUP",
-        "name": "RoofGroup"
-    },
-    {
-        "field": "SCRAP_SIZE",
-        "name": "ScrapSize"
-    },
-    {
-        "field": "SCRAP_TOOL_USE_OVERRIDE",
-        "name": "ScrapToolUseOverride"
-    },
-    {
-        "field": "SCRAP_USE_SKILL",
-        "name": "ScrapUseSkill"
-    },
-    {
-        "field": "SCRAP_USE_TOOL",
-        "name": "ScrapUseTool"
-    },
-    {
-        "field": "SEAT_MATERIAL",
-        "name": "SeatMaterial"
-    },
-    {
-        "field": "SIGNAL",
-        "name": "signal"
-    },
-    {
-        "field": "SINK_TYPE",
-        "name": "SinkType"
-    },
-    {
-        "field": "SLOPED_SURFACE_DIRECTION",
-        "name": "SlopedSurfaceDirection"
-    },
-    {
-        "field": "SLOPED_SURFACE_HEIGHT_MAX",
-        "name": "SlopedSurfaceHeightMax"
-    },
-    {
-        "field": "SLOPED_SURFACE_HEIGHT_MIN",
-        "name": "SlopedSurfaceHeightMin"
-    },
-    {
-        "field": "SMASHED_TILE_OFFSET",
-        "name": "SmashedTileOffset"
-    },
-    {
-        "field": "SMOKE",
-        "name": "smoke"
-    },
-    {
-        "field": "SNOW_TILE",
-        "name": "SnowTile"
-    },
-    {
-        "field": "SOLID",
-        "name": "solid"
-    },
-    {
-        "field": "SOLID_FLOOR",
-        "name": "solidfloor"
-    },
-    {
-        "field": "SOLID_TRANS",
-        "name": "solidtrans"
-    },
-    {
-        "field": "SPEAR_ONLY_ATTACK_THROUGH",
-        "name": "SpearOnlyAttackThrough"
-    },
-    {
-        "field": "SPRITE_GRID_LEVEL",
-        "name": "SpriteGridLevel"
-    },
-    {
-        "field": "SPRITE_GRID_POS",
-        "name": "SpriteGridPos"
-    },
-    {
-        "field": "STACK_REPLACE_TILE_OFFSET",
-        "name": "StackReplaceTileOffset"
-    },
-    {
-        "field": "STAIRS_BN",
-        "name": "stairsBN"
-    },
-    {
-        "field": "STAIRS_BW",
-        "name": "stairsBW"
-    },
-    {
-        "field": "STAIRS_MN",
-        "name": "stairsMN"
-    },
-    {
-        "field": "STAIRS_MW",
-        "name": "stairsMW"
-    },
-    {
-        "field": "STAIRS_TN",
-        "name": "stairsTN"
-    },
-    {
-        "field": "STAIRS_TW",
-        "name": "stairsTW"
-    },
-    {
-        "field": "STOP_CAR",
-        "name": "StopCar"
-    },
-    {
-        "field": "STREETLIGHT",
-        "name": "streetlight"
-    },
-    {
-        "field": "SURFACE",
-        "name": "Surface",
-        "description": null,
         "type": {
             "main": "integer"
+        },
+        "default": 0
+    },
+    "jukebox": {
+        "field": "JUKEBOX"
+    },
+    "lightswitch": {
+        "field": "LIGHTSWITCH"
+    },
+    "lightB": {
+        "field": "LIGHT_B"
+    },
+    "LightFilterB": {
+        "field": "LIGHT_FILTER_B"
+    },
+    "LightFilterG": {
+        "field": "LIGHT_FILTER_G"
+    },
+    "LightFilterIntensity": {
+        "field": "LIGHT_FILTER_INTENSITY"
+    },
+    "LightFilterMix": {
+        "field": "LIGHT_FILTER_MIX"
+    },
+    "LightFilterR": {
+        "field": "LIGHT_FILTER_R"
+    },
+    "lightG": {
+        "field": "LIGHT_G"
+    },
+    "lightR": {
+        "field": "LIGHT_R"
+    },
+    "LightRadius": {
+        "field": "LIGHT_RADIUS"
+    },
+    "LinkedLocIs": {
+        "field": "LINKED_LOC_IS"
+    },
+    "LinkedOffset": {
+        "field": "LINKED_OFFSET"
+    },
+    "livingRoom": {
+        "field": "LIVING_ROOM"
+    },
+    "makeWindowInvincible": {
+        "field": "MAKE_WINDOW_INVINCIBLE"
+    },
+    "Material": {
+        "field": "MATERIAL"
+    },
+    "Material2": {
+        "field": "MATERIAL_2"
+    },
+    "Material3": {
+        "field": "MATERIAL_3"
+    },
+    "MaterialType": {
+        "field": "MATERIAL_TYPE"
+    },
+    "Microwave": {
+        "field": "MICROWAVE"
+    },
+    "MinimumCarSpeedDmg": {
+        "field": "MINIMUM_CAR_SPEED_DMG"
+    },
+    "Movement": {
+        "field": "MOVEMENT"
+    },
+    "MoveType": {
+        "field": "MOVE_TYPE"
+    },
+    "MoveWithWind": {
+        "field": "MOVE_WITH_WIND"
+    },
+    "name": {
+        "field": "NAME"
+    },
+    "natureFloor": {
+        "field": "NATURE_FLOOR"
+    },
+    "NeverCutaway": {
+        "field": "NEVER_CUTAWAY"
+    },
+    "NoFreezer": {
+        "field": "NO_FREEZER"
+    },
+    "noStart": {
+        "field": "NO_START"
+    },
+    "NoWallLighting": {
+        "field": "NO_WALL_LIGHTING"
+    },
+    "Noffset": {
+        "field": "N_OFFSET"
+    },
+    "OpaquePixelsOnly": {
+        "field": "OPAQUE_PIXELS_ONLY",
+        "type": {
+            "main": "boolean"
         }
     },
-    {
-        "field": "S_OFFSET",
-        "name": "Soffset"
+    "open": {
+        "field": "OPEN"
     },
-    {
-        "field": "TABLE_N",
-        "name": "tableN"
+    "OpenTileOffset": {
+        "field": "OPEN_TILE_OFFSET"
     },
-    {
-        "field": "TAINTED_WATER",
-        "name": "taintedWater"
+    "PaintingType": {
+        "field": "PAINTING_TYPE"
     },
-    {
-        "field": "TALL_HOPPABLE_N",
-        "name": "TallHoppableN"
+    "PhysicsMesh": {
+        "field": "PHYSICS_MESH"
     },
-    {
-        "field": "TALL_HOPPABLE_W",
-        "name": "TallHoppableW"
+    "PhysicsShape": {
+        "field": "PHYSICS_SHAPE"
     },
-    {
-        "field": "THUMP_SOUND",
-        "name": "ThumpSound"
+    "PickUpLevel": {
+        "field": "PICK_UP_LEVEL"
     },
-    {
-        "field": "TIE_SHEET_ROPE",
-        "name": "TieSheetRope"
+    "PickUpTool": {
+        "field": "PICK_UP_TOOL"
     },
-    {
-        "field": "TILE_OVERLAY",
-        "name": "TileOverlay"
+    "PickUpWeight": {
+        "field": "PICK_UP_WEIGHT"
     },
-    {
-        "field": "TRANS",
-        "name": "trans"
+    "PlaceTool": {
+        "field": "PLACE_TOOL"
     },
-    {
-        "field": "TRANSLUCENT",
-        "name": "Translucent"
+    "propaneTank": {
+        "field": "PROPANE_TANK"
     },
-    {
-        "field": "TRANSPARENT_FLOOR",
-        "name": "transparentFloor"
+    "radio": {
+        "field": "RADIO"
     },
-    {
-        "field": "TRANSPARENT_N",
-        "name": "transparentN"
+    "RenderLayer": {
+        "field": "RENDER_LAYER"
     },
-    {
-        "field": "TRANSPARENT_W",
-        "name": "transparentW"
+    "RoofGroup": {
+        "field": "ROOF_GROUP"
     },
-    {
-        "field": "TREAT_AS_WALL_ORDER",
-        "name": "TreatAsWallOrder"
+    "ScrapSize": {
+        "field": "SCRAP_SIZE"
     },
-    {
-        "field": "TREE",
-        "name": "tree"
+    "ScrapToolUseOverride": {
+        "field": "SCRAP_TOOL_USE_OVERRIDE"
     },
-    {
-        "field": "TV",
-        "name": "TV"
+    "ScrapUseSkill": {
+        "field": "SCRAP_USE_SKILL"
     },
-    {
-        "field": "UNBREAKABLE_WINDOW_N",
-        "name": "UnbreakableWindowN"
+    "ScrapUseTool": {
+        "field": "SCRAP_USE_TOOL"
     },
-    {
-        "field": "UNBREAKABLE_WINDOW_NW",
-        "name": "UnbreakableWindowNW"
+    "SeatMaterial": {
+        "field": "SEAT_MATERIAL"
     },
-    {
-        "field": "UNBREAKABLE_WINDOW_W",
-        "name": "UnbreakableWindowW"
+    "signal": {
+        "field": "SIGNAL"
     },
-    {
-        "field": "UNFLAMMABLE",
-        "name": "unflammable"
+    "SinkType": {
+        "field": "SINK_TYPE"
     },
-    {
-        "field": "UNLIT",
-        "name": "unlit"
+    "SlopedSurfaceDirection": {
+        "field": "SLOPED_SURFACE_DIRECTION",
+        "type": {
+            "main": "string"
+        },
+        "values": [
+            "N",
+            "E",
+            "S",
+            "W",
+            "NE",
+            "NW",
+            "SE",
+            "SW"
+        ],
+        "default": null
     },
-    {
-        "field": "UNUSROOF_WALL_STARTD",
-        "name": "RoofWallStart"
+    "SlopedSurfaceHeightMax": {
+        "field": "SLOPED_SURFACE_HEIGHT_MAX",
+        "type": {
+            "main": "integer",
+            "min": 0,
+            "max": 100
+        },
+        "default": 0
     },
-    {
-        "field": "USE_OBJECT_DEPTH_TEXTURE",
-        "name": "UseObjectDepthTexture"
+    "SlopedSurfaceHeightMin": {
+        "field": "SLOPED_SURFACE_HEIGHT_MIN",
+        "type": {
+            "main": "integer",
+            "min": 0,
+            "max": 100
+        },
+        "default": 0
     },
-    {
-        "field": "VEGITATION",
-        "name": "vegitation"
+    "SmashedTileOffset": {
+        "field": "SMASHED_TILE_OFFSET"
     },
-    {
-        "field": "WALL",
-        "name": "wall"
+    "smoke": {
+        "field": "SMOKE"
     },
-    {
-        "field": "WALL_N",
-        "name": "WallN"
+    "SnowTile": {
+        "field": "SNOW_TILE"
     },
-    {
-        "field": "WALL_NW",
-        "name": "WallNW"
+    "solid": {
+        "field": "SOLID"
     },
-    {
-        "field": "WALL_NW_TRANS",
-        "name": "WallNWTrans"
+    "solidfloor": {
+        "field": "SOLID_FLOOR"
     },
-    {
-        "field": "WALL_N_TRANS",
-        "name": "WallNTrans"
+    "solidtrans": {
+        "field": "SOLID_TRANS"
     },
-    {
-        "field": "WALL_OBJECT_ALLOW_DOORFRAME",
-        "name": "WallObjectAllowDoorframe"
+    "SpearOnlyAttackThrough": {
+        "field": "SPEAR_ONLY_ATTACK_THROUGH"
     },
-    {
-        "field": "WALL_OVERLAY",
-        "name": "WallOverlay"
+    "SpriteGridLevel": {
+        "field": "SPRITE_GRID_LEVEL"
     },
-    {
-        "field": "WALL_SE",
-        "name": "WallSE"
+    "SpriteGridPos": {
+        "field": "SPRITE_GRID_POS"
     },
-    {
-        "field": "WALL_TYPE",
-        "name": "WallType"
+    "StackReplaceTileOffset": {
+        "field": "STACK_REPLACE_TILE_OFFSET",
+        "type": {
+            "main": "integer"
+        },
+        "default": 0
     },
-    {
-        "field": "WALL_W",
-        "name": "WallW"
+    "stairsBN": {
+        "field": "STAIRS_BN"
     },
-    {
-        "field": "WALL_W_TRANS",
-        "name": "WallWTrans"
+    "stairsBW": {
+        "field": "STAIRS_BW"
     },
-    {
-        "field": "WATER",
-        "name": "water"
+    "stairsMN": {
+        "field": "STAIRS_MN"
     },
-    {
-        "field": "WATER_AMOUNT",
-        "name": "waterAmount"
+    "stairsMW": {
+        "field": "STAIRS_MW"
     },
-    {
-        "field": "WATER_MAX_AMOUNT",
-        "name": "waterMaxAmount"
+    "stairsTN": {
+        "field": "STAIRS_TN"
     },
-    {
-        "field": "WATER_PIPED",
-        "name": "waterPiped"
+    "stairsTW": {
+        "field": "STAIRS_TW"
     },
-    {
-        "field": "WEST_ROOF_B",
-        "name": "WestRoofB"
+    "StopCar": {
+        "field": "STOP_CAR"
     },
-    {
-        "field": "WEST_ROOF_M",
-        "name": "WestRoofM"
+    "streetlight": {
+        "field": "STREETLIGHT"
     },
-    {
-        "field": "WEST_ROOF_T",
-        "name": "WestRoofT"
+    "Surface": {
+        "field": "SURFACE",
+        "description": "The surface position of the tile.",
+        "type": {
+            "main": "integer"
+        },
+        "default": 0
     },
-    {
-        "field": "WHEELIE_BIN",
-        "name": "WheelieBin"
+    "Soffset": {
+        "field": "S_OFFSET"
     },
-    {
-        "field": "WINDOW_FN",
-        "name": "windowFN"
+    "tableN": {
+        "field": "TABLE_N"
     },
-    {
-        "field": "WINDOW_FW",
-        "name": "windowFW"
+    "taintedWater": {
+        "field": "TAINTED_WATER"
     },
-    {
-        "field": "WINDOW_LOCKED",
-        "name": "WindowLocked"
+    "TallHoppableN": {
+        "field": "TALL_HOPPABLE_N"
     },
-    {
-        "field": "WINDOW_N",
-        "name": "WindowN"
+    "TallHoppableW": {
+        "field": "TALL_HOPPABLE_W"
     },
-    {
-        "field": "WINDOW_W",
-        "name": "WindowW"
+    "ThumpSound": {
+        "field": "THUMP_SOUND"
     },
-    {
-        "field": "WIND_TYPE",
-        "name": "WindType"
+    "TieSheetRope": {
+        "field": "TIE_SHEET_ROPE"
     },
-    {
-        "field": "W_OFFSET",
-        "name": "Woffset"
+    "TileOverlay": {
+        "field": "TILE_OVERLAY"
+    },
+    "trans": {
+        "field": "TRANS"
+    },
+    "Translucent": {
+        "field": "TRANSLUCENT"
+    },
+    "transparentFloor": {
+        "field": "TRANSPARENT_FLOOR"
+    },
+    "transparentN": {
+        "field": "TRANSPARENT_N"
+    },
+    "transparentW": {
+        "field": "TRANSPARENT_W"
+    },
+    "TreatAsWallOrder": {
+        "field": "TREAT_AS_WALL_ORDER"
+    },
+    "tree": {
+        "field": "TREE"
+    },
+    "TV": {
+        "field": "TV"
+    },
+    "UnbreakableWindowN": {
+        "field": "UNBREAKABLE_WINDOW_N"
+    },
+    "UnbreakableWindowNW": {
+        "field": "UNBREAKABLE_WINDOW_NW"
+    },
+    "UnbreakableWindowW": {
+        "field": "UNBREAKABLE_WINDOW_W"
+    },
+    "unflammable": {
+        "field": "UNFLAMMABLE"
+    },
+    "unlit": {
+        "field": "UNLIT"
+    },
+    "RoofWallStart": {
+        "field": "UNUSROOF_WALL_STARTD"
+    },
+    "UseObjectDepthTexture": {
+        "field": "USE_OBJECT_DEPTH_TEXTURE"
+    },
+    "vegitation": {
+        "field": "VEGITATION"
+    },
+    "wall": {
+        "field": "WALL"
+    },
+    "WallN": {
+        "field": "WALL_N"
+    },
+    "WallNW": {
+        "field": "WALL_NW"
+    },
+    "WallNWTrans": {
+        "field": "WALL_NW_TRANS"
+    },
+    "WallNTrans": {
+        "field": "WALL_N_TRANS"
+    },
+    "WallObjectAllowDoorframe": {
+        "field": "WALL_OBJECT_ALLOW_DOORFRAME"
+    },
+    "WallOverlay": {
+        "field": "WALL_OVERLAY"
+    },
+    "WallSE": {
+        "field": "WALL_SE"
+    },
+    "WallType": {
+        "field": "WALL_TYPE"
+    },
+    "WallW": {
+        "field": "WALL_W"
+    },
+    "WallWTrans": {
+        "field": "WALL_W_TRANS"
+    },
+    "water": {
+        "field": "WATER"
+    },
+    "waterAmount": {
+        "field": "WATER_AMOUNT"
+    },
+    "waterMaxAmount": {
+        "field": "WATER_MAX_AMOUNT"
+    },
+    "waterPiped": {
+        "field": "WATER_PIPED"
+    },
+    "WestRoofB": {
+        "field": "WEST_ROOF_B"
+    },
+    "WestRoofM": {
+        "field": "WEST_ROOF_M"
+    },
+    "WestRoofT": {
+        "field": "WEST_ROOF_T"
+    },
+    "WheelieBin": {
+        "field": "WHEELIE_BIN"
+    },
+    "windowFN": {
+        "field": "WINDOW_FN"
+    },
+    "windowFW": {
+        "field": "WINDOW_FW"
+    },
+    "WindowLocked": {
+        "field": "WINDOW_LOCKED"
+    },
+    "WindowN": {
+        "field": "WINDOW_N"
+    },
+    "WindowW": {
+        "field": "WINDOW_W"
+    },
+    "WindType": {
+        "field": "WIND_TYPE"
+    },
+    "Woffset": {
+        "field": "W_OFFSET"
     }
-]
+}

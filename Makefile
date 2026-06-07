@@ -42,3 +42,4 @@ run: decompile
 	./.venv/bin/python ./scripts/metabolics.py
 	./.venv/bin/python ./scripts/action_sound_time.py
 	./.venv/bin/python ./scripts/sound_keys.py
+	./.venv/bin/python ./scripts/tile_properties.py

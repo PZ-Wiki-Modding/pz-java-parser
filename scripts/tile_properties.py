@@ -16,19 +16,18 @@ with open(JAVA, "r") as f:
     java_content = f.read()
 
     matches = re.finditer(PATTERN, java_content)
-    property = []
+    property = {}
     for match in matches:
-        property.append(match.groupdict())
+        property[match.group("name")] = {"field": match.group("field")}
 
 # parse the data file for tile properties
 with open(DATA, "r") as f:
     data = yaml.safe_load(f)
 
     for name, obj in data["objects"].items():
-        for prop in property:
-            if prop["name"] == name:
-                for key, value in obj.items():
-                    prop[key] = value
+        if name in property:
+            for key, value in obj.items():
+                property[name][key] = value
 
 with open(OUT, "w") as out_file:
     json.dump(property, out_file, indent=4)
