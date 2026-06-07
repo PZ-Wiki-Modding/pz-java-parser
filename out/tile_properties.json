@@ -909,7 +909,11 @@
     },
     {
         "field": "SURFACE",
-        "name": "Surface"
+        "name": "Surface",
+        "description": null,
+        "type": {
+            "main": "integer"
+        }
     },
     {
         "field": "S_OFFSET",

@@ -1,0 +1,43 @@
+objects:
+  "Surface":
+    description: |-
+      The surface position of the tile.
+    type:
+      main: integer
+    default: 0
+  "SlopedSurfaceHeightMin":
+    type:
+      main: integer
+      min: 0
+      max: 100
+    default: 0
+  "SlopedSurfaceHeightMax":
+    type:
+      main: integer
+      min: 0
+      max: 100
+    default: 0
+  "SlopedSurfaceDirection":
+    type:
+      main: string
+    values:
+      - "N"
+      - "E"
+      - "S"
+      - "W"
+      - "NE"
+      - "NW"
+      - "SE"
+      - "SW"
+    default: null
+  "ItemHeight":
+    type:
+      main: integer
+    default: 0
+  "StackReplaceTileOffset":
+    type:
+      main: integer
+    default: 0
+  "OpaquePixelsOnly":
+    type:
+      main: boolean
