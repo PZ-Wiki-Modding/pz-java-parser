@@ -41,3 +41,8 @@ objects:
   "OpaquePixelsOnly":
     type:
       main: boolean
+  "UseObjectDepthTexture":
+    description: |-
+      Makes the tile use the tile depth of the tile it overlays. For example an overlay adding items on a shelf will use the shelf tile depth.
+    type:
+      main: boolean
