@@ -76,8 +76,7 @@ objects:
     type:
       main: boolean
   "IsSurfaceOffset":
-    description: |-
-      Indicates the object is offset by the [Surface](https://pz-wiki-modding.github.io/PZ-API-Docs/mapping/tile_properties.html#surface) value when on a tabletop.
+    "#desc": Surface
     type:
       main: boolean
   "IsTable":
@@ -87,6 +86,7 @@ objects:
     description: |-
       Will allow you to place tiles on top of this tile.
   "ItemHeight":
+    "#desc": Surface
     type:
       main: integer
     default: 0
@@ -166,6 +166,10 @@ objects:
     default: 0
   "Surface":
     description: |-
+      [Surface](https://pz-wiki-modding.github.io/PZ-API-Docs/mapping/tile_properties.html#surface) is used to indicate the height in pixel on the tile of the flat surface of the tile, which is notably used for tables to indicated at which height items will be placed.
+
+      A second effect of this parameter can be triggered by setting [IsSurfaceOffset](https://pz-wiki-modding.github.io/PZ-API-Docs/mapping/tile_properties.html#issurfaceoffset) to `true`, which will instead make the Surface parameter indicate the bottom height of the tile, which is useful for object tiles which are placed on top of other tiles, such as flower pots or lamps.
+
       The surface position of the tile when an object is on a tabletop surface like a counter or table. Requires [IsSurfaceOffset](https://pz-wiki-modding.github.io/PZ-API-Docs/mapping/tile_properties.html#issurfaceoffset) set to `true`.
     type:
       main: integer
