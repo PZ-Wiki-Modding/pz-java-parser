@@ -1,5 +1,5 @@
 """
-Parses 
+Parses the TilePropertyKey.java file to extract all the available tile properties.
 """
 
 import json, re, yaml
@@ -20,28 +20,28 @@ with open(JAVA, "r") as f:
     for match in matches:
         property[match.group("name")] = {"field": match.group("field")}
 
-# parse the data file for tile properties
-with open(DATA, "r") as f:
-    data = yaml.safe_load(f)
+# # parse the data file for tile properties
+# with open(DATA, "r") as f:
+#     data = yaml.safe_load(f)
 
-    for name, obj in data["objects"].items():
-        if name in property:
-            for key, value in obj.items():
-                property[name][key] = value
+#     for name, obj in data["objects"].items():
+#         if name in property:
+#             for key, value in obj.items():
+#                 property[name][key] = value
 
-# check provided data is not providing for a non-existing tile
-for name in data["objects"].keys():
-    if name not in property:
-        print(f"Warning: provided data for non-existing tile property '{name}'")
+# # check provided data is not providing for a non-existing tile
+# for name in data["objects"].keys():
+#     if name not in property:
+#         print(f"Warning: provided data for non-existing tile property '{name}'")
 
-# copy #desc to description
-for prop in property.values():
-    if "#desc" in prop:
-        ref = prop["#desc"]
-        if ref not in property:
-            print(f"Warning: description reference '{ref}' not found for property '{prop['field']}'")
-            continue
-        prop["description"] = property[ref]["description"]
+# # copy #desc to description
+# for prop in property.values():
+#     if "#desc" in prop:
+#         ref = prop["#desc"]
+#         if ref not in property:
+#             print(f"Warning: description reference '{ref}' not found for property '{prop['field']}'")
+#             continue
+#         prop["description"] = property[ref]["description"]
 
 # output
 with open(OUT, "w") as out_file:

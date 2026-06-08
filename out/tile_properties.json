@@ -45,11 +45,7 @@
         "field": "BED_TYPE"
     },
     "BlocksPlacement": {
-        "field": "BLOCKS_PLACEMENT",
-        "description": "If set to `true`, other tiles cannot occupy the same square as this tile.",
-        "type": {
-            "main": "boolean"
-        }
+        "field": "BLOCKS_PLACEMENT"
     },
     "BlockRain": {
         "field": "BLOCK_RAIN"
@@ -85,12 +81,7 @@
         "field": "CAN_BE_REMOVED"
     },
     "CanBreak": {
-        "field": "CAN_BREAK",
-        "#desc": "PickUpTool",
-        "type": {
-            "main": "boolean"
-        },
-        "description": "[PickUpTool](https://pz-wiki-modding.github.io/PZ-API-Docs/scripts/item.html#item-pickuptool) will indicate what tool the player needs to use to pick up the tile, while [PlaceTool](https://pz-wiki-modding.github.io/PZ-API-Docs/scripts/item.html#item-placetool) will indicate what tool the player needs to use to place the tile.\n\nIf you want to add new tools, you can usually use the [ItemTags](https://pz-wiki-modding.github.io/PZ-API-Docs/java/item_tags.html) that you add to your [item tools](https://pz-wiki-modding.github.io/PZ-API-Docs/scripts/item.html#tags), or you can also look into the lua file `media/Moveables/ISMoveableDefinitions.lua` to see how they add each new tools.\n\nThe [PickUpLevel](https://pz-wiki-modding.github.io/PZ-API-Docs/mapping/tile_properties.html#pickuplevel) is used to determine what level in the relevant skill you need to be able to pickup the tile. For example `Hammer` with a PickUpLevel of 2 will require a carpentry level of 2 to pickup the tile.\n\nThe [PickUpWeight](https://pz-wiki-modding.github.io/PZ-API-Docs/mapping/tile_properties.html#pickupweight) will determine how much the tile weights in the inventory. This value is divded by 10, so for example a weight of 200 will mean an in-game encumbrance of 20. If [ForceSingleItem](https://pz-wiki-modding.github.io/PZ-API-Docs/mapping/tile_properties.html#forcesingleitem) is set to `true`, this is the total weight, otherwise this is the weight of each tile as a separate item.\n\n[CanBreak](https://pz-wiki-modding.github.io/PZ-API-Docs/mapping/tile_properties.html#canbreak) can be used to indicate that the tile has a chance to break when being picked up. The chance gets smaller based on the [PickUpLevel](https://pz-wiki-modding.github.io/PZ-API-Docs/mapping/tile_properties.html#pickuplevel)."
+        "field": "CAN_BREAK"
     },
     "canPathN": {
         "field": "CAN_PATH_N"
@@ -204,11 +195,7 @@
         "field": "CUSTOM_ITEM"
     },
     "CustomName": {
-        "field": "CUSTOM_NAME",
-        "description": "Used to define the item name, which will show as [GroupName](https://pz-wiki-modding.github.io/PZ-API-Docs/mapping/tile_properties.html#groupname) + [CustomName](https://pz-wiki-modding.github.io/PZ-API-Docs/mapping/tile_properties.html#customname). For example if CustomName is set to `Bed` and GroupName is set to `Fancy`, it will show as `Fancy Bed` in the game. `GroupName` is used as a sub-category description of the object, such as its color, shape, name or quality.\n\nThose properties need to be the same for multi-tile objects.",
-        "type": {
-            "main": "string"
-        }
+        "field": "CUSTOM_NAME"
     },
     "CutawayHint": {
         "field": "CUTAWAY_HINT"
@@ -283,14 +270,7 @@
         "field": "E_OFFSET"
     },
     "Facing": {
-        "field": "FACING",
-        "description": "The direction the object is facing. This is not the orientation, but the direction the objects front looks towards. If the value is `South`, it means the tile has a north orientation and thus would be facing south.\n\nYou can find an image which shows the directions of the game [here](https://pzwiki.net/wiki/Tile_properties#Directions).",
-        "values": [
-            "North",
-            "East",
-            "South",
-            "West"
-        ]
+        "field": "FACING"
     },
     "FasciaEdge": {
         "field": "FASCIA_EDGE"
@@ -353,8 +333,7 @@
         "field": "FORCE_RENDER"
     },
     "ForceSingleItem": {
-        "field": "FORCE_SINGLE_ITEM",
-        "description": "Forces the object to be a single item in inventory even when it is made up of multiple tiles."
+        "field": "FORCE_SINGLE_ITEM"
     },
     "Freezer": {
         "field": "FREEZER"
@@ -387,12 +366,7 @@
         "field": "GRIME_TYPE"
     },
     "GroupName": {
-        "field": "GROUP_NAME",
-        "#desc": "CustomName",
-        "type": {
-            "main": "string"
-        },
-        "description": "Used to define the item name, which will show as [GroupName](https://pz-wiki-modding.github.io/PZ-API-Docs/mapping/tile_properties.html#groupname) + [CustomName](https://pz-wiki-modding.github.io/PZ-API-Docs/mapping/tile_properties.html#customname). For example if CustomName is set to `Bed` and GroupName is set to `Fancy`, it will show as `Fancy Bed` in the game. `GroupName` is used as a sub-category description of the object, such as its color, shape, name or quality.\n\nThose properties need to be the same for multi-tile objects."
+        "field": "GROUP_NAME"
     },
     "halfheight": {
         "field": "HALF_HEIGHT"
@@ -431,26 +405,7 @@
         "field": "INVISIBLE"
     },
     "IsoType": {
-        "field": "ISO_TYPE",
-        "description": "Used to select the class the tile will be. IsoObject is the default but based on your choice there will different behaviors and interactions with the tile.",
-        "values": [
-            "IsoObject",
-            "IsoBarbecue",
-            "IsoBrokenGlass",
-            "IsoClothingDryer",
-            "IsoClothingWasher",
-            "IsoCombinationWasherDryer",
-            "IsoFireplace",
-            "IsoMannequin",
-            "IsoRadio",
-            "IsoJukebox",
-            "IsoStove",
-            "IsoTelevision",
-            "IsoMultiMedia"
-        ],
-        "type": {
-            "main": "string"
-        }
+        "field": "ISO_TYPE"
     },
     "IsClosedState": {
         "field": "IS_CLOSED_STATE"
@@ -468,28 +423,16 @@
         "field": "IS_GRID_EXTENSION_TILE"
     },
     "IsHigh": {
-        "field": "IS_HIGH",
-        "description": "Indicates the tile is high, which means the tile only oocupies the upper half of the height, like a painting or wall shelf.",
-        "type": {
-            "main": "boolean"
-        }
+        "field": "IS_HIGH"
     },
     "IsLow": {
-        "field": "IS_LOW",
-        "description": "Indicates the tile is low, which means the tile only oocupies the lower half of the height, like a bed or counter.",
-        "type": {
-            "main": "boolean"
-        }
+        "field": "IS_LOW"
     },
     "IsMirror": {
         "field": "IS_MIRROR"
     },
     "IsMoveAble": {
-        "field": "IS_MOVE_ABLE",
-        "description": "Indicates the tile can be moved by the player. This will notably provide a [moveable item](https://pz-wiki-modding.github.io/PZ-API-Docs/scripts/item.html#item-itemtype). [MoveType](https://pz-wiki-modding.github.io/PZ-API-Docs/mapping/tile_properties.html#movetype) allows you to set the type of moveable the tile is.",
-        "type": {
-            "main": "boolean"
-        }
+        "field": "IS_MOVE_ABLE"
     },
     "isMoveAbleObject": {
         "field": "IS_MOVE_ABLE_OBJECT"
@@ -501,19 +444,13 @@
         "field": "IS_STACKABLE"
     },
     "IsSurfaceOffset": {
-        "field": "IS_SURFACE_OFFSET",
-        "description": "Indicates the object is offset by the [Surface](https://pz-wiki-modding.github.io/PZ-API-Docs/mapping/tile_properties.html#surface) value when on a tabletop.",
-        "type": {
-            "main": "boolean"
-        }
+        "field": "IS_SURFACE_OFFSET"
     },
     "IsTable": {
-        "field": "IS_TABLE",
-        "description": "Will treat the tile as a table surface."
+        "field": "IS_TABLE"
     },
     "IsTableTop": {
-        "field": "IS_TABLE_TOP",
-        "description": "Will allow you to place tiles on top of this tile."
+        "field": "IS_TABLE_TOP"
     },
     "IsTrashCan": {
         "field": "IS_TRASH_CAN"
@@ -522,11 +459,7 @@
         "field": "IS_WATER_COLLECTOR"
     },
     "ItemHeight": {
-        "field": "ITEM_HEIGHT",
-        "type": {
-            "main": "integer"
-        },
-        "default": 0
+        "field": "ITEM_HEIGHT"
     },
     "jukebox": {
         "field": "JUKEBOX"
@@ -595,20 +528,7 @@
         "field": "MOVEMENT"
     },
     "MoveType": {
-        "field": "MOVE_TYPE",
-        "description": "Sets the type of moveable the tile will be. This seems to be only related to the icon of item. There are also signs in the game code that when set to WallObject it will slightly impact the shape of the tile for physic interactions.",
-        "values": [
-            "Normal",
-            "WallObject",
-            "WindowObject",
-            "Window",
-            "FloorTile",
-            "FloorRug",
-            "Vegitation"
-        ],
-        "type": {
-            "main": "string"
-        }
+        "field": "MOVE_TYPE"
     },
     "MoveWithWind": {
         "field": "MOVE_WITH_WIND"
@@ -635,10 +555,7 @@
         "field": "N_OFFSET"
     },
     "OpaquePixelsOnly": {
-        "field": "OPAQUE_PIXELS_ONLY",
-        "type": {
-            "main": "boolean"
-        }
+        "field": "OPAQUE_PIXELS_ONLY"
     },
     "open": {
         "field": "OPEN"
@@ -656,44 +573,16 @@
         "field": "PHYSICS_SHAPE"
     },
     "PickUpLevel": {
-        "field": "PICK_UP_LEVEL",
-        "#desc": "PickUpTool",
-        "type": {
-            "main": "integer"
-        },
-        "description": "[PickUpTool](https://pz-wiki-modding.github.io/PZ-API-Docs/scripts/item.html#item-pickuptool) will indicate what tool the player needs to use to pick up the tile, while [PlaceTool](https://pz-wiki-modding.github.io/PZ-API-Docs/scripts/item.html#item-placetool) will indicate what tool the player needs to use to place the tile.\n\nIf you want to add new tools, you can usually use the [ItemTags](https://pz-wiki-modding.github.io/PZ-API-Docs/java/item_tags.html) that you add to your [item tools](https://pz-wiki-modding.github.io/PZ-API-Docs/scripts/item.html#tags), or you can also look into the lua file `media/Moveables/ISMoveableDefinitions.lua` to see how they add each new tools.\n\nThe [PickUpLevel](https://pz-wiki-modding.github.io/PZ-API-Docs/mapping/tile_properties.html#pickuplevel) is used to determine what level in the relevant skill you need to be able to pickup the tile. For example `Hammer` with a PickUpLevel of 2 will require a carpentry level of 2 to pickup the tile.\n\nThe [PickUpWeight](https://pz-wiki-modding.github.io/PZ-API-Docs/mapping/tile_properties.html#pickupweight) will determine how much the tile weights in the inventory. This value is divded by 10, so for example a weight of 200 will mean an in-game encumbrance of 20. If [ForceSingleItem](https://pz-wiki-modding.github.io/PZ-API-Docs/mapping/tile_properties.html#forcesingleitem) is set to `true`, this is the total weight, otherwise this is the weight of each tile as a separate item.\n\n[CanBreak](https://pz-wiki-modding.github.io/PZ-API-Docs/mapping/tile_properties.html#canbreak) can be used to indicate that the tile has a chance to break when being picked up. The chance gets smaller based on the [PickUpLevel](https://pz-wiki-modding.github.io/PZ-API-Docs/mapping/tile_properties.html#pickuplevel)."
+        "field": "PICK_UP_LEVEL"
     },
     "PickUpTool": {
-        "field": "PICK_UP_TOOL",
-        "description": "[PickUpTool](https://pz-wiki-modding.github.io/PZ-API-Docs/scripts/item.html#item-pickuptool) will indicate what tool the player needs to use to pick up the tile, while [PlaceTool](https://pz-wiki-modding.github.io/PZ-API-Docs/scripts/item.html#item-placetool) will indicate what tool the player needs to use to place the tile.\n\nIf you want to add new tools, you can usually use the [ItemTags](https://pz-wiki-modding.github.io/PZ-API-Docs/java/item_tags.html) that you add to your [item tools](https://pz-wiki-modding.github.io/PZ-API-Docs/scripts/item.html#tags), or you can also look into the lua file `media/Moveables/ISMoveableDefinitions.lua` to see how they add each new tools.\n\nThe [PickUpLevel](https://pz-wiki-modding.github.io/PZ-API-Docs/mapping/tile_properties.html#pickuplevel) is used to determine what level in the relevant skill you need to be able to pickup the tile. For example `Hammer` with a PickUpLevel of 2 will require a carpentry level of 2 to pickup the tile.\n\nThe [PickUpWeight](https://pz-wiki-modding.github.io/PZ-API-Docs/mapping/tile_properties.html#pickupweight) will determine how much the tile weights in the inventory. This value is divded by 10, so for example a weight of 200 will mean an in-game encumbrance of 20. If [ForceSingleItem](https://pz-wiki-modding.github.io/PZ-API-Docs/mapping/tile_properties.html#forcesingleitem) is set to `true`, this is the total weight, otherwise this is the weight of each tile as a separate item.\n\n[CanBreak](https://pz-wiki-modding.github.io/PZ-API-Docs/mapping/tile_properties.html#canbreak) can be used to indicate that the tile has a chance to break when being picked up. The chance gets smaller based on the [PickUpLevel](https://pz-wiki-modding.github.io/PZ-API-Docs/mapping/tile_properties.html#pickuplevel).",
-        "values": [
-            "None",
-            "Hammer",
-            "Crowbar",
-            "Electrician",
-            "Cutter",
-            "Shovel",
-            "Wrench"
-        ],
-        "type": {
-            "main": "string"
-        }
+        "field": "PICK_UP_TOOL"
     },
     "PickUpWeight": {
-        "field": "PICK_UP_WEIGHT",
-        "#desc": "PickUpTool",
-        "type": {
-            "main": "integer"
-        },
-        "description": "[PickUpTool](https://pz-wiki-modding.github.io/PZ-API-Docs/scripts/item.html#item-pickuptool) will indicate what tool the player needs to use to pick up the tile, while [PlaceTool](https://pz-wiki-modding.github.io/PZ-API-Docs/scripts/item.html#item-placetool) will indicate what tool the player needs to use to place the tile.\n\nIf you want to add new tools, you can usually use the [ItemTags](https://pz-wiki-modding.github.io/PZ-API-Docs/java/item_tags.html) that you add to your [item tools](https://pz-wiki-modding.github.io/PZ-API-Docs/scripts/item.html#tags), or you can also look into the lua file `media/Moveables/ISMoveableDefinitions.lua` to see how they add each new tools.\n\nThe [PickUpLevel](https://pz-wiki-modding.github.io/PZ-API-Docs/mapping/tile_properties.html#pickuplevel) is used to determine what level in the relevant skill you need to be able to pickup the tile. For example `Hammer` with a PickUpLevel of 2 will require a carpentry level of 2 to pickup the tile.\n\nThe [PickUpWeight](https://pz-wiki-modding.github.io/PZ-API-Docs/mapping/tile_properties.html#pickupweight) will determine how much the tile weights in the inventory. This value is divded by 10, so for example a weight of 200 will mean an in-game encumbrance of 20. If [ForceSingleItem](https://pz-wiki-modding.github.io/PZ-API-Docs/mapping/tile_properties.html#forcesingleitem) is set to `true`, this is the total weight, otherwise this is the weight of each tile as a separate item.\n\n[CanBreak](https://pz-wiki-modding.github.io/PZ-API-Docs/mapping/tile_properties.html#canbreak) can be used to indicate that the tile has a chance to break when being picked up. The chance gets smaller based on the [PickUpLevel](https://pz-wiki-modding.github.io/PZ-API-Docs/mapping/tile_properties.html#pickuplevel)."
+        "field": "PICK_UP_WEIGHT"
     },
     "PlaceTool": {
-        "field": "PLACE_TOOL",
-        "#desc": "PickUpTool",
-        "type": {
-            "main": "string"
-        },
-        "description": "[PickUpTool](https://pz-wiki-modding.github.io/PZ-API-Docs/scripts/item.html#item-pickuptool) will indicate what tool the player needs to use to pick up the tile, while [PlaceTool](https://pz-wiki-modding.github.io/PZ-API-Docs/scripts/item.html#item-placetool) will indicate what tool the player needs to use to place the tile.\n\nIf you want to add new tools, you can usually use the [ItemTags](https://pz-wiki-modding.github.io/PZ-API-Docs/java/item_tags.html) that you add to your [item tools](https://pz-wiki-modding.github.io/PZ-API-Docs/scripts/item.html#tags), or you can also look into the lua file `media/Moveables/ISMoveableDefinitions.lua` to see how they add each new tools.\n\nThe [PickUpLevel](https://pz-wiki-modding.github.io/PZ-API-Docs/mapping/tile_properties.html#pickuplevel) is used to determine what level in the relevant skill you need to be able to pickup the tile. For example `Hammer` with a PickUpLevel of 2 will require a carpentry level of 2 to pickup the tile.\n\nThe [PickUpWeight](https://pz-wiki-modding.github.io/PZ-API-Docs/mapping/tile_properties.html#pickupweight) will determine how much the tile weights in the inventory. This value is divded by 10, so for example a weight of 200 will mean an in-game encumbrance of 20. If [ForceSingleItem](https://pz-wiki-modding.github.io/PZ-API-Docs/mapping/tile_properties.html#forcesingleitem) is set to `true`, this is the total weight, otherwise this is the weight of each tile as a separate item.\n\n[CanBreak](https://pz-wiki-modding.github.io/PZ-API-Docs/mapping/tile_properties.html#canbreak) can be used to indicate that the tile has a chance to break when being picked up. The chance gets smaller based on the [PickUpLevel](https://pz-wiki-modding.github.io/PZ-API-Docs/mapping/tile_properties.html#pickuplevel)."
+        "field": "PLACE_TOOL"
     },
     "propaneTank": {
         "field": "PROPANE_TANK"
@@ -729,39 +618,13 @@
         "field": "SINK_TYPE"
     },
     "SlopedSurfaceDirection": {
-        "field": "SLOPED_SURFACE_DIRECTION",
-        "type": {
-            "main": "string"
-        },
-        "values": [
-            "N",
-            "E",
-            "S",
-            "W",
-            "NE",
-            "NW",
-            "SE",
-            "SW"
-        ],
-        "default": null
+        "field": "SLOPED_SURFACE_DIRECTION"
     },
     "SlopedSurfaceHeightMax": {
-        "field": "SLOPED_SURFACE_HEIGHT_MAX",
-        "type": {
-            "main": "integer",
-            "min": 0,
-            "max": 100
-        },
-        "default": 0
+        "field": "SLOPED_SURFACE_HEIGHT_MAX"
     },
     "SlopedSurfaceHeightMin": {
-        "field": "SLOPED_SURFACE_HEIGHT_MIN",
-        "type": {
-            "main": "integer",
-            "min": 0,
-            "max": 100
-        },
-        "default": 0
+        "field": "SLOPED_SURFACE_HEIGHT_MIN"
     },
     "SmashedTileOffset": {
         "field": "SMASHED_TILE_OFFSET"
@@ -788,15 +651,10 @@
         "field": "SPRITE_GRID_LEVEL"
     },
     "SpriteGridPos": {
-        "field": "SPRITE_GRID_POS",
-        "description": "Used to specify the position the tile occupies when it is part of multi-tile objects. The first coordinates is in the direction X while the second is in the direction Y. The positive X direction is pointing towards the bottom right, while the positive Y direction is pointing towards the bottom left.\n\nYou can find an image which demonstrates the coordinates based on the positions [here](https://pzwiki.net/wiki/Tile_properties#Directions)."
+        "field": "SPRITE_GRID_POS"
     },
     "StackReplaceTileOffset": {
-        "field": "STACK_REPLACE_TILE_OFFSET",
-        "type": {
-            "main": "integer"
-        },
-        "default": 0
+        "field": "STACK_REPLACE_TILE_OFFSET"
     },
     "stairsBN": {
         "field": "STAIRS_BN"
@@ -823,12 +681,7 @@
         "field": "STREETLIGHT"
     },
     "Surface": {
-        "field": "SURFACE",
-        "description": "The surface position of the tile when an object is on a tabletop surface like a counter or table. Requires [IsSurfaceOffset](https://pz-wiki-modding.github.io/PZ-API-Docs/mapping/tile_properties.html#issurfaceoffset) set to `true`.",
-        "type": {
-            "main": "integer"
-        },
-        "default": 0
+        "field": "SURFACE"
     },
     "Soffset": {
         "field": "S_OFFSET"
@@ -897,11 +750,7 @@
         "field": "UNUSROOF_WALL_STARTD"
     },
     "UseObjectDepthTexture": {
-        "field": "USE_OBJECT_DEPTH_TEXTURE",
-        "description": "Makes the tile use the tile depth of the tile it overlays. For example an overlay adding items on a shelf will use the shelf tile depth.",
-        "type": {
-            "main": "boolean"
-        }
+        "field": "USE_OBJECT_DEPTH_TEXTURE"
     },
     "vegitation": {
         "field": "VEGITATION"
