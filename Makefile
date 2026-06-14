@@ -1,5 +1,5 @@
 .ONESHELL:
-.PHONY: help run
+.PHONY: help decompile run
 
 SHELL := /bin/bash
 
@@ -13,6 +13,7 @@ endif
 help:
 	@echo "PZ Lua Parser"
 	@echo "Available targets:"
+	@echo "  decompile:   Download and run the ZomboidDecompiler"
 	@echo "  run:   Run the parser"
 
 decompile:
