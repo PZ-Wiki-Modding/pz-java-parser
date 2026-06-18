@@ -1,0 +1,458 @@
+[
+    {
+        "field": "AMMO_STRAP",
+        "name": "AmmoStrap"
+    },
+    {
+        "field": "ANKLE_HOLSTER",
+        "name": "AnkleHolster"
+    },
+    {
+        "field": "BACK",
+        "name": "Back"
+    },
+    {
+        "field": "BANDAGE",
+        "name": "Bandage"
+    },
+    {
+        "field": "BATH_ROBE",
+        "name": "BathRobe"
+    },
+    {
+        "field": "BELLY_BUTTON",
+        "name": "BellyButton"
+    },
+    {
+        "field": "BELT",
+        "name": "Belt"
+    },
+    {
+        "field": "BELT_EXTRA",
+        "name": "BeltExtra"
+    },
+    {
+        "field": "BODY_COSTUME",
+        "name": "BodyCostume"
+    },
+    {
+        "field": "BOILERSUIT",
+        "name": "Boilersuit"
+    },
+    {
+        "field": "CALF_LEFT",
+        "name": "Calf_Left"
+    },
+    {
+        "field": "CALF_LEFT_TEXTURE",
+        "name": "Calf_Left_Texture"
+    },
+    {
+        "field": "CALF_RIGHT",
+        "name": "Calf_Right"
+    },
+    {
+        "field": "CALF_RIGHT_TEXTURE",
+        "name": "Calf_Right_Texture"
+    },
+    {
+        "field": "CODPIECE",
+        "name": "Codpiece"
+    },
+    {
+        "field": "CUIRASS",
+        "name": "Cuirass"
+    },
+    {
+        "field": "DRESS",
+        "name": "Dress"
+    },
+    {
+        "field": "EARS",
+        "name": "Ears"
+    },
+    {
+        "field": "EAR_TOP",
+        "name": "EarTop"
+    },
+    {
+        "field": "ELBOW_LEFT",
+        "name": "Elbow_Left"
+    },
+    {
+        "field": "ELBOW_RIGHT",
+        "name": "Elbow_Right"
+    },
+    {
+        "field": "EYES",
+        "name": "Eyes"
+    },
+    {
+        "field": "FANNY_PACK_BACK",
+        "name": "FannyPackBack"
+    },
+    {
+        "field": "FANNY_PACK_FRONT",
+        "name": "FannyPackFront"
+    },
+    {
+        "field": "FORE_ARM_LEFT",
+        "name": "ForeArm_Left"
+    },
+    {
+        "field": "FORE_ARM_RIGHT",
+        "name": "ForeArm_Right"
+    },
+    {
+        "field": "FULL_HAT",
+        "name": "FullHat"
+    },
+    {
+        "field": "FULL_ROBE",
+        "name": "FullRobe"
+    },
+    {
+        "field": "FULL_SUIT",
+        "name": "FullSuit"
+    },
+    {
+        "field": "FULL_SUIT_HEAD",
+        "name": "FullSuitHead"
+    },
+    {
+        "field": "FULL_SUIT_HEAD_SCBA",
+        "name": "FullSuitHeadSCBA"
+    },
+    {
+        "field": "FULL_TOP",
+        "name": "FullTop"
+    },
+    {
+        "field": "GAITER_LEFT",
+        "name": "Gaiter_Left"
+    },
+    {
+        "field": "GAITER_RIGHT",
+        "name": "Gaiter_Right"
+    },
+    {
+        "field": "GORGET",
+        "name": "Gorget"
+    },
+    {
+        "field": "HANDS",
+        "name": "Hands"
+    },
+    {
+        "field": "HANDS_LEFT",
+        "name": "HandsLeft"
+    },
+    {
+        "field": "HANDS_RIGHT",
+        "name": "HandsRight"
+    },
+    {
+        "field": "HAT",
+        "name": "Hat"
+    },
+    {
+        "field": "JACKET",
+        "name": "Jacket"
+    },
+    {
+        "field": "JACKET_BULKY",
+        "name": "Jacket_Bulky"
+    },
+    {
+        "field": "JACKET_DOWN",
+        "name": "Jacket_Down"
+    },
+    {
+        "field": "JACKET_HAT",
+        "name": "JacketHat"
+    },
+    {
+        "field": "JACKET_HAT_BULKY",
+        "name": "JacketHat_Bulky"
+    },
+    {
+        "field": "JACKET_SUIT",
+        "name": "JacketSuit"
+    },
+    {
+        "field": "JERSEY",
+        "name": "Jersey"
+    },
+    {
+        "field": "KNEE_LEFT",
+        "name": "Knee_Left"
+    },
+    {
+        "field": "KNEE_RIGHT",
+        "name": "Knee_Right"
+    },
+    {
+        "field": "LEFT_MIDDLE_FINGER",
+        "name": "Left_MiddleFinger"
+    },
+    {
+        "field": "LEFT_RING_FINGER",
+        "name": "Left_RingFinger"
+    },
+    {
+        "field": "LEFT_ARM",
+        "name": "LeftArm"
+    },
+    {
+        "field": "LEFT_EYE",
+        "name": "LeftEye"
+    },
+    {
+        "field": "LEFT_WRIST",
+        "name": "LeftWrist"
+    },
+    {
+        "field": "LEGS1",
+        "name": "Legs1"
+    },
+    {
+        "field": "LEGS5",
+        "name": "Legs5"
+    },
+    {
+        "field": "LONG_DRESS",
+        "name": "LongDress"
+    },
+    {
+        "field": "LONG_SKIRT",
+        "name": "LongSkirt"
+    },
+    {
+        "field": "MAKE_UP_EYES",
+        "name": "MakeUp_Eyes"
+    },
+    {
+        "field": "MAKE_UP_EYES_SHADOW",
+        "name": "MakeUp_EyesShadow"
+    },
+    {
+        "field": "MAKE_UP_FULL_FACE",
+        "name": "MakeUp_FullFace"
+    },
+    {
+        "field": "MAKE_UP_LIPS",
+        "name": "MakeUp_Lips"
+    },
+    {
+        "field": "MASK",
+        "name": "Mask"
+    },
+    {
+        "field": "MASK_EYES",
+        "name": "MaskEyes"
+    },
+    {
+        "field": "MASK_FULL",
+        "name": "MaskFull"
+    },
+    {
+        "field": "NECK",
+        "name": "Neck"
+    },
+    {
+        "field": "NECK_TEXTURE",
+        "name": "Neck_Texture"
+    },
+    {
+        "field": "NECKLACE",
+        "name": "Necklace"
+    },
+    {
+        "field": "NECKLACE_LONG",
+        "name": "Necklace_Long"
+    },
+    {
+        "field": "NOSE",
+        "name": "Nose"
+    },
+    {
+        "field": "PANTS",
+        "name": "Pants"
+    },
+    {
+        "field": "PANTS_SKINNY",
+        "name": "Pants_Skinny"
+    },
+    {
+        "field": "PANTS_EXTRA",
+        "name": "PantsExtra"
+    },
+    {
+        "field": "RIGHT_MIDDLE_FINGER",
+        "name": "Right_MiddleFinger"
+    },
+    {
+        "field": "RIGHT_RING_FINGER",
+        "name": "Right_RingFinger"
+    },
+    {
+        "field": "RIGHT_ARM",
+        "name": "RightArm"
+    },
+    {
+        "field": "RIGHT_EYE",
+        "name": "RightEye"
+    },
+    {
+        "field": "RIGHT_WRIST",
+        "name": "RightWrist"
+    },
+    {
+        "field": "SATCHEL",
+        "name": "Satchel"
+    },
+    {
+        "field": "SCARF",
+        "name": "Scarf"
+    },
+    {
+        "field": "SCBA",
+        "name": "SCBA"
+    },
+    {
+        "field": "SCBANOTANK",
+        "name": "SCBAnotank"
+    },
+    {
+        "field": "SHIRT",
+        "name": "Shirt"
+    },
+    {
+        "field": "SHOES",
+        "name": "Shoes"
+    },
+    {
+        "field": "SHORT_PANTS",
+        "name": "ShortPants"
+    },
+    {
+        "field": "SHORT_SLEEVE_SHIRT",
+        "name": "ShortSleeveShirt"
+    },
+    {
+        "field": "SHORTS_SHORT",
+        "name": "ShortsShort"
+    },
+    {
+        "field": "SHOULDER_HOLSTER",
+        "name": "ShoulderHolster"
+    },
+    {
+        "field": "SHOULDERPAD_LEFT",
+        "name": "ShoulderpadLeft"
+    },
+    {
+        "field": "SHOULDERPAD_RIGHT",
+        "name": "ShoulderpadRight"
+    },
+    {
+        "field": "SKIRT",
+        "name": "Skirt"
+    },
+    {
+        "field": "SOCKS",
+        "name": "Socks"
+    },
+    {
+        "field": "SPORT_SHOULDERPAD",
+        "name": "SportShoulderpad"
+    },
+    {
+        "field": "SPORT_SHOULDERPAD_ON_TOP",
+        "name": "SportShoulderpadOnTop"
+    },
+    {
+        "field": "SWEATER",
+        "name": "Sweater"
+    },
+    {
+        "field": "SWEATER_HAT",
+        "name": "SweaterHat"
+    },
+    {
+        "field": "TAIL",
+        "name": "Tail"
+    },
+    {
+        "field": "TANK_TOP",
+        "name": "TankTop"
+    },
+    {
+        "field": "THIGH_LEFT",
+        "name": "Thigh_Left"
+    },
+    {
+        "field": "THIGH_RIGHT",
+        "name": "Thigh_Right"
+    },
+    {
+        "field": "TORSO1LEGS1",
+        "name": "Torso1Legs1"
+    },
+    {
+        "field": "TORSO1",
+        "name": "Torso1"
+    },
+    {
+        "field": "TORSO_EXTRA",
+        "name": "TorsoExtra"
+    },
+    {
+        "field": "TORSO_EXTRA_VEST",
+        "name": "TorsoExtraVest"
+    },
+    {
+        "field": "TORSO_EXTRA_VEST_BULLET",
+        "name": "TorsoExtraVestBullet"
+    },
+    {
+        "field": "TSHIRT",
+        "name": "Tshirt"
+    },
+    {
+        "field": "UNDERWEAR",
+        "name": "Underwear"
+    },
+    {
+        "field": "UNDERWEAR_BOTTOM",
+        "name": "UnderwearBottom"
+    },
+    {
+        "field": "UNDERWEAR_EXTRA1",
+        "name": "UnderwearExtra1"
+    },
+    {
+        "field": "UNDERWEAR_EXTRA2",
+        "name": "UnderwearExtra2"
+    },
+    {
+        "field": "UNDERWEAR_TOP",
+        "name": "UnderwearTop"
+    },
+    {
+        "field": "VEST_TEXTURE",
+        "name": "VestTexture"
+    },
+    {
+        "field": "WEBBING",
+        "name": "Webbing"
+    },
+    {
+        "field": "WOUND",
+        "name": "Wound"
+    },
+    {
+        "field": "ZED_DMG",
+        "name": "ZedDmg"
+    }
+]
