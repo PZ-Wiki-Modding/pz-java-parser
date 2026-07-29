@@ -2700,8 +2700,16 @@
         "id": "CorpseThrowOutWindow"
     },
     {
+        "field": "CRAFT_FIX_WEAPON",
+        "id": "CraftFixWeapon"
+    },
+    {
         "field": "CRAFT_MAKE_CEMENT",
         "id": "CraftMakeCement"
+    },
+    {
+        "field": "CRAFT_METAL_SAWING",
+        "id": "CraftMetalSawing"
     },
     {
         "field": "CRAFT_MINERAL_DEPOSIT_HIT",
@@ -2710,6 +2718,10 @@
     {
         "field": "CRAFT_MINERAL_DEPOSIT_REMOVE",
         "id": "CraftMineralDepositRemove"
+    },
+    {
+        "field": "CRAFT_PACK_UNPACK",
+        "id": "CraftPackUnpack"
     },
     {
         "field": "CRAFT_PREPARE_COOKING",
@@ -2730,6 +2742,10 @@
     {
         "field": "CRAFT_WEAPON_SPEAR_WOOD",
         "id": "CraftWeaponSpearWood"
+    },
+    {
+        "field": "CRAFT_WELDING",
+        "id": "CraftWelding"
     },
     {
         "field": "CRATE_METAL_CLOSE",
@@ -11738,6 +11754,14 @@
     {
         "field": "WATER_CROPS",
         "id": "WaterCrops"
+    },
+    {
+        "field": "WATER_DISPENSER_ADD_BOTTLE",
+        "id": "WaterDispenserAddBottle"
+    },
+    {
+        "field": "WATER_DISPENSER_REMOVE_BOTTLE",
+        "id": "WaterDispenserRemoveBottle"
     },
     {
         "field": "WATER_DRIP",
