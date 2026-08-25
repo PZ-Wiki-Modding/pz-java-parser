@@ -60,7 +60,7 @@ def parse_entry(entry: ConfigEntry):
             results.append(convert_types(match.groupdict(), typing))
 
     with open(out_file, "w") as out_f:
-        json.dump(results, out_f, indent=4, sort_keys=True)
+        json.dump(results, out_f, indent=4)
 
 
 def main():
