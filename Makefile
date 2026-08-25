@@ -12,10 +12,11 @@ else
 endif
 
 help:
-	@echo "PZ Lua Parser"
+	@echo "PZ Java Parser"
 	@echo "Available targets:"
-	@echo "  decompile:   Download and run the ZomboidDecompiler"
-	@echo "  run:   Run the parser"
+	@echo "  download_zomboid_decompiler:   Download ZomboidDecompiler"
+	@echo "  decompile:                     Run the ZomboidDecompiler"
+	@echo "  run:                           Run the parser"
 
 download_zomboid_decompiler:
 	@echo "Downloading ZomboidDecompiler..."
@@ -63,10 +64,4 @@ run:
 		exit 1;
 	fi
 
-	./.venv/bin/python ./scripts/colors.py
-	./.venv/bin/python ./scripts/item_tags.py
-	./.venv/bin/python ./scripts/magazine_subject.py
-	./.venv/bin/python ./scripts/metabolics.py
-	./.venv/bin/python ./scripts/action_sound_time.py
-	./.venv/bin/python ./scripts/sound_keys.py
-	./.venv/bin/python ./scripts/tile_properties.py
+	./.venv/bin/python src/parseAny.py config.yaml
