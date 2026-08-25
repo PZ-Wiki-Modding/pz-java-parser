@@ -37,3 +37,7 @@
 - pattern: public static final TilePropertyKey (?P<field>\w+) = registerBase\("(?P<name>\w+)"\);
   file: ZomboidDecompiler/output/source/zombie/core/properties/TilePropertyKey.java
   out: out/tile_properties.json
+
+- pattern: public static final Registry<(?P<class>\w+)> (?P<field>\w+) = register\(\"(?P<name>\w+)\", \(\) -> (?P<default>\S+)\);
+  file: ZomboidDecompiler/output/source/zombie/scripting/objects/Registries.java
+  out: out/registries.json

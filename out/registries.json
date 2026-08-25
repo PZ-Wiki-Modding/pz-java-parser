@@ -1,0 +1,212 @@
+[
+    {
+        "class": "AmmoType",
+        "field": "AMMO_TYPE",
+        "name": "ammo_type",
+        "default": "AmmoType.BULLETS_44"
+    },
+    {
+        "class": "Book",
+        "field": "BOOK",
+        "name": "book",
+        "default": "Book.WORLDS_UNLIKELIEST_PLANE_CRASHES"
+    },
+    {
+        "class": "BookSubject",
+        "field": "BOOK_SUBJECT",
+        "name": "book_subject",
+        "default": "BookSubject.ADVENTURE_NON_FICTION"
+    },
+    {
+        "class": "Brochure",
+        "field": "BROCHURE",
+        "name": "brochure",
+        "default": "Brochure.AIRPORT"
+    },
+    {
+        "class": "Business",
+        "field": "BUSINESS",
+        "name": "business",
+        "default": "Business.BEANZ"
+    },
+    {
+        "class": "Catalogue",
+        "field": "CATALOGUE",
+        "name": "catalogue",
+        "default": "Catalogue.AA_RON_HUNTING_SUPPLIES"
+    },
+    {
+        "class": "CharacterProfession",
+        "field": "CHARACTER_PROFESSION",
+        "name": "character_profession",
+        "default": "CharacterProfession.BURGLAR"
+    },
+    {
+        "class": "CharacterTrait",
+        "field": "CHARACTER_TRAIT",
+        "name": "character_trait",
+        "default": "CharacterTrait.ADRENALINE_JUNKIE"
+    },
+    {
+        "class": "ComicBook",
+        "field": "COMIC_BOOK",
+        "name": "comic_book",
+        "default": "ComicBook.BLASTFORCE"
+    },
+    {
+        "class": "Doodle",
+        "field": "DOODLE",
+        "name": "doodle",
+        "default": "Doodle.A_BATTLE"
+    },
+    {
+        "class": "DoodleKids",
+        "field": "DOODLE_KIDS",
+        "name": "doodle_kids",
+        "default": "DoodleKids.A_CARTOON_CHARACTER"
+    },
+    {
+        "class": "Flier",
+        "field": "FLIER",
+        "name": "flier",
+        "default": "Flier.A1_HAY"
+    },
+    {
+        "class": "GameMode",
+        "field": "GAME_MODE",
+        "name": "game_mode",
+        "default": "GameMode.APOCALYPSE"
+    },
+    {
+        "class": "Letter",
+        "field": "LETTER",
+        "name": "genericMail",
+        "default": "Letter.ACCEPTANCE_LETTER"
+    },
+    {
+        "class": "Locket",
+        "field": "LOCKET",
+        "name": "locket",
+        "default": "Locket.A_BIRTHDAY_PARTY"
+    },
+    {
+        "class": "TilePropertyKey",
+        "field": "TILE_PROPERTY_KEY",
+        "name": "tile_property_key",
+        "default": "TilePropertyKey.ALWAYS_DRAW"
+    },
+    {
+        "class": "ItemBodyLocation",
+        "field": "ITEM_BODY_LOCATION",
+        "name": "item_body_location",
+        "default": "ItemBodyLocation.HAT"
+    },
+    {
+        "class": "ItemTag",
+        "field": "ITEM_TAG",
+        "name": "item_tag",
+        "default": "ItemTag.IS_MEMENTO"
+    },
+    {
+        "class": "ItemType",
+        "field": "ITEM_TYPE",
+        "name": "item_type",
+        "default": "ItemType.FOOD"
+    },
+    {
+        "class": "Job",
+        "field": "JOB",
+        "name": "job",
+        "default": "Job.ACCOUNTANT"
+    },
+    {
+        "class": "Magazine",
+        "field": "MAGAZINE",
+        "name": "magazine",
+        "default": "Magazine.AIR_AND_SPACE_NEWS"
+    },
+    {
+        "class": "MagazineSubject",
+        "field": "MAGAZINE_SUBJECT",
+        "name": "magazine_subject",
+        "default": "MagazineSubject.ART"
+    },
+    {
+        "class": "MetaRecipe",
+        "field": "META_RECIPE",
+        "name": "meta_recipe",
+        "default": "MetaRecipe.ASSEMBLE_ADVANCED_FRAMEPACK"
+    },
+    {
+        "class": "MoodleType",
+        "field": "MOODLE_TYPE",
+        "name": "moodle_type",
+        "default": "MoodleType.ENDURANCE"
+    },
+    {
+        "class": "Newspaper",
+        "field": "NEWSPAPER",
+        "name": "newspaper",
+        "default": "Newspaper.KENTUCKY_HERALD"
+    },
+    {
+        "class": "OldNewspaper",
+        "field": "OLD_NEWSPAPER",
+        "name": "old_newspaper",
+        "default": "OldNewspaper.BOWLING_GREEN_POST"
+    },
+    {
+        "class": "PetName",
+        "field": "PET_NAME",
+        "name": "pet_name",
+        "default": "PetName.BEN"
+    },
+    {
+        "class": "Photo",
+        "field": "PHOTO",
+        "name": "photo",
+        "default": "Photo.A_BABY"
+    },
+    {
+        "class": "Postcard",
+        "field": "POSTCARD",
+        "name": "postcard",
+        "default": "Postcard.ALASKA"
+    },
+    {
+        "class": "RpgManual",
+        "field": "RPG_MANUAL",
+        "name": "rpg_magazine",
+        "default": "RpgManual.ADVENTURE_MANAGER_IMAGINATION_RULEBOOK"
+    },
+    {
+        "class": "SeasonRecipe",
+        "field": "SEASON_RECIPE",
+        "name": "season_recipe",
+        "default": "SeasonRecipe.BARLEY_GROWING_SEASON"
+    },
+    {
+        "class": "SoundKey",
+        "field": "SOUND_KEY",
+        "name": "sound_key",
+        "default": "SoundKey.ACOUSTIC_GUITAR_BREAK"
+    },
+    {
+        "class": "SurvivalGuideEntry",
+        "field": "SURVIVAL_GUIDE_ENTRY",
+        "name": "survival_guide_entry",
+        "default": "SurvivalGuideEntry.MOVEMENT"
+    },
+    {
+        "class": "WeaponCategory",
+        "field": "WEAPON_CATEGORY",
+        "name": "weapon_category",
+        "default": "WeaponCategory.BLUNT"
+    },
+    {
+        "class": "ContainerType",
+        "field": "CONTAINER_TYPE",
+        "name": "container_type",
+        "default": "ContainerType.BARBECUE"
+    }
+]
