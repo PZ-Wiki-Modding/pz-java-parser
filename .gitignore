@@ -1,2 +1,6 @@
+# python
+*.egg-info
+
+# decompiler
 ZomboidDecompiler.zip
 ZomboidDecompiler/

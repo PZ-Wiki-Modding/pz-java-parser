@@ -1,0 +1,12 @@
+[project]
+name = "pz-java-parser"
+description = "Parser for the PZ Java files"
+requires-python = ">=3.12.3"
+version = "1.0.0"
+license-files = ["LICENSE"]
+authors = [
+  { name = "SimKDT" },
+]
+dependencies = [
+  "pylogs @ git+https://github.com/SimKDT/pylogs.git",
+]

@@ -1,0 +1,39 @@
+- pattern: (?P<enum>\w+)\((?P<value>\d+.\d+)F\)[,;]
+  file: ZomboidDecompiler/output/source/zombie/characters/BodyDamage/Metabolics.java
+  out: out/metabolics.json
+  typing:
+    value: float
+
+- pattern: public static final MagazineSubject (?P<field>\w+) = registerBase\(\"(?P<name>\w+)\"\);
+  file: ZomboidDecompiler/output/source/zombie/scripting/objects/MagazineSubject.java
+  out: out/magazine_subject.json
+
+- pattern: public static final SoundKey (?P<field>\w+) = registerBase\(\"(?P<id>\w+)\"\);
+  file: ZomboidDecompiler/output/source/zombie/scripting/objects/SoundKey.java
+  out: out/sound_keys.json
+
+- pattern: ItemTag (?P<field>\S+) = registerBase\(\"(?P<name>\S+)\"\);
+  file: ZomboidDecompiler/output/source/zombie/scripting/objects/ItemTag.java
+  out: out/item_tags.json
+  typing:
+    name: lowered
+
+- pattern: public static final ItemBodyLocation (?P<field>\w+) = registerBase\(\"(?P<name>\w+)\"\);
+  file: ZomboidDecompiler/output/source/zombie/scripting/objects/ItemBodyLocation.java
+  out: out/item_body_locations.json
+
+- pattern: Color (?P<field>\S+) = (?:(?P<fct>AddGameColor|addColorCB|addColor)\(\"(?P<name>\S+)\", new Color\((?P<r>\d+\.\d+)F, (?P<g>\d+\.\d+)F, (?P<b>\d+\.\d+)F\)\)|(?P<ref>\S+));
+  file: ZomboidDecompiler/output/source/zombie/core/Colors.java
+  out: out/colors.json
+  typing:
+    r: float
+    g: float
+    b: float
+
+- pattern: (?P<enum>[A-Z_]+)\(\"(?P<name>\w+)\"\)[,;]
+  file: ZomboidDecompiler/output/source/zombie/scripting/objects/ActionSoundTime.java
+  out: out/action_sound_time.json
+
+- pattern: public static final TilePropertyKey (?P<field>\w+) = registerBase\("(?P<name>\w+)"\);
+  file: ZomboidDecompiler/output/source/zombie/core/properties/TilePropertyKey.java
+  out: out/tile_properties.json
