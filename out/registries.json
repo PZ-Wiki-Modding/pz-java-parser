@@ -208,5 +208,11 @@
         "field": "CONTAINER_TYPE",
         "name": "container_type",
         "default": "ContainerType.BARBECUE"
+    },
+    {
+        "class": "KeybindId",
+        "field": "KEYBIND_ID",
+        "name": "keybind_id",
+        "default": "KeybindId.FORWARD"
     }
 ]
