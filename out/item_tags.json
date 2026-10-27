@@ -596,6 +596,10 @@
         "name": "fullblade"
     },
     {
+        "field": "FUNNEL",
+        "name": "funnel"
+    },
+    {
         "field": "GARBAGE_BAG",
         "name": "garbagebag"
     },
@@ -702,6 +706,22 @@
     {
         "field": "HEADING_TOOL",
         "name": "headingtool"
+    },
+    {
+        "field": "HELD_ITEM_MASK_BAG",
+        "name": "helditemmaskbag"
+    },
+    {
+        "field": "HELD_ITEM_MASK_BUCKET",
+        "name": "helditemmaskbucket"
+    },
+    {
+        "field": "HELD_ITEM_MASK_TORCH",
+        "name": "helditemmasktorch"
+    },
+    {
+        "field": "HELD_ITEM_BLOCKS_SHOVE",
+        "name": "helditemblocksshove"
     },
     {
         "field": "HEAVY_ITEM",

@@ -8,12 +8,20 @@
         "id": "AcousticGuitarDrop"
     },
     {
+        "field": "ACOUSTIC_GUITAR_EQUIP",
+        "id": "AcousticGuitarEquip"
+    },
+    {
         "field": "ACOUSTIC_GUITAR_HIT",
         "id": "AcousticGuitarHit"
     },
     {
         "field": "ACOUSTIC_GUITAR_SWING",
         "id": "AcousticGuitarSwing"
+    },
+    {
+        "field": "ACOUSTIC_GUITAR_UNEQUIP",
+        "id": "AcousticGuitarUnEquip"
     },
     {
         "field": "ADD_BAIT_TO_FISHING_LINE",
@@ -68,6 +76,10 @@
         "id": "AerosolBombThrow"
     },
     {
+        "field": "AEROSOL_BOMB_UNEQUIP",
+        "id": "AerosolBombUnEquip"
+    },
+    {
         "field": "ALARM_CLOCK_RINGING_LOOP",
         "id": "AlarmClockRingingLoop"
     },
@@ -80,12 +92,20 @@
         "id": "AnimalBoneDrop"
     },
     {
+        "field": "ANIMAL_BONE_EQUIP",
+        "id": "AnimalBoneEquip"
+    },
+    {
         "field": "ANIMAL_BONE_HIT",
         "id": "AnimalBoneHit"
     },
     {
         "field": "ANIMAL_BONE_SWING",
         "id": "AnimalBoneSwing"
+    },
+    {
+        "field": "ANIMAL_BONE_UNEQUIP",
+        "id": "AnimalBoneUnEquip"
     },
     {
         "field": "ANIMAL_FEEDER_ADD_FEED",
@@ -960,8 +980,16 @@
         "id": "AxeDrop"
     },
     {
+        "field": "AXE_EQUIP",
+        "id": "AxeEquip"
+    },
+    {
         "field": "AXE_HIT",
         "id": "AxeHit"
+    },
+    {
+        "field": "AXE_UNEQUIP",
+        "id": "AxeUnEquip"
     },
     {
         "field": "AXE_SAW_BLADE_BREAK",
@@ -972,12 +1000,20 @@
         "id": "AxeSawBladeDrop"
     },
     {
+        "field": "AXE_SAW_BLADE_EQUIP",
+        "id": "AxeSawBladeEquip"
+    },
+    {
         "field": "AXE_SAW_BLADE_HIT",
         "id": "AxeSawBladeHit"
     },
     {
         "field": "AXE_SAW_BLADE_SWING",
         "id": "AxeSawBladeSwing"
+    },
+    {
+        "field": "AXE_SAW_BLADE_UNEQUIP",
+        "id": "AxeSawBladeUnEquip"
     },
     {
         "field": "AXE_SCRAP_CLEAVER_BREAK",
@@ -988,12 +1024,20 @@
         "id": "AxeScrapCleaverDrop"
     },
     {
+        "field": "AXE_SCRAP_CLEAVER_EQUIP",
+        "id": "AxeScrapCleaverEquip"
+    },
+    {
         "field": "AXE_SCRAP_CLEAVER_HIT",
         "id": "AxeScrapCleaverHit"
     },
     {
         "field": "AXE_SCRAP_CLEAVER_SWING",
         "id": "AxeScrapCleaverSwing"
+    },
+    {
+        "field": "AXE_SCRAP_CLEAVER_UNEQUIP",
+        "id": "AxeScrapCleaverUnEquip"
     },
     {
         "field": "AXE_SWING",
@@ -1008,12 +1052,20 @@
         "id": "BadmintonRacketDrop"
     },
     {
+        "field": "BADMINTON_RACKET_EQUIP",
+        "id": "BadmintonRacketEquip"
+    },
+    {
         "field": "BADMINTON_RACKET_HIT",
         "id": "BadmintonRacketHit"
     },
     {
         "field": "BADMINTON_RACKET_SWING",
         "id": "BadmintonRacketSwing"
+    },
+    {
+        "field": "BADMINTON_RACKET_UNEQUIP",
+        "id": "BadmintonRacketUnEquip"
     },
     {
         "field": "BALL_PEEN_HAMMER_BREAK",
@@ -1024,12 +1076,20 @@
         "id": "BallPeenHammerDrop"
     },
     {
+        "field": "BALL_PEEN_HAMMER_EQUIP",
+        "id": "BallPeenHammerEquip"
+    },
+    {
         "field": "BALL_PEEN_HAMMER_HIT",
         "id": "BallPeenHammerHit"
     },
     {
         "field": "BALL_PEEN_HAMMER_SWING",
         "id": "BallPeenHammerSwing"
+    },
+    {
+        "field": "BALL_PEEN_HAMMER_UNEQUIP",
+        "id": "BallPeenHammerUnEquip"
     },
     {
         "field": "BANJO_BREAK",
@@ -1040,12 +1100,20 @@
         "id": "BanjoDrop"
     },
     {
+        "field": "BANJO_EQUIP",
+        "id": "BanjoEquip"
+    },
+    {
         "field": "BANJO_HIT",
         "id": "BanjoHit"
     },
     {
         "field": "BANJO_SWING",
         "id": "BanjoSwing"
+    },
+    {
+        "field": "BANJO_UNEQUIP",
+        "id": "BanjoUnEquip"
     },
     {
         "field": "BARBED_WIRE_ICE_HOCKEY_STICK_BREAK",
@@ -1056,12 +1124,20 @@
         "id": "BarbedWireIceHockeyStickDrop"
     },
     {
+        "field": "BARBED_WIRE_ICE_HOCKEY_STICK_EQUIP",
+        "id": "BarbedWireIceHockeyStickEquip"
+    },
+    {
         "field": "BARBED_WIRE_ICE_HOCKEY_STICK_HIT",
         "id": "BarbedWireIceHockeyStickHit"
     },
     {
         "field": "BARBED_WIRE_ICE_HOCKEY_STICK_SWING",
         "id": "BarbedWireIceHockeyStickSwing"
+    },
+    {
+        "field": "BARBED_WIRE_ICE_HOCKEY_STICK_UNEQUIP",
+        "id": "BarbedWireIceHockeyStickUnEquip"
     },
     {
         "field": "BARBED_WIRE_PLUNGER_BREAK",
@@ -1072,12 +1148,20 @@
         "id": "BarbedWirePlungerDrop"
     },
     {
+        "field": "BARBED_WIRE_PLUNGER_EQUIP",
+        "id": "BarbedWirePlungerEquip"
+    },
+    {
         "field": "BARBED_WIRE_PLUNGER_HIT",
         "id": "BarbedWirePlungerHit"
     },
     {
         "field": "BARBED_WIRE_PLUNGER_SWING",
         "id": "BarbedWirePlungerSwing"
+    },
+    {
+        "field": "BARBED_WIRE_PLUNGER_UNEQUIP",
+        "id": "BarbedWirePlungerUnEquip"
     },
     {
         "field": "BARBELL_BREAK",
@@ -1088,12 +1172,20 @@
         "id": "BarbellDrop"
     },
     {
+        "field": "BARBELL_EQUIP",
+        "id": "BarbellEquip"
+    },
+    {
         "field": "BARBELL_HIT",
         "id": "BarbellHit"
     },
     {
         "field": "BARBELL_SWING",
         "id": "BarbellSwing"
+    },
+    {
+        "field": "BARBELL_UNEQUIP",
+        "id": "BarbellUnEquip"
     },
     {
         "field": "BARE_HANDS_HIT",
@@ -1108,12 +1200,20 @@
         "id": "BaseballBatDrop"
     },
     {
+        "field": "BASEBALL_BAT_EQUIP",
+        "id": "BaseballBatEquip"
+    },
+    {
         "field": "BASEBALL_BAT_HIT",
         "id": "BaseballBatHit"
     },
     {
         "field": "BASEBALL_BAT_SWING",
         "id": "BaseballBatSwing"
+    },
+    {
+        "field": "BASEBALL_BAT_UNEQUIP",
+        "id": "BaseballBatUnEquip"
     },
     {
         "field": "BBQDOOR_CLOSE",
@@ -1228,12 +1328,20 @@
         "id": "BlockMaceDrop"
     },
     {
+        "field": "BLOCK_MACE_EQUIP",
+        "id": "BlockMaceEquip"
+    },
+    {
         "field": "BLOCK_MACE_HIT",
         "id": "BlockMaceHit"
     },
     {
         "field": "BLOCK_MACE_SWING",
         "id": "BlockMaceSwing"
+    },
+    {
+        "field": "BLOCK_MACE_UNEQUIP",
+        "id": "BlockMaceUnEquip"
     },
     {
         "field": "BLOCK_MAUL_BREAK",
@@ -1244,12 +1352,20 @@
         "id": "BlockMaulDrop"
     },
     {
+        "field": "BLOCK_MAUL_EQUIP",
+        "id": "BlockMaulEquip"
+    },
+    {
         "field": "BLOCK_MAUL_HIT",
         "id": "BlockMaulHit"
     },
     {
         "field": "BLOCK_MAUL_SWING",
         "id": "BlockMaulSwing"
+    },
+    {
+        "field": "BLOCK_MAUL_UNEQUIP",
+        "id": "BlockMaulUnEquip"
     },
     {
         "field": "BLOOD_SPLATTER",
@@ -1284,6 +1400,10 @@
         "id": "BoltCutterDrop"
     },
     {
+        "field": "BOLT_CUTTER_EQUIP",
+        "id": "BoltCutterEquip"
+    },
+    {
         "field": "BOLT_CUTTER_HIT",
         "id": "BoltCutterHit"
     },
@@ -1292,12 +1412,20 @@
         "id": "BoltCutterSwing"
     },
     {
+        "field": "BOLT_CUTTER_UNEQUIP",
+        "id": "BoltCutterUnEquip"
+    },
+    {
         "field": "BONE_CLUB_BREAK",
         "id": "BoneClubBreak"
     },
     {
         "field": "BONE_CLUB_DROP",
         "id": "BoneClubDrop"
+    },
+    {
+        "field": "BONE_CLUB_EQUIP",
+        "id": "BoneClubEquip"
     },
     {
         "field": "BONE_CLUB_HIT",
@@ -1312,6 +1440,10 @@
         "id": "BoneClubSpikedDrop"
     },
     {
+        "field": "BONE_CLUB_SPIKED_EQUIP",
+        "id": "BoneClubSpikedEquip"
+    },
+    {
         "field": "BONE_CLUB_SPIKED_HIT",
         "id": "BoneClubSpikedHit"
     },
@@ -1320,8 +1452,16 @@
         "id": "BoneClubSpikedSwing"
     },
     {
+        "field": "BONE_CLUB_SPIKED_UNEQUIP",
+        "id": "BoneClubSpikedUnEquip"
+    },
+    {
         "field": "BONE_CLUB_SWING",
         "id": "BoneClubSwing"
+    },
+    {
+        "field": "BONE_CLUB_UNEQUIP",
+        "id": "BoneClubUnEquip"
     },
     {
         "field": "BONE_HATCHET_BREAK",
@@ -1332,6 +1472,10 @@
         "id": "BoneHatchetDrop"
     },
     {
+        "field": "BONE_HATCHET_EQUIP",
+        "id": "BoneHatchetEquip"
+    },
+    {
         "field": "BONE_HATCHET_HIT",
         "id": "BoneHatchetHit"
     },
@@ -1340,12 +1484,20 @@
         "id": "BoneHatchetSwing"
     },
     {
+        "field": "BONE_HATCHET_UNEQUIP",
+        "id": "BoneHatchetUnEquip"
+    },
+    {
         "field": "BOWLING_PIN_BREAK",
         "id": "BowlingPinBreak"
     },
     {
         "field": "BOWLING_PIN_DROP",
         "id": "BowlingPinDrop"
+    },
+    {
+        "field": "BOWLING_PIN_EQUIP",
+        "id": "BowlingPinEquip"
     },
     {
         "field": "BOWLING_PIN_HIT",
@@ -1360,6 +1512,10 @@
         "id": "BowlingPinNailsDrop"
     },
     {
+        "field": "BOWLING_PIN_NAILS_EQUIP",
+        "id": "BowlingPinNailsEquip"
+    },
+    {
         "field": "BOWLING_PIN_NAILS_HIT",
         "id": "BowlingPinNailsHit"
     },
@@ -1368,8 +1524,16 @@
         "id": "BowlingPinNailsSwing"
     },
     {
+        "field": "BOWLING_PIN_NAILS_UNEQUIP",
+        "id": "BowlingPinNailsUnEquip"
+    },
+    {
         "field": "BOWLING_PIN_SWING",
         "id": "BowlingPinSwing"
+    },
+    {
+        "field": "BOWLING_PIN_UNEQUIP",
+        "id": "BowlingPinUnEquip"
     },
     {
         "field": "BOX_OF_ROUNDS_OPEN_ALL",
@@ -1412,12 +1576,20 @@
         "id": "BrassNameplateDrop"
     },
     {
+        "field": "BRASS_NAMEPLATE_EQUIP",
+        "id": "BrassNameplateEquip"
+    },
+    {
         "field": "BRASS_NAMEPLATE_HIT",
         "id": "BrassNameplateHit"
     },
     {
         "field": "BRASS_NAMEPLATE_SWING",
         "id": "BrassNameplateSwing"
+    },
+    {
+        "field": "BRASS_NAMEPLATE_UNEQUIP",
+        "id": "BrassNameplateUnEquip"
     },
     {
         "field": "BREAD_KNIFE_BREAK",
@@ -1428,12 +1600,20 @@
         "id": "BreadKnifeDrop"
     },
     {
+        "field": "BREAD_KNIFE_EQUIP",
+        "id": "BreadKnifeEquip"
+    },
+    {
         "field": "BREAD_KNIFE_HIT",
         "id": "BreadKnifeHit"
     },
     {
         "field": "BREAD_KNIFE_SWING",
         "id": "BreadKnifeSwing"
+    },
+    {
+        "field": "BREAD_KNIFE_UNEQUIP",
+        "id": "BreadKnifeUnEquip"
     },
     {
         "field": "BREAK_BARRICADE_METAL",
@@ -1504,12 +1684,24 @@
         "id": "BrokenAcousticGuitarHit"
     },
     {
+        "field": "BROKEN_ACOUSTIC_GUITAR_EQUIP",
+        "id": "BrokenAcousticGuitarEquip"
+    },
+    {
         "field": "BROKEN_ACOUSTIC_GUITAR_NECK_BREAK",
         "id": "BrokenAcousticGuitarNeckBreak"
     },
     {
         "field": "BROKEN_ACOUSTIC_GUITAR_NECK_DROP",
         "id": "BrokenAcousticGuitarNeckDrop"
+    },
+    {
+        "field": "BROKEN_ACOUSTIC_GUITAR_NECK_EQUIP",
+        "id": "BrokenAcousticGuitarNeckEquip"
+    },
+    {
+        "field": "BROKEN_ACOUSTIC_GUITAR_NECK_UNEQUIP",
+        "id": "BrokenAcousticGuitarNeckUnEquip"
     },
     {
         "field": "BROKEN_ACOUSTIC_GUITAR_NECK_HIT",
@@ -1524,12 +1716,20 @@
         "id": "BrokenAcousticGuitarSwing"
     },
     {
+        "field": "BROKEN_ACOUSTIC_GUITAR_UNEQUIP",
+        "id": "BrokenAcousticGuitarUnEquip"
+    },
+    {
         "field": "BROKEN_BANJO_NECK_BREAK",
         "id": "BrokenBanjoNeckBreak"
     },
     {
         "field": "BROKEN_BANJO_NECK_DROP",
         "id": "BrokenBanjoNeckDrop"
+    },
+    {
+        "field": "BROKEN_BANJO_NECK_EQUIP",
+        "id": "BrokenBanjoNeckEquip"
     },
     {
         "field": "BROKEN_BANJO_NECK_HIT",
@@ -1540,12 +1740,24 @@
         "id": "BrokenBanjoNeckSwing"
     },
     {
+        "field": "BROKEN_BANJO_NECK_UNEQUIP",
+        "id": "BrokenBanjoNeckUnEquip"
+    },
+    {
         "field": "BROKEN_BASEBALL_BAT_BREAK",
         "id": "BrokenBaseballBatBreak"
     },
     {
         "field": "BROKEN_BASEBALL_BAT_DROP",
         "id": "BrokenBaseballBatDrop"
+    },
+    {
+        "field": "BROKEN_BASEBALL_BAT_EQUIP",
+        "id": "BrokenBaseballBatEquip"
+    },
+    {
+        "field": "BROKEN_BASEBALL_BAT_UNEQUIP",
+        "id": "BrokenBaseballBatUnEquip"
     },
     {
         "field": "BROKEN_BASEBALL_BAT_HIT",
@@ -1564,6 +1776,10 @@
         "id": "BrokenCrudeSwordDrop"
     },
     {
+        "field": "BROKEN_CRUDE_SWORD_EQUIP",
+        "id": "BrokenCrudeSwordEquip"
+    },
+    {
         "field": "BROKEN_CRUDE_SWORD_HIT",
         "id": "BrokenCrudeSwordHit"
     },
@@ -1576,12 +1792,20 @@
         "id": "BrokenCrudeSwordSwing"
     },
     {
+        "field": "BROKEN_CRUDE_SWORD_UNEQUIP",
+        "id": "BrokenCrudeSwordUnEquip"
+    },
+    {
         "field": "BROKEN_ELECTRIC_BASS_NECK_BREAK",
         "id": "BrokenElectricBassNeckBreak"
     },
     {
         "field": "BROKEN_ELECTRIC_BASS_NECK_DROP",
         "id": "BrokenElectricBassNeckDrop"
+    },
+    {
+        "field": "BROKEN_ELECTRIC_BASS_NECK_EQUIP",
+        "id": "BrokenElectricBassNeckEquip"
     },
     {
         "field": "BROKEN_ELECTRIC_BASS_NECK_HIT",
@@ -1592,12 +1816,20 @@
         "id": "BrokenElectricBassNeckSwing"
     },
     {
+        "field": "BROKEN_ELECTRIC_BASS_NECK_UNEQUIP",
+        "id": "BrokenElectricBassNeckUnEquip"
+    },
+    {
         "field": "BROKEN_ELECTRIC_GUITAR_NECK_BREAK",
         "id": "BrokenElectricGuitarNeckBreak"
     },
     {
         "field": "BROKEN_ELECTRIC_GUITAR_NECK_DROP",
         "id": "BrokenElectricGuitarNeckDrop"
+    },
+    {
+        "field": "BROKEN_ELECTRIC_GUITAR_NECK_EQUIP",
+        "id": "BrokenElectricGuitarNeckEquip"
     },
     {
         "field": "BROKEN_ELECTRIC_GUITAR_NECK_HIT",
@@ -1608,12 +1840,20 @@
         "id": "BrokenElectricGuitarNeckSwing"
     },
     {
+        "field": "BROKEN_ELECTRIC_GUITAR_NECK_UNEQUIP",
+        "id": "BrokenElectricGuitarNeckUnEquip"
+    },
+    {
         "field": "BROKEN_FIELD_HOCKEY_STICK_BREAK",
         "id": "BrokenFieldHockeyStickBreak"
     },
     {
         "field": "BROKEN_FIELD_HOCKEY_STICK_DROP",
         "id": "BrokenFieldHockeyStickDrop"
+    },
+    {
+        "field": "BROKEN_FIELD_HOCKEY_STICK_EQUIP",
+        "id": "BrokenFieldHockeyStickEquip"
     },
     {
         "field": "BROKEN_FIELD_HOCKEY_STICK_HIT",
@@ -1624,12 +1864,20 @@
         "id": "BrokenFieldHockeyStickSwing"
     },
     {
+        "field": "BROKEN_FIELD_HOCKEY_STICK_UNEQUIP",
+        "id": "BrokenFieldHockeyStickUnEquip"
+    },
+    {
         "field": "BROKEN_GARDEN_TOOL_HANDLE_BREAK",
         "id": "BrokenGardenToolHandleBreak"
     },
     {
         "field": "BROKEN_GARDEN_TOOL_HANDLE_DROP",
         "id": "BrokenGardenToolHandleDrop"
+    },
+    {
+        "field": "BROKEN_GARDEN_TOOL_HANDLE_EQUIP",
+        "id": "BrokenGardenToolHandleEquip"
     },
     {
         "field": "BROKEN_GARDEN_TOOL_HANDLE_HIT",
@@ -1640,12 +1888,20 @@
         "id": "BrokenGardenToolHandleSwing"
     },
     {
+        "field": "BROKEN_GARDEN_TOOL_HANDLE_UNEQUIP",
+        "id": "BrokenGardenToolHandleUnEquip"
+    },
+    {
         "field": "BROKEN_KATANA_BREAK",
         "id": "BrokenKatanaBreak"
     },
     {
         "field": "BROKEN_KATANA_DROP",
         "id": "BrokenKatanaDrop"
+    },
+    {
+        "field": "BROKEN_KATANA_EQUIP",
+        "id": "BrokenKatanaEquip"
     },
     {
         "field": "BROKEN_KATANA_HIT",
@@ -1656,12 +1912,24 @@
         "id": "BrokenKatanaSwing"
     },
     {
+        "field": "BROKEN_KATANA_UNEQUIP",
+        "id": "BrokenKatanaUnEquip"
+    },
+    {
         "field": "BROKEN_LARGE_BRANCH_BREAK",
         "id": "BrokenLargeBranchBreak"
     },
     {
         "field": "BROKEN_LARGE_BRANCH_DROP",
         "id": "BrokenLargeBranchDrop"
+    },
+    {
+        "field": "BROKEN_LARGE_BRANCH_EQUIP",
+        "id": "BrokenLargeBranchEquip"
+    },
+    {
+        "field": "BROKEN_LARGE_BRANCH_UNEQUIP",
+        "id": "BrokenLargeBranchUnEquip"
     },
     {
         "field": "BROKEN_LARGE_BRANCH_HIT",
@@ -1680,12 +1948,20 @@
         "id": "BrokenLongHandleDrop"
     },
     {
+        "field": "BROKEN_LONG_HANDLE_EQUIP",
+        "id": "BrokenLongHandleEquip"
+    },
+    {
         "field": "BROKEN_LONG_HANDLE_HIT",
         "id": "BrokenLongHandleHit"
     },
     {
         "field": "BROKEN_LONG_HANDLE_SWING",
         "id": "BrokenLongHandleSwing"
+    },
+    {
+        "field": "BROKEN_LONG_HANDLE_UNEQUIP",
+        "id": "BrokenLongHandleUnEquip"
     },
     {
         "field": "BROKEN_LONG_STICK_BREAK",
@@ -1696,12 +1972,20 @@
         "id": "BrokenLongStickDrop"
     },
     {
+        "field": "BROKEN_LONG_STICK_EQUIP",
+        "id": "BrokenLongStickEquip"
+    },
+    {
         "field": "BROKEN_LONG_STICK_HIT",
         "id": "BrokenLongStickHit"
     },
     {
         "field": "BROKEN_LONG_STICK_SWING",
         "id": "BrokenLongStickSwing"
+    },
+    {
+        "field": "BROKEN_LONG_STICK_UNEQUIP",
+        "id": "BrokenLongStickUnEquip"
     },
     {
         "field": "BROKEN_NAILED_BASEBALL_BAT_BREAK",
@@ -1712,12 +1996,20 @@
         "id": "BrokenNailedBaseballBatDrop"
     },
     {
+        "field": "BROKEN_NAILED_BASEBALL_BAT_EQUIP",
+        "id": "BrokenNailedBaseballBatEquip"
+    },
+    {
         "field": "BROKEN_NAILED_BASEBALL_BAT_HIT",
         "id": "BrokenNailedBaseballBatHit"
     },
     {
         "field": "BROKEN_NAILED_BASEBALL_BAT_SWING",
         "id": "BrokenNailedBaseballBatSwing"
+    },
+    {
+        "field": "BROKEN_NAILED_BASEBALL_BAT_UNEQUIP",
+        "id": "BrokenNailedBaseballBatUnEquip"
     },
     {
         "field": "BROKEN_NAIL_LARGE_BRANCH_BREAK",
@@ -1728,12 +2020,20 @@
         "id": "BrokenNailLargeBranchDrop"
     },
     {
+        "field": "BROKEN_NAIL_LARGE_BRANCH_EQUIP",
+        "id": "BrokenNailLargeBranchEquip"
+    },
+    {
         "field": "BROKEN_NAIL_LARGE_BRANCH_HIT",
         "id": "BrokenNailLargeBranchHit"
     },
     {
         "field": "BROKEN_NAIL_LARGE_BRANCH_SWING",
         "id": "BrokenNailLargeBranchSwing"
+    },
+    {
+        "field": "BROKEN_NAIL_LARGE_BRANCH_UNEQUIP",
+        "id": "BrokenNailLargeBranchUnEquip"
     },
     {
         "field": "BROKEN_NAIL_LONG_HANDLE_BREAK",
@@ -1744,12 +2044,20 @@
         "id": "BrokenNailLongHandleDrop"
     },
     {
+        "field": "BROKEN_NAIL_LONG_HANDLE_EQUIP",
+        "id": "BrokenNailLongHandleEquip"
+    },
+    {
         "field": "BROKEN_NAIL_LONG_HANDLE_HIT",
         "id": "BrokenNailLongHandleHit"
     },
     {
         "field": "BROKEN_NAIL_LONG_HANDLE_SWING",
         "id": "BrokenNailLongHandleSwing"
+    },
+    {
+        "field": "BROKEN_NAIL_LONG_HANDLE_UNEQUIP",
+        "id": "BrokenNailLongHandleUnEquip"
     },
     {
         "field": "BROKEN_NAIL_SPIKED_FIELD_HOCKEY_STICK_BREAK",
@@ -1760,6 +2068,10 @@
         "id": "BrokenNailSpikedFieldHockeyStickDrop"
     },
     {
+        "field": "BROKEN_NAIL_SPIKED_FIELD_HOCKEY_STICK_EQUIP",
+        "id": "BrokenNailSpikedFieldHockeyStickEquip"
+    },
+    {
         "field": "BROKEN_NAIL_SPIKED_FIELD_HOCKEY_STICK_HIT",
         "id": "BrokenNailSpikedFieldHockeyStickHit"
     },
@@ -1768,12 +2080,20 @@
         "id": "BrokenNailSpikedFieldHockeyStickSwing"
     },
     {
+        "field": "BROKEN_NAIL_SPIKED_FIELD_HOCKEY_STICK_UNEQUIP",
+        "id": "BrokenNailSpikedFieldHockeyStickUnEquip"
+    },
+    {
         "field": "BROKEN_SCRAP_SWORD_BREAK",
         "id": "BrokenScrapSwordBreak"
     },
     {
         "field": "BROKEN_SCRAP_SWORD_DROP",
         "id": "BrokenScrapSwordDrop"
+    },
+    {
+        "field": "BROKEN_SCRAP_SWORD_EQUIP",
+        "id": "BrokenScrapSwordEquip"
     },
     {
         "field": "BROKEN_SCRAP_SWORD_HIT",
@@ -1788,12 +2108,20 @@
         "id": "BrokenScrapSwordSwing"
     },
     {
+        "field": "BROKEN_SCRAP_SWORD_UNEQUIP",
+        "id": "BrokenScrapSwordUnEquip"
+    },
+    {
         "field": "BROKEN_SWORD_BREAK",
         "id": "BrokenSwordBreak"
     },
     {
         "field": "BROKEN_SWORD_DROP",
         "id": "BrokenSwordDrop"
+    },
+    {
+        "field": "BROKEN_SWORD_EQUIP",
+        "id": "BrokenSwordEquip"
     },
     {
         "field": "BROKEN_SWORD_HIT",
@@ -1808,12 +2136,20 @@
         "id": "BrokenSwordSwing"
     },
     {
+        "field": "BROKEN_SWORD_UNEQUIP",
+        "id": "BrokenSwordUnEquip"
+    },
+    {
         "field": "BROKEN_WOODEN_STICK_BREAK",
         "id": "BrokenWoodenStickBreak"
     },
     {
         "field": "BROKEN_WOODEN_STICK_DROP",
         "id": "BrokenWoodenStickDrop"
+    },
+    {
+        "field": "BROKEN_WOODEN_STICK_EQUIP",
+        "id": "BrokenWoodenStickEquip"
     },
     {
         "field": "BROKEN_WOODEN_STICK_HIT",
@@ -1824,12 +2160,20 @@
         "id": "BrokenWoodenStickSwing"
     },
     {
+        "field": "BROKEN_WOODEN_STICK_UNEQUIP",
+        "id": "BrokenWoodenStickUnEquip"
+    },
+    {
         "field": "BROOM_BARBED_WIRE_BREAK",
         "id": "BroomBarbedWireBreak"
     },
     {
         "field": "BROOM_BARBED_WIRE_DROP",
         "id": "BroomBarbedWireDrop"
+    },
+    {
+        "field": "BROOM_BARBED_WIRE_EQUIP",
+        "id": "BroomBarbedWireEquip"
     },
     {
         "field": "BROOM_BARBED_WIRE_HIT",
@@ -1840,12 +2184,20 @@
         "id": "BroomBarbedWireSwing"
     },
     {
+        "field": "BROOM_BARBED_WIRE_UNEQUIP",
+        "id": "BroomBarbedWireUnEquip"
+    },
+    {
         "field": "BROOM_BREAK",
         "id": "BroomBreak"
     },
     {
         "field": "BROOM_DROP",
         "id": "BroomDrop"
+    },
+    {
+        "field": "BROOM_EQUIP",
+        "id": "BroomEquip"
     },
     {
         "field": "BROOM_HIT",
@@ -1856,12 +2208,20 @@
         "id": "BroomSwing"
     },
     {
+        "field": "BROOM_UNEQUIP",
+        "id": "BroomUnEquip"
+    },
+    {
         "field": "BUCKET_MACE_METAL_BREAK",
         "id": "BucketMaceMetalBreak"
     },
     {
         "field": "BUCKET_MACE_METAL_DROP",
         "id": "BucketMaceMetalDrop"
+    },
+    {
+        "field": "BUCKET_MACE_METAL_EQUIP",
+        "id": "BucketMaceMetalEquip"
     },
     {
         "field": "BUCKET_MACE_METAL_HIT",
@@ -1872,6 +2232,10 @@
         "id": "BucketMaceMetalSwing"
     },
     {
+        "field": "BUCKET_MACE_METAL_UNEQUIP",
+        "id": "BucketMaceMetalUnEquip"
+    },
+    {
         "field": "BUCKET_MACE_WOODEN_BREAK",
         "id": "BucketMaceWoodenBreak"
     },
@@ -1880,12 +2244,20 @@
         "id": "BucketMaceWoodenDrop"
     },
     {
+        "field": "BUCKET_MACE_WOODEN_EQUIP",
+        "id": "BucketMaceWoodenEquip"
+    },
+    {
         "field": "BUCKET_MACE_WOODEN_HIT",
         "id": "BucketMaceWoodenHit"
     },
     {
         "field": "BUCKET_MACE_WOODEN_SWING",
         "id": "BucketMaceWoodenSwing"
+    },
+    {
+        "field": "BUCKET_MACE_WOODEN_UNEQUIP",
+        "id": "BucketMaceWoodenUnEquip"
     },
     {
         "field": "BUILDING_GENERIC",
@@ -2040,12 +2412,20 @@
         "id": "ButterKnifeDrop"
     },
     {
+        "field": "BUTTER_KNIFE_EQUIP",
+        "id": "ButterKnifeEquip"
+    },
+    {
         "field": "BUTTER_KNIFE_HIT",
         "id": "ButterKnifeHit"
     },
     {
         "field": "BUTTER_KNIFE_SWING",
         "id": "ButterKnifeSwing"
+    },
+    {
+        "field": "BUTTER_KNIFE_UNEQUIP",
+        "id": "ButterKnifeUnEquip"
     },
     {
         "field": "CAMPFIRE_ADD_FUEL",
@@ -2088,6 +2468,10 @@
         "id": "CanoePaddleDoubleDrop"
     },
     {
+        "field": "CANOE_PADDLE_DOUBLE_EQUIP",
+        "id": "CanoePaddleDoubleEquip"
+    },
+    {
         "field": "CANOE_PADDLE_DOUBLE_HIT",
         "id": "CanoePaddleDoubleHit"
     },
@@ -2096,8 +2480,16 @@
         "id": "CanoePaddleDoubleSwing"
     },
     {
+        "field": "CANOE_PADDLE_DOUBLE_UNEQUIP",
+        "id": "CanoePaddleDoubleUnEquip"
+    },
+    {
         "field": "CANOE_PADDLE_DROP",
         "id": "CanoePaddleDrop"
+    },
+    {
+        "field": "CANOE_PADDLE_EQUIP",
+        "id": "CanoePaddleEquip"
     },
     {
         "field": "CANOE_PADDLE_HIT",
@@ -2106,6 +2498,10 @@
     {
         "field": "CANOE_PADDLE_SWING",
         "id": "CanoePaddleSwing"
+    },
+    {
+        "field": "CANOE_PADDLE_UNEQUIP",
+        "id": "CanoePaddleUnEquip"
     },
     {
         "field": "CARDBOARD_BOX_CLOSE",
@@ -2140,12 +2536,20 @@
         "id": "CarpentryChiselDrop"
     },
     {
+        "field": "CARPENTRY_CHISEL_EQUIP",
+        "id": "CarpentryChiselEquip"
+    },
+    {
         "field": "CARPENTRY_CHISEL_HIT",
         "id": "CarpentryChiselHit"
     },
     {
         "field": "CARPENTRY_CHISEL_SWING",
         "id": "CarpentryChiselSwing"
+    },
+    {
+        "field": "CARPENTRY_CHISEL_UNEQUIP",
+        "id": "CarpentryChiselUnEquip"
     },
     {
         "field": "CARVING_FORK_BREAK",
@@ -2156,12 +2560,20 @@
         "id": "CarvingForkDrop"
     },
     {
+        "field": "CARVING_FORK_EQUIP",
+        "id": "CarvingForkEquip"
+    },
+    {
         "field": "CARVING_FORK_HIT",
         "id": "CarvingForkHit"
     },
     {
         "field": "CARVING_FORK_SWING",
         "id": "CarvingForkSwing"
+    },
+    {
+        "field": "CARVING_FORK_UNEQUIP",
+        "id": "CarvingForkUnEquip"
     },
     {
         "field": "CAR_BATTERY_CHARGER_RUNNING",
@@ -2208,6 +2620,10 @@
         "id": "ChairLegDrop"
     },
     {
+        "field": "CHAIR_LEG_EQUIP",
+        "id": "ChairLegEquip"
+    },
+    {
         "field": "CHAIR_LEG_HIT",
         "id": "ChairLegHit"
     },
@@ -2220,6 +2636,10 @@
         "id": "ChairLegNailsDrop"
     },
     {
+        "field": "CHAIR_LEG_NAILS_EQUIP",
+        "id": "ChairLegNailsEquip"
+    },
+    {
         "field": "CHAIR_LEG_NAILS_HIT",
         "id": "ChairLegNailsHit"
     },
@@ -2228,8 +2648,16 @@
         "id": "ChairLegNailsSwing"
     },
     {
+        "field": "CHAIR_LEG_NAILS_UNEQUIP",
+        "id": "ChairLegNailsUnEquip"
+    },
+    {
         "field": "CHAIR_LEG_SWING",
         "id": "ChairLegSwing"
+    },
+    {
+        "field": "CHAIR_LEG_UNEQUIP",
+        "id": "ChairLegUnEquip"
     },
     {
         "field": "CHARCOAL_BARBECUE_RUNNING",
@@ -2314,6 +2742,10 @@
     {
         "field": "CLIMB_OVER_FENCE_LOW",
         "id": "ClimbOverFenceLow"
+    },
+    {
+        "field": "CLIMB_SHEET_ROPE",
+        "id": "ClimbSheetRope"
     },
     {
         "field": "CLIMB_THROUGH_WINDOW",
@@ -2636,12 +3068,20 @@
         "id": "ClubHammerDrop"
     },
     {
+        "field": "CLUB_HAMMER_EQUIP",
+        "id": "ClubHammerEquip"
+    },
+    {
         "field": "CLUB_HAMMER_HIT",
         "id": "ClubHammerHit"
     },
     {
         "field": "CLUB_HAMMER_SWING",
         "id": "ClubHammerSwing"
+    },
+    {
+        "field": "CLUB_HAMMER_UNEQUIP",
+        "id": "ClubHammerUnEquip"
     },
     {
         "field": "CONTROL_STATION_AMBIANCE",
@@ -2796,6 +3236,10 @@
         "id": "CrowbarDrop"
     },
     {
+        "field": "CROWBAR_EQUIP",
+        "id": "CrowbarEquip"
+    },
+    {
         "field": "CROWBAR_HIT",
         "id": "CrowbarHit"
     },
@@ -2804,12 +3248,20 @@
         "id": "CrowbarSwing"
     },
     {
+        "field": "CROWBAR_UNEQUIP",
+        "id": "CrowbarUnEquip"
+    },
+    {
         "field": "CRUDE_BLADE_BREAK",
         "id": "CrudeBladeBreak"
     },
     {
         "field": "CRUDE_BLADE_DROP",
         "id": "CrudeBladeDrop"
+    },
+    {
+        "field": "CRUDE_BLADE_EQUIP",
+        "id": "CrudeBladeEquip"
     },
     {
         "field": "CRUDE_BLADE_HIT",
@@ -2824,6 +3276,10 @@
         "id": "CrudeBladeLongDrop"
     },
     {
+        "field": "CRUDE_BLADE_LONG_EQUIP",
+        "id": "CrudeBladeLongEquip"
+    },
+    {
         "field": "CRUDE_BLADE_LONG_HIT",
         "id": "CrudeBladeLongHit"
     },
@@ -2836,8 +3292,16 @@
         "id": "CrudeBladeLongSwing"
     },
     {
+        "field": "CRUDE_BLADE_LONG_UNEQUIP",
+        "id": "CrudeBladeLongUnEquip"
+    },
+    {
         "field": "CRUDE_BLADE_SWING",
         "id": "CrudeBladeSwing"
+    },
+    {
+        "field": "CRUDE_BLADE_UNEQUIP",
+        "id": "CrudeBladeUnEquip"
     },
     {
         "field": "CRUDE_KNIFE_BREAK",
@@ -2848,8 +3312,16 @@
         "id": "CrudeKnifeDrop"
     },
     {
+        "field": "CRUDE_KNIFE_EQUIP",
+        "id": "CrudeKnifeEquip"
+    },
+    {
         "field": "CRUDE_KNIFE_HIT",
         "id": "CrudeKnifeHit"
+    },
+    {
+        "field": "CRUDE_KNIFE_UNEQUIP",
+        "id": "CrudeKnifeUnEquip"
     },
     {
         "field": "CRUDE_KNIFE_LONG_BREAK",
@@ -2858,6 +3330,10 @@
     {
         "field": "CRUDE_KNIFE_LONG_DROP",
         "id": "CrudeKnifeLongDrop"
+    },
+    {
+        "field": "CRUDE_KNIFE_LONG_EQUIP",
+        "id": "CrudeKnifeLongEquip"
     },
     {
         "field": "CRUDE_KNIFE_LONG_HIT",
@@ -2872,6 +3348,10 @@
         "id": "CrudeKnifeLongSwing"
     },
     {
+        "field": "CRUDE_KNIFE_LONG_UNEQUIP",
+        "id": "CrudeKnifeLongUnEquip"
+    },
+    {
         "field": "CRUDE_KNIFE_SWING",
         "id": "CrudeKnifeSwing"
     },
@@ -2884,12 +3364,20 @@
         "id": "CrudeMacheteDrop"
     },
     {
+        "field": "CRUDE_MACHETE_EQUIP",
+        "id": "CrudeMacheteEquip"
+    },
+    {
         "field": "CRUDE_MACHETE_HIT",
         "id": "CrudeMacheteHit"
     },
     {
         "field": "CRUDE_MACHETE_SWING",
         "id": "CrudeMacheteSwing"
+    },
+    {
+        "field": "CRUDE_MACHETE_UNEQUIP",
+        "id": "CrudeMacheteUnEquip"
     },
     {
         "field": "CRUDE_SHORT_SWORD_BREAK",
@@ -2900,6 +3388,10 @@
         "id": "CrudeShortSwordDrop"
     },
     {
+        "field": "CRUDE_SHORT_SWORD_EQUIP",
+        "id": "CrudeShortSwordEquip"
+    },
+    {
         "field": "CRUDE_SHORT_SWORD_HIT",
         "id": "CrudeShortSwordHit"
     },
@@ -2908,8 +3400,16 @@
         "id": "CrudeShortSwordSwing"
     },
     {
+        "field": "CRUDE_SHORT_SWORD_UNEQUIP",
+        "id": "CrudeShortSwordUnEquip"
+    },
+    {
         "field": "CRUDE_SPEAR_BREAK",
         "id": "CrudeSpearBreak"
+    },
+    {
+        "field": "CRUDE_SPEAR_EQUIP",
+        "id": "CrudeSpearEquip"
     },
     {
         "field": "CRUDE_SPEAR_HIT",
@@ -2924,12 +3424,20 @@
         "id": "CrudeSpearSwing"
     },
     {
+        "field": "CRUDE_SPEAR_UNEQUIP",
+        "id": "CrudeSpearUnEquip"
+    },
+    {
         "field": "CRUDE_SWORD_BREAK",
         "id": "CrudeSwordBreak"
     },
     {
         "field": "CRUDE_SWORD_DROP",
         "id": "CrudeSwordDrop"
+    },
+    {
+        "field": "CRUDE_SWORD_EQUIP",
+        "id": "CrudeSwordEquip"
     },
     {
         "field": "CRUDE_SWORD_HIT",
@@ -2940,12 +3448,20 @@
         "id": "CrudeSwordSwing"
     },
     {
+        "field": "CRUDE_SWORD_UNEQUIP",
+        "id": "CrudeSwordUnEquip"
+    },
+    {
         "field": "CUDGEL_BONE_BREAK",
         "id": "CudgelBoneBreak"
     },
     {
         "field": "CUDGEL_BONE_DROP",
         "id": "CudgelBoneDrop"
+    },
+    {
+        "field": "CUDGEL_BONE_EQUIP",
+        "id": "CudgelBoneEquip"
     },
     {
         "field": "CUDGEL_BONE_HIT",
@@ -2956,6 +3472,10 @@
         "id": "CudgelBoneSwing"
     },
     {
+        "field": "CUDGEL_BONE_UNEQUIP",
+        "id": "CudgelBoneUnEquip"
+    },
+    {
         "field": "CUDGEL_BRAKE_DISC_BREAK",
         "id": "CudgelBrakeDiscBreak"
     },
@@ -2964,12 +3484,20 @@
         "id": "CudgelBrakeDiscDrop"
     },
     {
+        "field": "CUDGEL_BRAKE_DISC_EQUIP",
+        "id": "CudgelBrakeDiscEquip"
+    },
+    {
         "field": "CUDGEL_BRAKE_DISC_HIT",
         "id": "CudgelBrakeDiscHit"
     },
     {
         "field": "CUDGEL_BRAKE_DISC_SWING",
         "id": "CudgelBrakeDiscSwing"
+    },
+    {
+        "field": "CUDGEL_BRAKE_DISC_UNEQUIP",
+        "id": "CudgelBrakeDiscUnEquip"
     },
     {
         "field": "CURTAIN_LONG_CLOSE",
@@ -3336,12 +3864,20 @@
         "id": "DrumstickDrop"
     },
     {
+        "field": "DRUMSTICK_EQUIP",
+        "id": "DrumstickEquip"
+    },
+    {
         "field": "DRUMSTICK_HIT",
         "id": "DrumstickHit"
     },
     {
         "field": "DRUMSTICK_SWING",
         "id": "DrumstickSwing"
+    },
+    {
+        "field": "DRUMSTICK_UNEQUIP",
+        "id": "DrumstickUnEquip"
     },
     {
         "field": "DRYING_RACK_LEATHER_CRAFT",
@@ -3376,12 +3912,20 @@
         "id": "DumbBellDrop"
     },
     {
+        "field": "DUMB_BELL_EQUIP",
+        "id": "DumbBellEquip"
+    },
+    {
         "field": "DUMB_BELL_HIT",
         "id": "DumbBellHit"
     },
     {
         "field": "DUMB_BELL_SWING",
         "id": "DumbBellSwing"
+    },
+    {
+        "field": "DUMB_BELL_UNEQUIP",
+        "id": "DumbBellUnEquip"
     },
     {
         "field": "EATING",
@@ -3420,8 +3964,16 @@
         "id": "ElectricBassHit"
     },
     {
+        "field": "ELECTRIC_BASS_EQUIP",
+        "id": "ElectricBassEquip"
+    },
+    {
         "field": "ELECTRIC_BASS_SWING",
         "id": "ElectricBassSwing"
+    },
+    {
+        "field": "ELECTRIC_BASS_UNEQUIP",
+        "id": "ElectricBassUnEquip"
     },
     {
         "field": "ELECTRIC_GUITAR_BREAK",
@@ -3432,12 +3984,20 @@
         "id": "ElectricGuitarDrop"
     },
     {
+        "field": "ELECTRIC_GUITAR_EQUIP",
+        "id": "ElectricGuitarEquip"
+    },
+    {
         "field": "ELECTRIC_GUITAR_HIT",
         "id": "ElectricGuitarHit"
     },
     {
         "field": "ELECTRIC_GUITAR_SWING",
         "id": "ElectricGuitarSwing"
+    },
+    {
+        "field": "ELECTRIC_GUITAR_UNEQUIP",
+        "id": "ElectricGuitarUnEquip"
     },
     {
         "field": "EMOTE_CLAPPING",
@@ -3484,12 +4044,20 @@
         "id": "EngineMaulDrop"
     },
     {
+        "field": "ENGINE_MAUL_EQUIP",
+        "id": "EngineMaulEquip"
+    },
+    {
         "field": "ENGINE_MAUL_HIT",
         "id": "EngineMaulHit"
     },
     {
         "field": "ENGINE_MAUL_SWING",
         "id": "EngineMaulSwing"
+    },
+    {
+        "field": "ENGINE_MAUL_UNEQUIP",
+        "id": "EngineMaulUnEquip"
     },
     {
         "field": "ENTRENCHING_TOOL_BREAK",
@@ -3550,6 +4118,10 @@
     {
         "field": "EQUIP_SHEET_SLING",
         "id": "EquipSheetSling"
+    },
+    {
+        "field": "EXERCISE_BURPEES",
+        "id": "ExerciseBurpees"
     },
     {
         "field": "FACTORY_MACHINE_AMBIANCE",
@@ -3648,6 +4220,10 @@
         "id": "FightingKnifeDrop"
     },
     {
+        "field": "FIGHTING_KNIFE_EQUIP",
+        "id": "FightingKnifeEquip"
+    },
+    {
         "field": "FIGHTING_KNIFE_HIT",
         "id": "FightingKnifeHit"
     },
@@ -3660,6 +4236,10 @@
         "id": "FightingKnifeSwing"
     },
     {
+        "field": "FIGHTING_KNIFE_UNEQUIP",
+        "id": "FightingKnifeUnEquip"
+    },
+    {
         "field": "FILE_BREAK",
         "id": "FileBreak"
     },
@@ -3668,12 +4248,20 @@
         "id": "FileDrop"
     },
     {
+        "field": "FILE_EQUIP",
+        "id": "FileEquip"
+    },
+    {
         "field": "FILE_HIT",
         "id": "FileHit"
     },
     {
         "field": "FILE_SWING",
         "id": "FileSwing"
+    },
+    {
+        "field": "FILE_UNEQUIP",
+        "id": "FileUnEquip"
     },
     {
         "field": "FIRE",
@@ -3696,12 +4284,20 @@
         "id": "FireplacePokerDrop"
     },
     {
+        "field": "FIREPLACE_POKER_EQUIP",
+        "id": "FireplacePokerEquip"
+    },
+    {
         "field": "FIREPLACE_POKER_HIT",
         "id": "FireplacePokerHit"
     },
     {
         "field": "FIREPLACE_POKER_SWING",
         "id": "FireplacePokerSwing"
+    },
+    {
+        "field": "FIREPLACE_POKER_UNEQUIP",
+        "id": "FireplacePokerUnEquip"
     },
     {
         "field": "FIREPLACE_RUNNING",
@@ -3724,6 +4320,10 @@
         "id": "FireCrackerThrow"
     },
     {
+        "field": "FIRE_CRACKER_UNEQUIP",
+        "id": "FireCrackerUnEquip"
+    },
+    {
         "field": "FIRE_CRACKER_SINGLE_EQUIP",
         "id": "FireCrackerSingleEquip"
     },
@@ -3736,8 +4336,16 @@
         "id": "FireCrackerSingleThrow"
     },
     {
+        "field": "FIRE_CRACKER_SINGLE_UNEQUIP",
+        "id": "FireCrackerSingleUnEquip"
+    },
+    {
         "field": "FIRE_HARDENED_CRAFTED_SPEAR_BREAK",
         "id": "FireHardenedCraftedSpearBreak"
+    },
+    {
+        "field": "FIRE_HARDENED_CRAFTED_SPEAR_EQUIP",
+        "id": "FireHardenedCraftedSpearEquip"
     },
     {
         "field": "FIRE_HARDENED_CRAFTED_SPEAR_HIT",
@@ -3750,6 +4358,10 @@
     {
         "field": "FIRE_HARDENED_CRAFTED_SPEAR_SWING",
         "id": "FireHardenedCraftedSpearSwing"
+    },
+    {
+        "field": "FIRE_HARDENED_CRAFTED_SPEAR_UNEQUIP",
+        "id": "FireHardenedCraftedSpearUnEquip"
     },
     {
         "field": "FIRST_AID_APPLY_ALCOHOL",
@@ -3800,12 +4412,20 @@
         "id": "FishingRodDrop"
     },
     {
+        "field": "FISHING_ROD_EQUIP",
+        "id": "FishingRodEquip"
+    },
+    {
         "field": "FISHING_ROD_HIT",
         "id": "FishingRodHit"
     },
     {
         "field": "FISHING_ROD_SWING",
         "id": "FishingRodSwing"
+    },
+    {
+        "field": "FISHING_ROD_UNEQUIP",
+        "id": "FishingRodUnEquip"
     },
     {
         "field": "FISH_BREATH",
@@ -3820,12 +4440,20 @@
         "id": "FishGaffHookDrop"
     },
     {
+        "field": "FISH_GAFF_HOOK_EQUIP",
+        "id": "FishGaffHookEquip"
+    },
+    {
         "field": "FISH_GAFF_HOOK_HIT",
         "id": "FishGaffHookHit"
     },
     {
         "field": "FISH_GAFF_HOOK_SWING",
         "id": "FishGaffHookSwing"
+    },
+    {
+        "field": "FISH_GAFF_HOOK_UNEQUIP",
+        "id": "FishGaffHookUnEquip"
     },
     {
         "field": "FIXING_ITEM_FAILED",
@@ -3846,6 +4474,10 @@
     {
         "field": "FLAME_TRAP_THROW",
         "id": "FlameTrapThrow"
+    },
+    {
+        "field": "FLAME_TRAP_UNEQUIP",
+        "id": "FlameTrapUnEquip"
     },
     {
         "field": "FLASHLIGHT_OFF",
@@ -3872,12 +4504,20 @@
         "id": "FluteDrop"
     },
     {
+        "field": "FLUTE_EQUIP",
+        "id": "FluteEquip"
+    },
+    {
         "field": "FLUTE_HIT",
         "id": "FluteHit"
     },
     {
         "field": "FLUTE_SWING",
         "id": "FluteSwing"
+    },
+    {
+        "field": "FLUTE_UNEQUIP",
+        "id": "FluteUnEquip"
     },
     {
         "field": "FORAGING_DISCARD",
@@ -3896,12 +4536,20 @@
         "id": "ForkDrop"
     },
     {
+        "field": "FORK_EQUIP",
+        "id": "ForkEquip"
+    },
+    {
         "field": "FORK_HIT",
         "id": "ForkHit"
     },
     {
         "field": "FORK_SWING",
         "id": "ForkSwing"
+    },
+    {
+        "field": "FORK_UNEQUIP",
+        "id": "ForkUnEquip"
     },
     {
         "field": "FOUNTAIN_BIG_AMBIANCE",
@@ -3948,12 +4596,20 @@
         "id": "FryingPanDrop"
     },
     {
+        "field": "FRYING_PAN_EQUIP",
+        "id": "FryingPanEquip"
+    },
+    {
         "field": "FRYING_PAN_HIT",
         "id": "FryingPanHit"
     },
     {
         "field": "FRYING_PAN_SWING",
         "id": "FryingPanSwing"
+    },
+    {
+        "field": "FRYING_PAN_UNEQUIP",
+        "id": "FryingPanUnEquip"
     },
     {
         "field": "GAIN_EXPERIENCE_LEVEL",
@@ -3996,12 +4652,20 @@
         "id": "GardenForkBaseballBatDrop"
     },
     {
+        "field": "GARDEN_FORK_BASEBALL_BAT_EQUIP",
+        "id": "GardenForkBaseballBatEquip"
+    },
+    {
         "field": "GARDEN_FORK_BASEBALL_BAT_HIT",
         "id": "GardenForkBaseballBatHit"
     },
     {
         "field": "GARDEN_FORK_BASEBALL_BAT_SWING",
         "id": "GardenForkBaseballBatSwing"
+    },
+    {
+        "field": "GARDEN_FORK_BASEBALL_BAT_UNEQUIP",
+        "id": "GardenForkBaseballBatUnEquip"
     },
     {
         "field": "GARDEN_FORK_BREAK",
@@ -4016,6 +4680,10 @@
         "id": "GardenForkCudgelDrop"
     },
     {
+        "field": "GARDEN_FORK_CUDGEL_EQUIP",
+        "id": "GardenForkCudgelEquip"
+    },
+    {
         "field": "GARDEN_FORK_CUDGEL_HIT",
         "id": "GardenForkCudgelHit"
     },
@@ -4024,8 +4692,16 @@
         "id": "GardenForkCudgelSwing"
     },
     {
+        "field": "GARDEN_FORK_CUDGEL_UNEQUIP",
+        "id": "GardenForkCudgelUnEquip"
+    },
+    {
         "field": "GARDEN_FORK_DROP",
         "id": "GardenForkDrop"
+    },
+    {
+        "field": "GARDEN_FORK_EQUIP",
+        "id": "GardenForkEquip"
     },
     {
         "field": "GARDEN_FORK_HIT",
@@ -4036,6 +4712,10 @@
         "id": "GardenForkSwing"
     },
     {
+        "field": "GARDEN_FORK_UNEQUIP",
+        "id": "GardenForkUnEquip"
+    },
+    {
         "field": "GARDEN_HOE_BREAK",
         "id": "GardenHoeBreak"
     },
@@ -4044,12 +4724,20 @@
         "id": "GardenHoeDrop"
     },
     {
+        "field": "GARDEN_HOE_EQUIP",
+        "id": "GardenHoeEquip"
+    },
+    {
         "field": "GARDEN_HOE_HIT",
         "id": "GardenHoeHit"
     },
     {
         "field": "GARDEN_HOE_SWING",
         "id": "GardenHoeSwing"
+    },
+    {
+        "field": "GARDEN_HOE_UNEQUIP",
+        "id": "GardenHoeUnEquip"
     },
     {
         "field": "GAS_PUMP_AMBIANCE",
@@ -4064,12 +4752,20 @@
         "id": "GavelDrop"
     },
     {
+        "field": "GAVEL_EQUIP",
+        "id": "GavelEquip"
+    },
+    {
         "field": "GAVEL_HIT",
         "id": "GavelHit"
     },
     {
         "field": "GAVEL_SWING",
         "id": "GavelSwing"
+    },
+    {
+        "field": "GAVEL_UNEQUIP",
+        "id": "GavelUnEquip"
     },
     {
         "field": "GENERATOR_ADD_FUEL",
@@ -4192,12 +4888,20 @@
         "id": "GlassShivDrop"
     },
     {
+        "field": "GLASS_SHIV_EQUIP",
+        "id": "GlassShivEquip"
+    },
+    {
         "field": "GLASS_SHIV_HIT",
         "id": "GlassShivHit"
     },
     {
         "field": "GLASS_SHIV_SWING",
         "id": "GlassShivSwing"
+    },
+    {
+        "field": "GLASS_SHIV_UNEQUIP",
+        "id": "GlassShivUnEquip"
     },
     {
         "field": "GOLFCLUB_BREAK",
@@ -4208,12 +4912,20 @@
         "id": "GolfclubDrop"
     },
     {
+        "field": "GOLFCLUB_EQUIP",
+        "id": "GolfclubEquip"
+    },
+    {
         "field": "GOLFCLUB_HIT",
         "id": "GolfclubHit"
     },
     {
         "field": "GOLFCLUB_SWING",
         "id": "GolfclubSwing"
+    },
+    {
+        "field": "GOLFCLUB_UNEQUIP",
+        "id": "GolfclubUnEquip"
     },
     {
         "field": "GRAB_EGGS",
@@ -4228,12 +4940,20 @@
         "id": "GriddlePanDrop"
     },
     {
+        "field": "GRIDDLE_PAN_EQUIP",
+        "id": "GriddlePanEquip"
+    },
+    {
         "field": "GRIDDLE_PAN_HIT",
         "id": "GriddlePanHit"
     },
     {
         "field": "GRIDDLE_PAN_SWING",
         "id": "GriddlePanSwing"
+    },
+    {
+        "field": "GRIDDLE_PAN_UNEQUIP",
+        "id": "GriddlePanUnEquip"
     },
     {
         "field": "HAIR_CUT_SCISSORS",
@@ -4252,6 +4972,10 @@
         "id": "HammerDrop"
     },
     {
+        "field": "HAMMER_EQUIP",
+        "id": "HammerEquip"
+    },
+    {
         "field": "HAMMER_HIT",
         "id": "HammerHit"
     },
@@ -4260,12 +4984,20 @@
         "id": "HammerSwing"
     },
     {
+        "field": "HAMMER_UNEQUIP",
+        "id": "HammerUnEquip"
+    },
+    {
         "field": "HANDGUARD_DAGGER_BREAK",
         "id": "HandguardDaggerBreak"
     },
     {
         "field": "HANDGUARD_DAGGER_DROP",
         "id": "HandguardDaggerDrop"
+    },
+    {
+        "field": "HANDGUARD_DAGGER_EQUIP",
+        "id": "HandguardDaggerEquip"
     },
     {
         "field": "HANDGUARD_DAGGER_HIT",
@@ -4280,12 +5012,20 @@
         "id": "HandguardDaggerSwing"
     },
     {
+        "field": "HANDGUARD_DAGGER_UNEQUIP",
+        "id": "HandguardDaggerUnEquip"
+    },
+    {
         "field": "HAND_AXE_BREAK",
         "id": "HandAxeBreak"
     },
     {
         "field": "HAND_AXE_DROP",
         "id": "HandAxeDrop"
+    },
+    {
+        "field": "HAND_AXE_EQUIP",
+        "id": "HandAxeEquip"
     },
     {
         "field": "HAND_AXE_HIT",
@@ -4296,12 +5036,20 @@
         "id": "HandAxeSwing"
     },
     {
+        "field": "HAND_AXE_UNEQUIP",
+        "id": "HandAxeUnEquip"
+    },
+    {
         "field": "HAND_FORK_BREAK",
         "id": "HandForkBreak"
     },
     {
         "field": "HAND_FORK_DROP",
         "id": "HandForkDrop"
+    },
+    {
+        "field": "HAND_FORK_EQUIP",
+        "id": "HandForkEquip"
     },
     {
         "field": "HAND_FORK_HIT",
@@ -4312,12 +5060,20 @@
         "id": "HandForkSwing"
     },
     {
+        "field": "HAND_FORK_UNEQUIP",
+        "id": "HandForkUnEquip"
+    },
+    {
         "field": "HAND_SCYTHE_BREAK",
         "id": "HandScytheBreak"
     },
     {
         "field": "HAND_SCYTHE_DROP",
         "id": "HandScytheDrop"
+    },
+    {
+        "field": "HAND_SCYTHE_EQUIP",
+        "id": "HandScytheEquip"
     },
     {
         "field": "HAND_SCYTHE_HIT",
@@ -4328,6 +5084,10 @@
         "id": "HandScytheSwing"
     },
     {
+        "field": "HAND_SCYTHE_UNEQUIP",
+        "id": "HandScytheUnEquip"
+    },
+    {
         "field": "HAND_SHOVEL_BREAK",
         "id": "HandShovelBreak"
     },
@@ -4336,12 +5096,20 @@
         "id": "HandShovelDrop"
     },
     {
+        "field": "HAND_SHOVEL_EQUIP",
+        "id": "HandShovelEquip"
+    },
+    {
         "field": "HAND_SHOVEL_HIT",
         "id": "HandShovelHit"
     },
     {
         "field": "HAND_SHOVEL_SWING",
         "id": "HandShovelSwing"
+    },
+    {
+        "field": "HAND_SHOVEL_UNEQUIP",
+        "id": "HandShovelUnEquip"
     },
     {
         "field": "HARVEST_CROPS",
@@ -4392,12 +5160,20 @@
         "id": "HockeyStickDrop"
     },
     {
+        "field": "HOCKEY_STICK_EQUIP",
+        "id": "HockeyStickEquip"
+    },
+    {
         "field": "HOCKEY_STICK_HIT",
         "id": "HockeyStickHit"
     },
     {
         "field": "HOCKEY_STICK_SWING",
         "id": "HockeyStickSwing"
+    },
+    {
+        "field": "HOCKEY_STICK_UNEQUIP",
+        "id": "HockeyStickUnEquip"
     },
     {
         "field": "HOTDOG_MACHINE_AMBIANCE",
@@ -4420,12 +5196,20 @@
         "id": "HuntingKnifeDrop"
     },
     {
+        "field": "HUNTING_KNIFE_EQUIP",
+        "id": "HuntingKnifeEquip"
+    },
+    {
         "field": "HUNTING_KNIFE_HIT",
         "id": "HuntingKnifeHit"
     },
     {
         "field": "HUNTING_KNIFE_SWING",
         "id": "HuntingKnifeSwing"
+    },
+    {
+        "field": "HUNTING_KNIFE_UNEQUIP",
+        "id": "HuntingKnifeUnEquip"
     },
     {
         "field": "ICE_AXE_BREAK",
@@ -4436,12 +5220,20 @@
         "id": "IceAxeDrop"
     },
     {
+        "field": "ICE_AXE_EQUIP",
+        "id": "IceAxeEquip"
+    },
+    {
         "field": "ICE_AXE_HIT",
         "id": "IceAxeHit"
     },
     {
         "field": "ICE_AXE_SWING",
         "id": "IceAxeSwing"
+    },
+    {
+        "field": "ICE_AXE_UNEQUIP",
+        "id": "IceAxeUnEquip"
     },
     {
         "field": "ICE_PICK_BREAK",
@@ -4452,12 +5244,20 @@
         "id": "IcePickDrop"
     },
     {
+        "field": "ICE_PICK_EQUIP",
+        "id": "IcePickEquip"
+    },
+    {
         "field": "ICE_PICK_HIT",
         "id": "IcePickHit"
     },
     {
         "field": "ICE_PICK_SWING",
         "id": "IcePickSwing"
+    },
+    {
+        "field": "ICE_PICK_UNEQUIP",
+        "id": "IcePickUnEquip"
     },
     {
         "field": "IRON_BAR_BREAK",
@@ -4468,12 +5268,24 @@
         "id": "IronBarDrop"
     },
     {
+        "field": "IRON_BAR_EQUIP",
+        "id": "IronBarEquip"
+    },
+    {
         "field": "IRON_BAR_HALF_BREAK",
         "id": "IronBarHalfBreak"
     },
     {
         "field": "IRON_BAR_HALF_DROP",
         "id": "IronBarHalfDrop"
+    },
+    {
+        "field": "IRON_BAR_HALF_EQUIP",
+        "id": "IronBarHalfEquip"
+    },
+    {
+        "field": "IRON_BAR_HALF_UNEQUIP",
+        "id": "IronBarHalfUnEquip"
     },
     {
         "field": "IRON_BAR_HALF_HIT",
@@ -4492,12 +5304,20 @@
         "id": "IronBarSwing"
     },
     {
+        "field": "IRON_BAR_UNEQUIP",
+        "id": "IronBarUnEquip"
+    },
+    {
         "field": "IRON_ROD_BREAK",
         "id": "IronRodBreak"
     },
     {
         "field": "IRON_ROD_DROP",
         "id": "IronRodDrop"
+    },
+    {
+        "field": "IRON_ROD_EQUIP",
+        "id": "IronRodEquip"
     },
     {
         "field": "IRON_ROD_HALF_BREAK",
@@ -4508,12 +5328,20 @@
         "id": "IronRodHalfDrop"
     },
     {
+        "field": "IRON_ROD_HALF_EQUIP",
+        "id": "IronRodHalfEquip"
+    },
+    {
         "field": "IRON_ROD_HALF_HIT",
         "id": "IronRodHalfHit"
     },
     {
         "field": "IRON_ROD_HALF_SWING",
         "id": "IronRodHalfSwing"
+    },
+    {
+        "field": "IRON_ROD_HALF_UNEQUIP",
+        "id": "IronRodHalfUnEquip"
     },
     {
         "field": "IRON_ROD_HIT",
@@ -4524,6 +5352,10 @@
         "id": "IronRodSwing"
     },
     {
+        "field": "IRON_ROD_UNEQUIP",
+        "id": "IronRodUnEquip"
+    },
+    {
         "field": "JAWBONE_AXE_BREAK",
         "id": "JawboneAxeBreak"
     },
@@ -4532,12 +5364,20 @@
         "id": "JawboneAxeDrop"
     },
     {
+        "field": "JAWBONE_AXE_EQUIP",
+        "id": "JawboneAxeEquip"
+    },
+    {
         "field": "JAWBONE_AXE_HIT",
         "id": "JawboneAxeHit"
     },
     {
         "field": "JAWBONE_AXE_SWING",
         "id": "JawboneAxeSwing"
+    },
+    {
+        "field": "JAWBONE_AXE_UNEQUIP",
+        "id": "JawboneAxeUnEquip"
     },
     {
         "field": "JAWBONE_BREAK",
@@ -4552,6 +5392,10 @@
         "id": "JawboneClubDrop"
     },
     {
+        "field": "JAWBONE_CLUB_EQUIP",
+        "id": "JawboneClubEquip"
+    },
+    {
         "field": "JAWBONE_CLUB_HIT",
         "id": "JawboneClubHit"
     },
@@ -4560,8 +5404,16 @@
         "id": "JawboneClubSwing"
     },
     {
+        "field": "JAWBONE_CLUB_UNEQUIP",
+        "id": "JawboneClubUnEquip"
+    },
+    {
         "field": "JAWBONE_DROP",
         "id": "JawboneDrop"
+    },
+    {
+        "field": "JAWBONE_EQUIP",
+        "id": "JawboneEquip"
     },
     {
         "field": "JAWBONE_HIT",
@@ -4576,6 +5428,10 @@
         "id": "JawboneMorningstarDrop"
     },
     {
+        "field": "JAWBONE_MORNINGSTAR_EQUIP",
+        "id": "JawboneMorningstarEquip"
+    },
+    {
         "field": "JAWBONE_MORNINGSTAR_HIT",
         "id": "JawboneMorningstarHit"
     },
@@ -4584,8 +5440,16 @@
         "id": "JawboneMorningstarSwing"
     },
     {
+        "field": "JAWBONE_MORNINGSTAR_UNEQUIP",
+        "id": "JawboneMorningstarUnEquip"
+    },
+    {
         "field": "JAWBONE_SWING",
         "id": "JawboneSwing"
+    },
+    {
+        "field": "JAWBONE_UNEQUIP",
+        "id": "JawboneUnEquip"
     },
     {
         "field": "JS14_AIM_RELEASE",
@@ -4728,12 +5592,20 @@
         "id": "KatanaDrop"
     },
     {
+        "field": "KATANA_EQUIP",
+        "id": "KatanaEquip"
+    },
+    {
         "field": "KATANA_HIT",
         "id": "KatanaHit"
     },
     {
         "field": "KATANA_SWING",
         "id": "KatanaSwing"
+    },
+    {
+        "field": "KATANA_UNEQUIP",
+        "id": "KatanaUnEquip"
     },
     {
         "field": "KETTLE_MACE_METAL_BREAK",
@@ -4744,12 +5616,20 @@
         "id": "KettleMaceMetalDrop"
     },
     {
+        "field": "KETTLE_MACE_METAL_EQUIP",
+        "id": "KettleMaceMetalEquip"
+    },
+    {
         "field": "KETTLE_MACE_METAL_HIT",
         "id": "KettleMaceMetalHit"
     },
     {
         "field": "KETTLE_MACE_METAL_SWING",
         "id": "KettleMaceMetalSwing"
+    },
+    {
+        "field": "KETTLE_MACE_METAL_UNEQUIP",
+        "id": "KettleMaceMetalUnEquip"
     },
     {
         "field": "KETTLE_MACE_WOODEN_BREAK",
@@ -4760,12 +5640,20 @@
         "id": "KettleMaceWoodenDrop"
     },
     {
+        "field": "KETTLE_MACE_WOODEN_EQUIP",
+        "id": "KettleMaceWoodenEquip"
+    },
+    {
         "field": "KETTLE_MACE_WOODEN_HIT",
         "id": "KettleMaceWoodenHit"
     },
     {
         "field": "KETTLE_MACE_WOODEN_SWING",
         "id": "KettleMaceWoodenSwing"
+    },
+    {
+        "field": "KETTLE_MACE_WOODEN_UNEQUIP",
+        "id": "KettleMaceWoodenUnEquip"
     },
     {
         "field": "KEYTAR_BREAK",
@@ -4776,12 +5664,20 @@
         "id": "KeytarDrop"
     },
     {
+        "field": "KEYTAR_EQUIP",
+        "id": "KeytarEquip"
+    },
+    {
         "field": "KEYTAR_HIT",
         "id": "KeytarHit"
     },
     {
         "field": "KEYTAR_SWING",
         "id": "KeytarSwing"
+    },
+    {
+        "field": "KEYTAR_UNEQUIP",
+        "id": "KeytarUnEquip"
     },
     {
         "field": "KITCHEN_KNIFE_BREAK",
@@ -4792,12 +5688,20 @@
         "id": "KitchenKnifeDrop"
     },
     {
+        "field": "KITCHEN_KNIFE_EQUIP",
+        "id": "KitchenKnifeEquip"
+    },
+    {
         "field": "KITCHEN_KNIFE_HIT",
         "id": "KitchenKnifeHit"
     },
     {
         "field": "KITCHEN_KNIFE_SWING",
         "id": "KitchenKnifeSwing"
+    },
+    {
+        "field": "KITCHEN_KNIFE_UNEQUIP",
+        "id": "KitchenKnifeUnEquip"
     },
     {
         "field": "KNITTING",
@@ -4944,12 +5848,28 @@
         "id": "LacrosseStickDrop"
     },
     {
+        "field": "LACROSSE_STICK_EQUIP",
+        "id": "LacrosseStickEquip"
+    },
+    {
         "field": "LACROSSE_STICK_HIT",
         "id": "LacrosseStickHit"
     },
     {
         "field": "LACROSSE_STICK_SWING",
         "id": "LacrosseStickSwing"
+    },
+    {
+        "field": "LACROSSE_STICK_UNEQUIP",
+        "id": "LacrosseStickUnEquip"
+    },
+    {
+        "field": "LADDER_FOOTSTEPS_METAL",
+        "id": "LadderFootstepsMetal"
+    },
+    {
+        "field": "LADDER_FOOTSTEPS_WOOD",
+        "id": "LadderFootstepsWood"
     },
     {
         "field": "LAND_DEATH_FROM_FALL",
@@ -4976,6 +5896,10 @@
         "id": "LargeAnimalBoneDrop"
     },
     {
+        "field": "LARGE_ANIMAL_BONE_EQUIP",
+        "id": "LargeAnimalBoneEquip"
+    },
+    {
         "field": "LARGE_ANIMAL_BONE_HIT",
         "id": "LargeAnimalBoneHit"
     },
@@ -4984,12 +5908,20 @@
         "id": "LargeAnimalBoneSwing"
     },
     {
+        "field": "LARGE_ANIMAL_BONE_UNEQUIP",
+        "id": "LargeAnimalBoneUnEquip"
+    },
+    {
         "field": "LARGE_BONE_CLUB_BREAK",
         "id": "LargeBoneClubBreak"
     },
     {
         "field": "LARGE_BONE_CLUB_DROP",
         "id": "LargeBoneClubDrop"
+    },
+    {
+        "field": "LARGE_BONE_CLUB_EQUIP",
+        "id": "LargeBoneClubEquip"
     },
     {
         "field": "LARGE_BONE_CLUB_HIT",
@@ -5004,6 +5936,10 @@
         "id": "LargeBoneClubSpikedDrop"
     },
     {
+        "field": "LARGE_BONE_CLUB_SPIKED_EQUIP",
+        "id": "LargeBoneClubSpikedEquip"
+    },
+    {
         "field": "LARGE_BONE_CLUB_SPIKED_HIT",
         "id": "LargeBoneClubSpikedHit"
     },
@@ -5012,8 +5948,16 @@
         "id": "LargeBoneClubSpikedSwing"
     },
     {
+        "field": "LARGE_BONE_CLUB_SPIKED_UNEQUIP",
+        "id": "LargeBoneClubSpikedUnEquip"
+    },
+    {
         "field": "LARGE_BONE_CLUB_SWING",
         "id": "LargeBoneClubSwing"
+    },
+    {
+        "field": "LARGE_BONE_CLUB_UNEQUIP",
+        "id": "LargeBoneClubUnEquip"
     },
     {
         "field": "LARGE_BRANCH_BREAK",
@@ -5022,6 +5966,14 @@
     {
         "field": "LARGE_BRANCH_DROP",
         "id": "LargeBranchDrop"
+    },
+    {
+        "field": "LARGE_BRANCH_EQUIP",
+        "id": "LargeBranchEquip"
+    },
+    {
+        "field": "LARGE_BRANCH_UNEQUIP",
+        "id": "LargeBranchUnEquip"
     },
     {
         "field": "LARGE_BRANCH_HIT",
@@ -5040,6 +5992,10 @@
         "id": "LargeHookDrop"
     },
     {
+        "field": "LARGE_HOOK_EQUIP",
+        "id": "LargeHookEquip"
+    },
+    {
         "field": "LARGE_HOOK_HIT",
         "id": "LargeHookHit"
     },
@@ -5052,6 +6008,10 @@
         "id": "LargeHookSwing"
     },
     {
+        "field": "LARGE_HOOK_UNEQUIP",
+        "id": "LargeHookUnEquip"
+    },
+    {
         "field": "LARGE_KNIFE_BREAK",
         "id": "LargeKnifeBreak"
     },
@@ -5060,12 +6020,20 @@
         "id": "LargeKnifeDrop"
     },
     {
+        "field": "LARGE_KNIFE_EQUIP",
+        "id": "LargeKnifeEquip"
+    },
+    {
         "field": "LARGE_KNIFE_HIT",
         "id": "LargeKnifeHit"
     },
     {
         "field": "LARGE_KNIFE_SWING",
         "id": "LargeKnifeSwing"
+    },
+    {
+        "field": "LARGE_KNIFE_UNEQUIP",
+        "id": "LargeKnifeUnEquip"
     },
     {
         "field": "LAUNDRY_CART_TRANSFER_ITEM",
@@ -5080,12 +6048,20 @@
         "id": "LeadPipeDrop"
     },
     {
+        "field": "LEAD_PIPE_EQUIP",
+        "id": "LeadPipeEquip"
+    },
+    {
         "field": "LEAD_PIPE_HIT",
         "id": "LeadPipeHit"
     },
     {
         "field": "LEAD_PIPE_SWING",
         "id": "LeadPipeSwing"
+    },
+    {
+        "field": "LEAD_PIPE_UNEQUIP",
+        "id": "LeadPipeUnEquip"
     },
     {
         "field": "LEAF_RAKE_BREAK",
@@ -5096,12 +6072,20 @@
         "id": "LeafRakeDrop"
     },
     {
+        "field": "LEAF_RAKE_EQUIP",
+        "id": "LeafRakeEquip"
+    },
+    {
         "field": "LEAF_RAKE_HIT",
         "id": "LeafRakeHit"
     },
     {
         "field": "LEAF_RAKE_SWING",
         "id": "LeafRakeSwing"
+    },
+    {
+        "field": "LEAF_RAKE_UNEQUIP",
+        "id": "LeafRakeUnEquip"
     },
     {
         "field": "LETTER_OPENER_BREAK",
@@ -5112,12 +6096,20 @@
         "id": "LetterOpenerDrop"
     },
     {
+        "field": "LETTER_OPENER_EQUIP",
+        "id": "LetterOpenerEquip"
+    },
+    {
         "field": "LETTER_OPENER_HIT",
         "id": "LetterOpenerHit"
     },
     {
         "field": "LETTER_OPENER_SWING",
         "id": "LetterOpenerSwing"
+    },
+    {
+        "field": "LETTER_OPENER_UNEQUIP",
+        "id": "LetterOpenerUnEquip"
     },
     {
         "field": "LIGHTBULB_BURNED_OUT",
@@ -5204,6 +6196,10 @@
         "id": "LongCrudeSpearDrop"
     },
     {
+        "field": "LONG_CRUDE_SPEAR_EQUIP",
+        "id": "LongCrudeSpearEquip"
+    },
+    {
         "field": "LONG_CRUDE_SPEAR_HIT",
         "id": "LongCrudeSpearHit"
     },
@@ -5216,12 +6212,20 @@
         "id": "LongCrudeSpearSwing"
     },
     {
+        "field": "LONG_CRUDE_SPEAR_UNEQUIP",
+        "id": "LongCrudeSpearUnEquip"
+    },
+    {
         "field": "LONG_HANDLE_BRAKE_DISC_BREAK",
         "id": "LongHandleBrakeDiscBreak"
     },
     {
         "field": "LONG_HANDLE_BRAKE_DISC_DROP",
         "id": "LongHandleBrakeDiscDrop"
+    },
+    {
+        "field": "LONG_HANDLE_BRAKE_DISC_EQUIP",
+        "id": "LongHandleBrakeDiscEquip"
     },
     {
         "field": "LONG_HANDLE_BRAKE_DISC_HIT",
@@ -5232,12 +6236,20 @@
         "id": "LongHandleBrakeDiscSwing"
     },
     {
+        "field": "LONG_HANDLE_BRAKE_DISC_UNEQUIP",
+        "id": "LongHandleBrakeDiscUnEquip"
+    },
+    {
         "field": "LONG_HANDLE_CAN_BREAK",
         "id": "LongHandleCanBreak"
     },
     {
         "field": "LONG_HANDLE_CAN_DROP",
         "id": "LongHandleCanDrop"
+    },
+    {
+        "field": "LONG_HANDLE_CAN_EQUIP",
+        "id": "LongHandleCanEquip"
     },
     {
         "field": "LONG_HANDLE_CAN_HIT",
@@ -5248,12 +6260,20 @@
         "id": "LongHandleCanSwing"
     },
     {
+        "field": "LONG_HANDLE_CAN_UNEQUIP",
+        "id": "LongHandleCanUnEquip"
+    },
+    {
         "field": "LONG_MACE_BREAK",
         "id": "LongMaceBreak"
     },
     {
         "field": "LONG_MACE_DROP",
         "id": "LongMaceDrop"
+    },
+    {
+        "field": "LONG_MACE_EQUIP",
+        "id": "LongMaceEquip"
     },
     {
         "field": "LONG_MACE_HIT",
@@ -5264,12 +6284,20 @@
         "id": "LongMaceSwing"
     },
     {
+        "field": "LONG_MACE_UNEQUIP",
+        "id": "LongMaceUnEquip"
+    },
+    {
         "field": "LONG_SPEAR_BONE_BREAK",
         "id": "LongSpearBoneBreak"
     },
     {
         "field": "LONG_SPEAR_BONE_DROP",
         "id": "LongSpearBoneDrop"
+    },
+    {
+        "field": "LONG_SPEAR_BONE_EQUIP",
+        "id": "LongSpearBoneEquip"
     },
     {
         "field": "LONG_SPEAR_BONE_HIT",
@@ -5284,8 +6312,16 @@
         "id": "LongSpearBoneSwing"
     },
     {
+        "field": "LONG_SPEAR_BONE_UNEQUIP",
+        "id": "LongSpearBoneUnEquip"
+    },
+    {
         "field": "LONG_SPEAR_BREAK",
         "id": "LongSpearBreak"
+    },
+    {
+        "field": "LONG_SPEAR_EQUIP",
+        "id": "LongSpearEquip"
     },
     {
         "field": "LONG_SPEAR_HIT",
@@ -5300,12 +6336,20 @@
         "id": "LongSpearSwing"
     },
     {
+        "field": "LONG_SPEAR_UNEQUIP",
+        "id": "LongSpearUnEquip"
+    },
+    {
         "field": "LONG_SPIKED_CLUB_BREAK",
         "id": "LongSpikedClubBreak"
     },
     {
         "field": "LONG_SPIKED_CLUB_DROP",
         "id": "LongSpikedClubDrop"
+    },
+    {
+        "field": "LONG_SPIKED_CLUB_EQUIP",
+        "id": "LongSpikedClubEquip"
     },
     {
         "field": "LONG_SPIKED_CLUB_HIT",
@@ -5316,12 +6360,20 @@
         "id": "LongSpikedClubSwing"
     },
     {
+        "field": "LONG_SPIKED_CLUB_UNEQUIP",
+        "id": "LongSpikedClubUnEquip"
+    },
+    {
         "field": "LONG_STICK_BREAK",
         "id": "LongStickBreak"
     },
     {
         "field": "LONG_STICK_DROP",
         "id": "LongStickDrop"
+    },
+    {
+        "field": "LONG_STICK_EQUIP",
+        "id": "LongStickEquip"
     },
     {
         "field": "LONG_STICK_HIT",
@@ -5332,12 +6384,20 @@
         "id": "LongStickSwing"
     },
     {
+        "field": "LONG_STICK_UNEQUIP",
+        "id": "LongStickUnEquip"
+    },
+    {
         "field": "LONG_STONE_SPEAR_BREAK",
         "id": "LongStoneSpearBreak"
     },
     {
         "field": "LONG_STONE_SPEAR_DROP",
         "id": "LongStoneSpearDrop"
+    },
+    {
+        "field": "LONG_STONE_SPEAR_EQUIP",
+        "id": "LongStoneSpearEquip"
     },
     {
         "field": "LONG_STONE_SPEAR_HIT",
@@ -5350,6 +6410,10 @@
     {
         "field": "LONG_STONE_SPEAR_SWING",
         "id": "LongStoneSpearSwing"
+    },
+    {
+        "field": "LONG_STONE_SPEAR_UNEQUIP",
+        "id": "LongStoneSpearUnEquip"
     },
     {
         "field": "LURE_ANIMAL",
@@ -5748,6 +6812,10 @@
         "id": "MaceBaseballBatDrop"
     },
     {
+        "field": "MACE_BASEBALL_BAT_EQUIP",
+        "id": "MaceBaseballBatEquip"
+    },
+    {
         "field": "MACE_BASEBALL_BAT_HIT",
         "id": "MaceBaseballBatHit"
     },
@@ -5756,12 +6824,20 @@
         "id": "MaceBaseballBatSwing"
     },
     {
+        "field": "MACE_BASEBALL_BAT_UNEQUIP",
+        "id": "MaceBaseballBatUnEquip"
+    },
+    {
         "field": "MACE_BREAK",
         "id": "MaceBreak"
     },
     {
         "field": "MACE_DROP",
         "id": "MaceDrop"
+    },
+    {
+        "field": "MACE_EQUIP",
+        "id": "MaceEquip"
     },
     {
         "field": "MACE_HIT",
@@ -5776,6 +6852,10 @@
         "id": "MaceStoneDrop"
     },
     {
+        "field": "MACE_STONE_EQUIP",
+        "id": "MaceStoneEquip"
+    },
+    {
         "field": "MACE_STONE_HIT",
         "id": "MaceStoneHit"
     },
@@ -5786,6 +6866,14 @@
     {
         "field": "MACE_STONE_LONG_DROP",
         "id": "MaceStoneLongDrop"
+    },
+    {
+        "field": "MACE_STONE_LONG_EQUIP",
+        "id": "MaceStoneLongEquip"
+    },
+    {
+        "field": "MACE_STONE_LONG_UNEQUIP",
+        "id": "MaceStoneLongUnEquip"
     },
     {
         "field": "MACE_STONE_LONG_HIT",
@@ -5800,8 +6888,16 @@
         "id": "MaceStoneSwing"
     },
     {
+        "field": "MACE_STONE_UNEQUIP",
+        "id": "MaceStoneUnEquip"
+    },
+    {
         "field": "MACE_SWING",
         "id": "MaceSwing"
+    },
+    {
+        "field": "MACE_UNEQUIP",
+        "id": "MaceUnEquip"
     },
     {
         "field": "MACHETE_BREAK",
@@ -5812,12 +6908,20 @@
         "id": "MacheteDrop"
     },
     {
+        "field": "MACHETE_EQUIP",
+        "id": "MacheteEquip"
+    },
+    {
         "field": "MACHETE_HIT",
         "id": "MacheteHit"
     },
     {
         "field": "MACHETE_SWING",
         "id": "MacheteSwing"
+    },
+    {
+        "field": "MACHETE_UNEQUIP",
+        "id": "MacheteUnEquip"
     },
     {
         "field": "MAGAZINE_EJECT_AMMO",
@@ -6020,12 +7124,20 @@
         "id": "MeatCleaverDrop"
     },
     {
+        "field": "MEAT_CLEAVER_EQUIP",
+        "id": "MeatCleaverEquip"
+    },
+    {
         "field": "MEAT_CLEAVER_HIT",
         "id": "MeatCleaverHit"
     },
     {
         "field": "MEAT_CLEAVER_SWING",
         "id": "MeatCleaverSwing"
+    },
+    {
+        "field": "MEAT_CLEAVER_UNEQUIP",
+        "id": "MeatCleaverUnEquip"
     },
     {
         "field": "MEGAPHONE_EQUIP",
@@ -6044,12 +7156,20 @@
         "id": "MetalworkingChiselDrop"
     },
     {
+        "field": "METALWORKING_CHISEL_EQUIP",
+        "id": "MetalworkingChiselEquip"
+    },
+    {
         "field": "METALWORKING_CHISEL_HIT",
         "id": "MetalworkingChiselHit"
     },
     {
         "field": "METALWORKING_CHISEL_SWING",
         "id": "MetalworkingChiselSwing"
+    },
+    {
+        "field": "METALWORKING_CHISEL_UNEQUIP",
+        "id": "MetalworkingChiselUnEquip"
     },
     {
         "field": "METALWORKING_PUNCH_BREAK",
@@ -6060,12 +7180,20 @@
         "id": "MetalworkingPunchDrop"
     },
     {
+        "field": "METALWORKING_PUNCH_EQUIP",
+        "id": "MetalworkingPunchEquip"
+    },
+    {
         "field": "METALWORKING_PUNCH_HIT",
         "id": "MetalworkingPunchHit"
     },
     {
         "field": "METALWORKING_PUNCH_SWING",
         "id": "MetalworkingPunchSwing"
+    },
+    {
+        "field": "METALWORKING_PUNCH_UNEQUIP",
+        "id": "MetalworkingPunchUnEquip"
     },
     {
         "field": "METAL_BAR_BREAK",
@@ -6080,6 +7208,10 @@
         "id": "MetalBarBrokenDrop"
     },
     {
+        "field": "METAL_BAR_BROKEN_EQUIP",
+        "id": "MetalBarBrokenEquip"
+    },
+    {
         "field": "METAL_BAR_BROKEN_HIT",
         "id": "MetalBarBrokenHit"
     },
@@ -6088,8 +7220,16 @@
         "id": "MetalBarBrokenSwing"
     },
     {
+        "field": "METAL_BAR_BROKEN_UNEQUIP",
+        "id": "MetalBarBrokenUnEquip"
+    },
+    {
         "field": "METAL_BAR_DROP",
         "id": "MetalBarDrop"
+    },
+    {
+        "field": "METAL_BAR_EQUIP",
+        "id": "MetalBarEquip"
     },
     {
         "field": "METAL_BAR_HIT",
@@ -6100,12 +7240,20 @@
         "id": "MetalBarSwing"
     },
     {
+        "field": "METAL_BAR_UNEQUIP",
+        "id": "MetalBarUnEquip"
+    },
+    {
         "field": "METAL_BASEBALL_BAT_BREAK",
         "id": "MetalBaseballBatBreak"
     },
     {
         "field": "METAL_BASEBALL_BAT_DROP",
         "id": "MetalBaseballBatDrop"
+    },
+    {
+        "field": "METAL_BASEBALL_BAT_EQUIP",
+        "id": "MetalBaseballBatEquip"
     },
     {
         "field": "METAL_BASEBALL_BAT_HIT",
@@ -6120,6 +7268,10 @@
         "id": "MetalBaseballBatSawBladeDrop"
     },
     {
+        "field": "METAL_BASEBALL_BAT_SAW_BLADE_EQUIP",
+        "id": "MetalBaseballBatSawBladeEquip"
+    },
+    {
         "field": "METAL_BASEBALL_BAT_SAW_BLADE_HIT",
         "id": "MetalBaseballBatSawBladeHit"
     },
@@ -6128,8 +7280,16 @@
         "id": "MetalBaseballBatSawBladeSwing"
     },
     {
+        "field": "METAL_BASEBALL_BAT_SAW_BLADE_UNEQUIP",
+        "id": "MetalBaseballBatSawBladeUnEquip"
+    },
+    {
         "field": "METAL_BASEBALL_BAT_SWING",
         "id": "MetalBaseballBatSwing"
+    },
+    {
+        "field": "METAL_BASEBALL_BAT_UNEQUIP",
+        "id": "MetalBaseballBatUnEquip"
     },
     {
         "field": "METAL_DOOR_BLOCKED",
@@ -6208,12 +7368,20 @@
         "id": "MetalPipeDrop"
     },
     {
+        "field": "METAL_PIPE_EQUIP",
+        "id": "MetalPipeEquip"
+    },
+    {
         "field": "METAL_PIPE_HIT",
         "id": "MetalPipeHit"
     },
     {
         "field": "METAL_PIPE_SWING",
         "id": "MetalPipeSwing"
+    },
+    {
+        "field": "METAL_PIPE_UNEQUIP",
+        "id": "MetalPipeUnEquip"
     },
     {
         "field": "METAL_POLE_GATE_BLOCKED",
@@ -6384,6 +7552,10 @@
         "id": "MolotovCocktailThrow"
     },
     {
+        "field": "MOLOTOV_COCKTAIL_UNEQUIP",
+        "id": "MolotovCocktailUnEquip"
+    },
+    {
         "field": "MSR700AIM_RELEASE",
         "id": "MSR700AimRelease"
     },
@@ -6520,6 +7692,10 @@
         "id": "MultitoolDrop"
     },
     {
+        "field": "MULTITOOL_EQUIP",
+        "id": "MultitoolEquip"
+    },
+    {
         "field": "MULTITOOL_HIT",
         "id": "MultitoolHit"
     },
@@ -6530,6 +7706,10 @@
     {
         "field": "MULTITOOL_SWING",
         "id": "MultitoolSwing"
+    },
+    {
+        "field": "MULTITOOL_UNEQUIP",
+        "id": "MultitoolUnEquip"
     },
     {
         "field": "MUSIC_COMBINED",
@@ -6544,12 +7724,20 @@
         "id": "NailSpikedBrokenWoodenStickDrop"
     },
     {
+        "field": "NAIL_SPIKED_BROKEN_WOODEN_STICK_EQUIP",
+        "id": "NailSpikedBrokenWoodenStickEquip"
+    },
+    {
         "field": "NAIL_SPIKED_BROKEN_WOODEN_STICK_HIT",
         "id": "NailSpikedBrokenWoodenStickHit"
     },
     {
         "field": "NAIL_SPIKED_BROKEN_WOODEN_STICK_SWING",
         "id": "NailSpikedBrokenWoodenStickSwing"
+    },
+    {
+        "field": "NAIL_SPIKED_BROKEN_WOODEN_STICK_UNEQUIP",
+        "id": "NailSpikedBrokenWoodenStickUnEquip"
     },
     {
         "field": "NAIL_SPIKED_FIELD_HOCKEY_STICK_BREAK",
@@ -6560,12 +7748,20 @@
         "id": "NailSpikedFieldHockeyStickDrop"
     },
     {
+        "field": "NAIL_SPIKED_FIELD_HOCKEY_STICK_EQUIP",
+        "id": "NailSpikedFieldHockeyStickEquip"
+    },
+    {
         "field": "NAIL_SPIKED_FIELD_HOCKEY_STICK_HIT",
         "id": "NailSpikedFieldHockeyStickHit"
     },
     {
         "field": "NAIL_SPIKED_FIELD_HOCKEY_STICK_SWING",
         "id": "NailSpikedFieldHockeyStickSwing"
+    },
+    {
+        "field": "NAIL_SPIKED_FIELD_HOCKEY_STICK_UNEQUIP",
+        "id": "NailSpikedFieldHockeyStickUnEquip"
     },
     {
         "field": "NAIL_SPIKED_SHORT_BAT_BREAK",
@@ -6576,12 +7772,20 @@
         "id": "NailSpikedShortBatDrop"
     },
     {
+        "field": "NAIL_SPIKED_SHORT_BAT_EQUIP",
+        "id": "NailSpikedShortBatEquip"
+    },
+    {
         "field": "NAIL_SPIKED_SHORT_BAT_HIT",
         "id": "NailSpikedShortBatHit"
     },
     {
         "field": "NAIL_SPIKED_SHORT_BAT_SWING",
         "id": "NailSpikedShortBatSwing"
+    },
+    {
+        "field": "NAIL_SPIKED_SHORT_BAT_UNEQUIP",
+        "id": "NailSpikedShortBatUnEquip"
     },
     {
         "field": "NAIL_SPIKED_WOODEN_STICK_BREAK",
@@ -6592,12 +7796,20 @@
         "id": "NailSpikedWoodenStickDrop"
     },
     {
+        "field": "NAIL_SPIKED_WOODEN_STICK_EQUIP",
+        "id": "NailSpikedWoodenStickEquip"
+    },
+    {
         "field": "NAIL_SPIKED_WOODEN_STICK_HIT",
         "id": "NailSpikedWoodenStickHit"
     },
     {
         "field": "NAIL_SPIKED_WOODEN_STICK_SWING",
         "id": "NailSpikedWoodenStickSwing"
+    },
+    {
+        "field": "NAIL_SPIKED_WOODEN_STICK_UNEQUIP",
+        "id": "NailSpikedWoodenStickUnEquip"
     },
     {
         "field": "NAIL_SPIKE_CUDGEL_BREAK",
@@ -6608,12 +7820,20 @@
         "id": "NailSpikeCudgelDrop"
     },
     {
+        "field": "NAIL_SPIKE_CUDGEL_EQUIP",
+        "id": "NailSpikeCudgelEquip"
+    },
+    {
         "field": "NAIL_SPIKE_CUDGEL_HIT",
         "id": "NailSpikeCudgelHit"
     },
     {
         "field": "NAIL_SPIKE_CUDGEL_SWING",
         "id": "NailSpikeCudgelSwing"
+    },
+    {
+        "field": "NAIL_SPIKE_CUDGEL_UNEQUIP",
+        "id": "NailSpikeCudgelUnEquip"
     },
     {
         "field": "NAIL_SPIKE_HANDLE_BREAK",
@@ -6624,12 +7844,20 @@
         "id": "NailSpikeHandleDrop"
     },
     {
+        "field": "NAIL_SPIKE_HANDLE_EQUIP",
+        "id": "NailSpikeHandleEquip"
+    },
+    {
         "field": "NAIL_SPIKE_HANDLE_HIT",
         "id": "NailSpikeHandleHit"
     },
     {
         "field": "NAIL_SPIKE_HANDLE_SWING",
         "id": "NailSpikeHandleSwing"
+    },
+    {
+        "field": "NAIL_SPIKE_HANDLE_UNEQUIP",
+        "id": "NailSpikeHandleUnEquip"
     },
     {
         "field": "NAIL_SPIKE_TREE_BRANCH_BREAK",
@@ -6640,12 +7868,20 @@
         "id": "NailSpikeTreeBranchDrop"
     },
     {
+        "field": "NAIL_SPIKE_TREE_BRANCH_EQUIP",
+        "id": "NailSpikeTreeBranchEquip"
+    },
+    {
         "field": "NAIL_SPIKE_TREE_BRANCH_HIT",
         "id": "NailSpikeTreeBranchHit"
     },
     {
         "field": "NAIL_SPIKE_TREE_BRANCH_SWING",
         "id": "NailSpikeTreeBranchSwing"
+    },
+    {
+        "field": "NAIL_SPIKE_TREE_BRANCH_UNEQUIP",
+        "id": "NailSpikeTreeBranchUnEquip"
     },
     {
         "field": "NECK_BITE",
@@ -6668,12 +7904,20 @@
         "id": "NightstickDrop"
     },
     {
+        "field": "NIGHTSTICK_EQUIP",
+        "id": "NightstickEquip"
+    },
+    {
         "field": "NIGHTSTICK_HIT",
         "id": "NightstickHit"
     },
     {
         "field": "NIGHTSTICK_SWING",
         "id": "NightstickSwing"
+    },
+    {
+        "field": "NIGHTSTICK_UNEQUIP",
+        "id": "NightstickUnEquip"
     },
     {
         "field": "NOISE_GENERATOR_ACTIVATE",
@@ -6690,6 +7934,10 @@
     {
         "field": "NOISE_MAKER_THROW",
         "id": "NoiseMakerThrow"
+    },
+    {
+        "field": "NOISE_MAKER_UNEQUIP",
+        "id": "NoiseMakerUnEquip"
     },
     {
         "field": "NULL",
@@ -6736,12 +7984,20 @@
         "id": "OldTinOpenerDrop"
     },
     {
+        "field": "OLD_TIN_OPENER_EQUIP",
+        "id": "OldTinOpenerEquip"
+    },
+    {
         "field": "OLD_TIN_OPENER_HIT",
         "id": "OldTinOpenerHit"
     },
     {
         "field": "OLD_TIN_OPENER_SWING",
         "id": "OldTinOpenerSwing"
+    },
+    {
+        "field": "OLD_TIN_OPENER_UNEQUIP",
+        "id": "OldTinOpenerUnEquip"
     },
     {
         "field": "OPEN_AMMUNITION_BOX",
@@ -7092,12 +8348,20 @@
         "id": "PenDrop"
     },
     {
+        "field": "PEN_EQUIP",
+        "id": "PenEquip"
+    },
+    {
         "field": "PEN_HIT",
         "id": "PenHit"
     },
     {
         "field": "PEN_SWING",
         "id": "PenSwing"
+    },
+    {
+        "field": "PEN_UNEQUIP",
+        "id": "PenUnEquip"
     },
     {
         "field": "PET_ANIMAL_BOAR",
@@ -7152,6 +8416,10 @@
         "id": "PickAxeDrop"
     },
     {
+        "field": "PICK_AXE_EQUIP",
+        "id": "PickAxeEquip"
+    },
+    {
         "field": "PICK_AXE_HANDLE_BREAK",
         "id": "PickAxeHandleBreak"
     },
@@ -7160,12 +8428,24 @@
         "id": "PickAxeHandleDrop"
     },
     {
+        "field": "PICK_AXE_HANDLE_EQUIP",
+        "id": "PickAxeHandleEquip"
+    },
+    {
         "field": "PICK_AXE_HANDLE_HIT",
         "id": "PickAxeHandleHit"
     },
     {
         "field": "PICK_AXE_HANDLE_SWING",
         "id": "PickAxeHandleSwing"
+    },
+    {
+        "field": "PICK_AXE_HANDLE_UNEQUIP",
+        "id": "PickAxeHandleUnEquip"
+    },
+    {
+        "field": "PICK_AXE_UNEQUIP",
+        "id": "PickAxeUnEquip"
     },
     {
         "field": "PICK_AXE_HIT",
@@ -7340,6 +8620,10 @@
         "id": "PipeBombThrow"
     },
     {
+        "field": "PIPE_BOMB_UNEQUIP",
+        "id": "PipeBombUnEquip"
+    },
+    {
         "field": "PIPE_WRENCH_BREAK",
         "id": "PipeWrenchBreak"
     },
@@ -7348,12 +8632,20 @@
         "id": "PipeWrenchDrop"
     },
     {
+        "field": "PIPE_WRENCH_EQUIP",
+        "id": "PipeWrenchEquip"
+    },
+    {
         "field": "PIPE_WRENCH_HIT",
         "id": "PipeWrenchHit"
     },
     {
         "field": "PIPE_WRENCH_SWING",
         "id": "PipeWrenchSwing"
+    },
+    {
+        "field": "PIPE_WRENCH_UNEQUIP",
+        "id": "PipeWrenchUnEquip"
     },
     {
         "field": "PISTOL_AIM_RELEASE",
@@ -7432,12 +8724,20 @@
         "id": "PlankBrakeDiscDrop"
     },
     {
+        "field": "PLANK_BRAKE_DISC_EQUIP",
+        "id": "PlankBrakeDiscEquip"
+    },
+    {
         "field": "PLANK_BRAKE_DISC_HIT",
         "id": "PlankBrakeDiscHit"
     },
     {
         "field": "PLANK_BRAKE_DISC_SWING",
         "id": "PlankBrakeDiscSwing"
+    },
+    {
+        "field": "PLANK_BRAKE_DISC_UNEQUIP",
+        "id": "PlankBrakeDiscUnEquip"
     },
     {
         "field": "PLANK_BREAK",
@@ -7452,6 +8752,10 @@
         "id": "PlankBrokenDrop"
     },
     {
+        "field": "PLANK_BROKEN_EQUIP",
+        "id": "PlankBrokenEquip"
+    },
+    {
         "field": "PLANK_BROKEN_HIT",
         "id": "PlankBrokenHit"
     },
@@ -7464,6 +8768,10 @@
         "id": "PlankBrokenNailsDrop"
     },
     {
+        "field": "PLANK_BROKEN_NAILS_EQUIP",
+        "id": "PlankBrokenNailsEquip"
+    },
+    {
         "field": "PLANK_BROKEN_NAILS_HIT",
         "id": "PlankBrokenNailsHit"
     },
@@ -7472,12 +8780,24 @@
         "id": "PlankBrokenNailsSwing"
     },
     {
+        "field": "PLANK_BROKEN_NAILS_UNEQUIP",
+        "id": "PlankBrokenNailsUnEquip"
+    },
+    {
         "field": "PLANK_BROKEN_SWING",
         "id": "PlankBrokenSwing"
     },
     {
+        "field": "PLANK_BROKEN_UNEQUIP",
+        "id": "PlankBrokenUnEquip"
+    },
+    {
         "field": "PLANK_DROP",
         "id": "PlankDrop"
+    },
+    {
+        "field": "PLANK_EQUIP",
+        "id": "PlankEquip"
     },
     {
         "field": "PLANK_HIT",
@@ -7492,6 +8812,10 @@
         "id": "PlankSawBladeDrop"
     },
     {
+        "field": "PLANK_SAW_BLADE_EQUIP",
+        "id": "PlankSawBladeEquip"
+    },
+    {
         "field": "PLANK_SAW_BLADE_HIT",
         "id": "PlankSawBladeHit"
     },
@@ -7500,8 +8824,16 @@
         "id": "PlankSawBladeSwing"
     },
     {
+        "field": "PLANK_SAW_BLADE_UNEQUIP",
+        "id": "PlankSawBladeUnEquip"
+    },
+    {
         "field": "PLANK_SWING",
         "id": "PlankSwing"
+    },
+    {
+        "field": "PLANK_UNEQUIP",
+        "id": "PlankUnEquip"
     },
     {
         "field": "PLASTERING",
@@ -7532,6 +8864,10 @@
         "id": "PlungerDrop"
     },
     {
+        "field": "PLUNGER_EQUIP",
+        "id": "PlungerEquip"
+    },
+    {
         "field": "PLUNGER_HIT",
         "id": "PlungerHit"
     },
@@ -7544,6 +8880,10 @@
         "id": "PlungerSpearDrop"
     },
     {
+        "field": "PLUNGER_SPEAR_EQUIP",
+        "id": "PlungerSpearEquip"
+    },
+    {
         "field": "PLUNGER_SPEAR_HIT",
         "id": "PlungerSpearHit"
     },
@@ -7552,8 +8892,16 @@
         "id": "PlungerSpearSwing"
     },
     {
+        "field": "PLUNGER_SPEAR_UNEQUIP",
+        "id": "PlungerSpearUnEquip"
+    },
+    {
         "field": "PLUNGER_SWING",
         "id": "PlungerSwing"
+    },
+    {
+        "field": "PLUNGER_UNEQUIP",
+        "id": "PlungerUnEquip"
     },
     {
         "field": "POCKET_KNIFE_BREAK",
@@ -7592,12 +8940,20 @@
         "id": "PoolcueDrop"
     },
     {
+        "field": "POOLCUE_EQUIP",
+        "id": "PoolcueEquip"
+    },
+    {
         "field": "POOLCUE_HIT",
         "id": "PoolcueHit"
     },
     {
         "field": "POOLCUE_SWING",
         "id": "PoolcueSwing"
+    },
+    {
+        "field": "POOLCUE_UNEQUIP",
+        "id": "PoolcueUnEquip"
     },
     {
         "field": "POUR_LIQUID_ON_GROUND",
@@ -7624,12 +8980,20 @@
         "id": "PrimitiveScytheDrop"
     },
     {
+        "field": "PRIMITIVE_SCYTHE_EQUIP",
+        "id": "PrimitiveScytheEquip"
+    },
+    {
         "field": "PRIMITIVE_SCYTHE_HIT",
         "id": "PrimitiveScytheHit"
     },
     {
         "field": "PRIMITIVE_SCYTHE_SWING",
         "id": "PrimitiveScytheSwing"
+    },
+    {
+        "field": "PRIMITIVE_SCYTHE_UNEQUIP",
+        "id": "PrimitiveScytheUnEquip"
     },
     {
         "field": "PRISON_METAL_DOOR_BLOCKED",
@@ -7852,12 +9216,20 @@
         "id": "RailSpikedShortBatDrop"
     },
     {
+        "field": "RAIL_SPIKED_SHORT_BAT_EQUIP",
+        "id": "RailSpikedShortBatEquip"
+    },
+    {
         "field": "RAIL_SPIKED_SHORT_BAT_HIT",
         "id": "RailSpikedShortBatHit"
     },
     {
         "field": "RAIL_SPIKED_SHORT_BAT_SWING",
         "id": "RailSpikedShortBatSwing"
+    },
+    {
+        "field": "RAIL_SPIKED_SHORT_BAT_UNEQUIP",
+        "id": "RailSpikedShortBatUnEquip"
     },
     {
         "field": "RAIL_SPIKE_BASEBALL_BAT_BREAK",
@@ -7868,12 +9240,20 @@
         "id": "RailSpikeBaseballBatDrop"
     },
     {
+        "field": "RAIL_SPIKE_BASEBALL_BAT_EQUIP",
+        "id": "RailSpikeBaseballBatEquip"
+    },
+    {
         "field": "RAIL_SPIKE_BASEBALL_BAT_HIT",
         "id": "RailSpikeBaseballBatHit"
     },
     {
         "field": "RAIL_SPIKE_BASEBALL_BAT_SWING",
         "id": "RailSpikeBaseballBatSwing"
+    },
+    {
+        "field": "RAIL_SPIKE_BASEBALL_BAT_UNEQUIP",
+        "id": "RailSpikeBaseballBatUnEquip"
     },
     {
         "field": "RAIL_SPIKE_CUDGEL_BREAK",
@@ -7884,12 +9264,20 @@
         "id": "RailSpikeCudgelDrop"
     },
     {
+        "field": "RAIL_SPIKE_CUDGEL_EQUIP",
+        "id": "RailSpikeCudgelEquip"
+    },
+    {
         "field": "RAIL_SPIKE_CUDGEL_HIT",
         "id": "RailSpikeCudgelHit"
     },
     {
         "field": "RAIL_SPIKE_CUDGEL_SWING",
         "id": "RailSpikeCudgelSwing"
+    },
+    {
+        "field": "RAIL_SPIKE_CUDGEL_UNEQUIP",
+        "id": "RailSpikeCudgelUnEquip"
     },
     {
         "field": "RAIL_SPIKE_LONG_HANDLE_BREAK",
@@ -7900,12 +9288,20 @@
         "id": "RailSpikeLongHandleDrop"
     },
     {
+        "field": "RAIL_SPIKE_LONG_HANDLE_EQUIP",
+        "id": "RailSpikeLongHandleEquip"
+    },
+    {
         "field": "RAIL_SPIKE_LONG_HANDLE_HIT",
         "id": "RailSpikeLongHandleHit"
     },
     {
         "field": "RAIL_SPIKE_LONG_HANDLE_SWING",
         "id": "RailSpikeLongHandleSwing"
+    },
+    {
+        "field": "RAIL_SPIKE_LONG_HANDLE_UNEQUIP",
+        "id": "RailSpikeLongHandleUnEquip"
     },
     {
         "field": "RAIL_SPIKE_METAL_PIPE_BREAK",
@@ -7916,12 +9312,20 @@
         "id": "RailSpikeMetalPipeDrop"
     },
     {
+        "field": "RAIL_SPIKE_METAL_PIPE_EQUIP",
+        "id": "RailSpikeMetalPipeEquip"
+    },
+    {
         "field": "RAIL_SPIKE_METAL_PIPE_HIT",
         "id": "RailSpikeMetalPipeHit"
     },
     {
         "field": "RAIL_SPIKE_METAL_PIPE_SWING",
         "id": "RailSpikeMetalPipeSwing"
+    },
+    {
+        "field": "RAIL_SPIKE_METAL_PIPE_UNEQUIP",
+        "id": "RailSpikeMetalPipeUnEquip"
     },
     {
         "field": "RAIL_SPIKE_TREE_BRANCH_BREAK",
@@ -7932,12 +9336,20 @@
         "id": "RailSpikeTreeBranchDrop"
     },
     {
+        "field": "RAIL_SPIKE_TREE_BRANCH_EQUIP",
+        "id": "RailSpikeTreeBranchEquip"
+    },
+    {
         "field": "RAIL_SPIKE_TREE_BRANCH_HIT",
         "id": "RailSpikeTreeBranchHit"
     },
     {
         "field": "RAIL_SPIKE_TREE_BRANCH_SWING",
         "id": "RailSpikeTreeBranchSwing"
+    },
+    {
+        "field": "RAIL_SPIKE_TREE_BRANCH_UNEQUIP",
+        "id": "RailSpikeTreeBranchUnEquip"
     },
     {
         "field": "RAKE_BREAK",
@@ -7948,12 +9360,20 @@
         "id": "RakeDrop"
     },
     {
+        "field": "RAKE_EQUIP",
+        "id": "RakeEquip"
+    },
+    {
         "field": "RAKE_HEAD_BASEBALL_BAT_BREAK",
         "id": "RakeHeadBaseballBatBreak"
     },
     {
         "field": "RAKE_HEAD_BASEBALL_BAT_DROP",
         "id": "RakeHeadBaseballBatDrop"
+    },
+    {
+        "field": "RAKE_HEAD_BASEBALL_BAT_EQUIP",
+        "id": "RakeHeadBaseballBatEquip"
     },
     {
         "field": "RAKE_HEAD_BASEBALL_BAT_HIT",
@@ -7964,12 +9384,20 @@
         "id": "RakeHeadBaseballBatSwing"
     },
     {
+        "field": "RAKE_HEAD_BASEBALL_BAT_UNEQUIP",
+        "id": "RakeHeadBaseballBatUnEquip"
+    },
+    {
         "field": "RAKE_HEAD_LONG_HANDLE_BREAK",
         "id": "RakeHeadLongHandleBreak"
     },
     {
         "field": "RAKE_HEAD_LONG_HANDLE_DROP",
         "id": "RakeHeadLongHandleDrop"
+    },
+    {
+        "field": "RAKE_HEAD_LONG_HANDLE_EQUIP",
+        "id": "RakeHeadLongHandleEquip"
     },
     {
         "field": "RAKE_HEAD_LONG_HANDLE_HIT",
@@ -7980,12 +9408,20 @@
         "id": "RakeHeadLongHandleSwing"
     },
     {
+        "field": "RAKE_HEAD_LONG_HANDLE_UNEQUIP",
+        "id": "RakeHeadLongHandleUnEquip"
+    },
+    {
         "field": "RAKE_HEAD_SHORT_BAT_BREAK",
         "id": "RakeHeadShortBatBreak"
     },
     {
         "field": "RAKE_HEAD_SHORT_BAT_DROP",
         "id": "RakeHeadShortBatDrop"
+    },
+    {
+        "field": "RAKE_HEAD_SHORT_BAT_EQUIP",
+        "id": "RakeHeadShortBatEquip"
     },
     {
         "field": "RAKE_HEAD_SHORT_BAT_HIT",
@@ -7996,12 +9432,20 @@
         "id": "RakeHeadShortBatSwing"
     },
     {
+        "field": "RAKE_HEAD_SHORT_BAT_UNEQUIP",
+        "id": "RakeHeadShortBatUnEquip"
+    },
+    {
         "field": "RAKE_HIT",
         "id": "RakeHit"
     },
     {
         "field": "RAKE_SWING",
         "id": "RakeSwing"
+    },
+    {
+        "field": "RAKE_UNEQUIP",
+        "id": "RakeUnEquip"
     },
     {
         "field": "RATCHET_WRENCH_BREAK",
@@ -8012,12 +9456,20 @@
         "id": "RatchetWrenchDrop"
     },
     {
+        "field": "RATCHET_WRENCH_EQUIP",
+        "id": "RatchetWrenchEquip"
+    },
+    {
         "field": "RATCHET_WRENCH_HIT",
         "id": "RatchetWrenchHit"
     },
     {
         "field": "RATCHET_WRENCH_SWING",
         "id": "RatchetWrenchSwing"
+    },
+    {
+        "field": "RATCHET_WRENCH_UNEQUIP",
+        "id": "RatchetWrenchUnEquip"
     },
     {
         "field": "RAW_AXE_BREAK",
@@ -8028,12 +9480,20 @@
         "id": "RawAxeDrop"
     },
     {
+        "field": "RAW_AXE_EQUIP",
+        "id": "RawAxeEquip"
+    },
+    {
         "field": "RAW_AXE_HIT",
         "id": "RawAxeHit"
     },
     {
         "field": "RAW_AXE_SWING",
         "id": "RawAxeSwing"
+    },
+    {
+        "field": "RAW_AXE_UNEQUIP",
+        "id": "RawAxeUnEquip"
     },
     {
         "field": "REEL_FISHING_LINE_FAST",
@@ -8216,12 +9676,20 @@
         "id": "RollingPinDrop"
     },
     {
+        "field": "ROLLING_PIN_EQUIP",
+        "id": "RollingPinEquip"
+    },
+    {
         "field": "ROLLING_PIN_HIT",
         "id": "RollingPinHit"
     },
     {
         "field": "ROLLING_PIN_SWING",
         "id": "RollingPinSwing"
+    },
+    {
+        "field": "ROLLING_PIN_UNEQUIP",
+        "id": "RollingPinUnEquip"
     },
     {
         "field": "ROTATE_OBJECT",
@@ -8244,12 +9712,20 @@
         "id": "SaplingDrop"
     },
     {
+        "field": "SAPLING_EQUIP",
+        "id": "SaplingEquip"
+    },
+    {
         "field": "SAPLING_HIT",
         "id": "SaplingHit"
     },
     {
         "field": "SAPLING_SWING",
         "id": "SaplingSwing"
+    },
+    {
+        "field": "SAPLING_UNEQUIP",
+        "id": "SaplingUnEquip"
     },
     {
         "field": "SAUCEPAN_BREAK",
@@ -8260,12 +9736,20 @@
         "id": "SaucepanDrop"
     },
     {
+        "field": "SAUCEPAN_EQUIP",
+        "id": "SaucepanEquip"
+    },
+    {
         "field": "SAUCEPAN_HIT",
         "id": "SaucepanHit"
     },
     {
         "field": "SAUCEPAN_SWING",
         "id": "SaucepanSwing"
+    },
+    {
+        "field": "SAUCEPAN_UNEQUIP",
+        "id": "SaucepanUnEquip"
     },
     {
         "field": "SAWING",
@@ -8400,12 +9884,20 @@
         "id": "SawBladeBaseballBatDrop"
     },
     {
+        "field": "SAW_BLADE_BASEBALL_BAT_EQUIP",
+        "id": "SawBladeBaseballBatEquip"
+    },
+    {
         "field": "SAW_BLADE_BASEBALL_BAT_HIT",
         "id": "SawBladeBaseballBatHit"
     },
     {
         "field": "SAW_BLADE_BASEBALL_BAT_SWING",
         "id": "SawBladeBaseballBatSwing"
+    },
+    {
+        "field": "SAW_BLADE_BASEBALL_BAT_UNEQUIP",
+        "id": "SawBladeBaseballBatUnEquip"
     },
     {
         "field": "SAW_BLADE_CUDGEL_BREAK",
@@ -8416,12 +9908,20 @@
         "id": "SawBladeCudgelDrop"
     },
     {
+        "field": "SAW_BLADE_CUDGEL_EQUIP",
+        "id": "SawBladeCudgelEquip"
+    },
+    {
         "field": "SAW_BLADE_CUDGEL_HIT",
         "id": "SawBladeCudgelHit"
     },
     {
         "field": "SAW_BLADE_CUDGEL_SWING",
         "id": "SawBladeCudgelSwing"
+    },
+    {
+        "field": "SAW_BLADE_CUDGEL_UNEQUIP",
+        "id": "SawBladeCudgelUnEquip"
     },
     {
         "field": "SAW_BLADE_FIELD_HOCKEY_STICK_BREAK",
@@ -8432,12 +9932,20 @@
         "id": "SawBladeFieldHockeyStickDrop"
     },
     {
+        "field": "SAW_BLADE_FIELD_HOCKEY_STICK_EQUIP",
+        "id": "SawBladeFieldHockeyStickEquip"
+    },
+    {
         "field": "SAW_BLADE_FIELD_HOCKEY_STICK_HIT",
         "id": "SawBladeFieldHockeyStickHit"
     },
     {
         "field": "SAW_BLADE_FIELD_HOCKEY_STICK_SWING",
         "id": "SawBladeFieldHockeyStickSwing"
+    },
+    {
+        "field": "SAW_BLADE_FIELD_HOCKEY_STICK_UNEQUIP",
+        "id": "SawBladeFieldHockeyStickUnEquip"
     },
     {
         "field": "SAW_BLADE_HATCHET_BREAK",
@@ -8448,12 +9956,20 @@
         "id": "SawBladeHatchetDrop"
     },
     {
+        "field": "SAW_BLADE_HATCHET_EQUIP",
+        "id": "SawBladeHatchetEquip"
+    },
+    {
         "field": "SAW_BLADE_HATCHET_HIT",
         "id": "SawBladeHatchetHit"
     },
     {
         "field": "SAW_BLADE_HATCHET_SWING",
         "id": "SawBladeHatchetSwing"
+    },
+    {
+        "field": "SAW_BLADE_HATCHET_UNEQUIP",
+        "id": "SawBladeHatchetUnEquip"
     },
     {
         "field": "SAW_BLADE_LONG_HANDLE_BREAK",
@@ -8464,12 +9980,20 @@
         "id": "SawBladeLongHandleDrop"
     },
     {
+        "field": "SAW_BLADE_LONG_HANDLE_EQUIP",
+        "id": "SawBladeLongHandleEquip"
+    },
+    {
         "field": "SAW_BLADE_LONG_HANDLE_HIT",
         "id": "SawBladeLongHandleHit"
     },
     {
         "field": "SAW_BLADE_LONG_HANDLE_SWING",
         "id": "SawBladeLongHandleSwing"
+    },
+    {
+        "field": "SAW_BLADE_LONG_HANDLE_UNEQUIP",
+        "id": "SawBladeLongHandleUnEquip"
     },
     {
         "field": "SAW_BLADE_SHORT_BAT_BREAK",
@@ -8480,12 +10004,20 @@
         "id": "SawBladeShortBatDrop"
     },
     {
+        "field": "SAW_BLADE_SHORT_BAT_EQUIP",
+        "id": "SawBladeShortBatEquip"
+    },
+    {
         "field": "SAW_BLADE_SHORT_BAT_HIT",
         "id": "SawBladeShortBatHit"
     },
     {
         "field": "SAW_BLADE_SHORT_BAT_SWING",
         "id": "SawBladeShortBatSwing"
+    },
+    {
+        "field": "SAW_BLADE_SHORT_BAT_UNEQUIP",
+        "id": "SawBladeShortBatUnEquip"
     },
     {
         "field": "SAXOPHONE_BREAK",
@@ -8496,12 +10028,20 @@
         "id": "SaxophoneDrop"
     },
     {
+        "field": "SAXOPHONE_EQUIP",
+        "id": "SaxophoneEquip"
+    },
+    {
         "field": "SAXOPHONE_HIT",
         "id": "SaxophoneHit"
     },
     {
         "field": "SAXOPHONE_SWING",
         "id": "SaxophoneSwing"
+    },
+    {
+        "field": "SAXOPHONE_UNEQUIP",
+        "id": "SaxophoneUnEquip"
     },
     {
         "field": "SCALPEL_BREAK",
@@ -8512,12 +10052,20 @@
         "id": "ScalpelDrop"
     },
     {
+        "field": "SCALPEL_EQUIP",
+        "id": "ScalpelEquip"
+    },
+    {
         "field": "SCALPEL_HIT",
         "id": "ScalpelHit"
     },
     {
         "field": "SCALPEL_SWING",
         "id": "ScalpelSwing"
+    },
+    {
+        "field": "SCALPEL_UNEQUIP",
+        "id": "ScalpelUnEquip"
     },
     {
         "field": "SCISSORS_BREAK",
@@ -8528,12 +10076,20 @@
         "id": "ScissorsDrop"
     },
     {
+        "field": "SCISSORS_EQUIP",
+        "id": "ScissorsEquip"
+    },
+    {
         "field": "SCISSORS_HIT",
         "id": "ScissorsHit"
     },
     {
         "field": "SCISSORS_SWING",
         "id": "ScissorsSwing"
+    },
+    {
+        "field": "SCISSORS_UNEQUIP",
+        "id": "ScissorsUnEquip"
     },
     {
         "field": "SCRAPE_CANNED_FOOD",
@@ -8548,12 +10104,20 @@
         "id": "ScrapLargeKnifeDrop"
     },
     {
+        "field": "SCRAP_LARGE_KNIFE_EQUIP",
+        "id": "ScrapLargeKnifeEquip"
+    },
+    {
         "field": "SCRAP_LARGE_KNIFE_HIT",
         "id": "ScrapLargeKnifeHit"
     },
     {
         "field": "SCRAP_LARGE_KNIFE_SWING",
         "id": "ScrapLargeKnifeSwing"
+    },
+    {
+        "field": "SCRAP_LARGE_KNIFE_UNEQUIP",
+        "id": "ScrapLargeKnifeUnEquip"
     },
     {
         "field": "SCRAP_MAUL_BREAK",
@@ -8564,12 +10128,20 @@
         "id": "ScrapMaulDrop"
     },
     {
+        "field": "SCRAP_MAUL_EQUIP",
+        "id": "ScrapMaulEquip"
+    },
+    {
         "field": "SCRAP_MAUL_HIT",
         "id": "ScrapMaulHit"
     },
     {
         "field": "SCRAP_MAUL_SWING",
         "id": "ScrapMaulSwing"
+    },
+    {
+        "field": "SCRAP_MAUL_UNEQUIP",
+        "id": "ScrapMaulUnEquip"
     },
     {
         "field": "SCRAP_MEAT_CLEAVER_BREAK",
@@ -8580,6 +10152,10 @@
         "id": "ScrapMeatCleaverDrop"
     },
     {
+        "field": "SCRAP_MEAT_CLEAVER_EQUIP",
+        "id": "ScrapMeatCleaverEquip"
+    },
+    {
         "field": "SCRAP_MEAT_CLEAVER_HIT",
         "id": "ScrapMeatCleaverHit"
     },
@@ -8588,12 +10164,20 @@
         "id": "ScrapMeatCleaverSwing"
     },
     {
+        "field": "SCRAP_MEAT_CLEAVER_UNEQUIP",
+        "id": "ScrapMeatCleaverUnEquip"
+    },
+    {
         "field": "SCRAP_MORNINGSTAR_BREAK",
         "id": "ScrapMorningstarBreak"
     },
     {
         "field": "SCRAP_MORNINGSTAR_DROP",
         "id": "ScrapMorningstarDrop"
+    },
+    {
+        "field": "SCRAP_MORNINGSTAR_EQUIP",
+        "id": "ScrapMorningstarEquip"
     },
     {
         "field": "SCRAP_MORNINGSTAR_HIT",
@@ -8608,6 +10192,10 @@
         "id": "ScrapMorningstarShortDrop"
     },
     {
+        "field": "SCRAP_MORNINGSTAR_SHORT_EQUIP",
+        "id": "ScrapMorningstarShortEquip"
+    },
+    {
         "field": "SCRAP_MORNINGSTAR_SHORT_HIT",
         "id": "ScrapMorningstarShortHit"
     },
@@ -8616,8 +10204,16 @@
         "id": "ScrapMorningstarShortSwing"
     },
     {
+        "field": "SCRAP_MORNINGSTAR_SHORT_UNEQUIP",
+        "id": "ScrapMorningstarShortUnEquip"
+    },
+    {
         "field": "SCRAP_MORNINGSTAR_SWING",
         "id": "ScrapMorningstarSwing"
+    },
+    {
+        "field": "SCRAP_MORNINGSTAR_UNEQUIP",
+        "id": "ScrapMorningstarUnEquip"
     },
     {
         "field": "SCRAP_SHORT_SWORD_BREAK",
@@ -8626,6 +10222,10 @@
     {
         "field": "SCRAP_SHORT_SWORD_DROP",
         "id": "ScrapShortSwordDrop"
+    },
+    {
+        "field": "SCRAP_SHORT_SWORD_EQUIP",
+        "id": "ScrapShortSwordEquip"
     },
     {
         "field": "SCRAP_SHORT_SWORD_HIT",
@@ -8640,12 +10240,20 @@
         "id": "ScrapShortSwordSwing"
     },
     {
+        "field": "SCRAP_SHORT_SWORD_UNEQUIP",
+        "id": "ScrapShortSwordUnEquip"
+    },
+    {
         "field": "SCRAP_SWORD_BREAK",
         "id": "ScrapSwordBreak"
     },
     {
         "field": "SCRAP_SWORD_DROP",
         "id": "ScrapSwordDrop"
+    },
+    {
+        "field": "SCRAP_SWORD_EQUIP",
+        "id": "ScrapSwordEquip"
     },
     {
         "field": "SCRAP_SWORD_HIT",
@@ -8656,12 +10264,20 @@
         "id": "ScrapSwordSwing"
     },
     {
+        "field": "SCRAP_SWORD_UNEQUIP",
+        "id": "ScrapSwordUnEquip"
+    },
+    {
         "field": "SCRAP_WEAPON_BRAKE_DISC_BREAK",
         "id": "ScrapWeaponBrakeDiscBreak"
     },
     {
         "field": "SCRAP_WEAPON_BRAKE_DISC_DROP",
         "id": "ScrapWeaponBrakeDiscDrop"
+    },
+    {
+        "field": "SCRAP_WEAPON_BRAKE_DISC_EQUIP",
+        "id": "ScrapWeaponBrakeDiscEquip"
     },
     {
         "field": "SCRAP_WEAPON_BRAKE_DISC_HIT",
@@ -8672,12 +10288,20 @@
         "id": "ScrapWeaponBrakeDiscSwing"
     },
     {
+        "field": "SCRAP_WEAPON_BRAKE_DISC_UNEQUIP",
+        "id": "ScrapWeaponBrakeDiscUnEquip"
+    },
+    {
         "field": "SCRAP_WEAPON_GARDEN_FORK_BREAK",
         "id": "ScrapWeaponGardenForkBreak"
     },
     {
         "field": "SCRAP_WEAPON_GARDEN_FORK_DROP",
         "id": "ScrapWeaponGardenForkDrop"
+    },
+    {
+        "field": "SCRAP_WEAPON_GARDEN_FORK_EQUIP",
+        "id": "ScrapWeaponGardenForkEquip"
     },
     {
         "field": "SCRAP_WEAPON_GARDEN_FORK_HIT",
@@ -8688,12 +10312,20 @@
         "id": "ScrapWeaponGardenForkSwing"
     },
     {
+        "field": "SCRAP_WEAPON_GARDEN_FORK_UNEQUIP",
+        "id": "ScrapWeaponGardenForkUnEquip"
+    },
+    {
         "field": "SCRAP_WEAPON_RAKE_HEAD_BREAK",
         "id": "ScrapWeaponRakeHeadBreak"
     },
     {
         "field": "SCRAP_WEAPON_RAKE_HEAD_DROP",
         "id": "ScrapWeaponRakeHeadDrop"
+    },
+    {
+        "field": "SCRAP_WEAPON_RAKE_HEAD_EQUIP",
+        "id": "ScrapWeaponRakeHeadEquip"
     },
     {
         "field": "SCRAP_WEAPON_RAKE_HEAD_HIT",
@@ -8704,6 +10336,10 @@
         "id": "ScrapWeaponRakeHeadSwing"
     },
     {
+        "field": "SCRAP_WEAPON_RAKE_HEAD_UNEQUIP",
+        "id": "ScrapWeaponRakeHeadUnEquip"
+    },
+    {
         "field": "SCRAP_WEAPON_SPADE_BREAK",
         "id": "ScrapWeaponSpadeBreak"
     },
@@ -8712,12 +10348,20 @@
         "id": "ScrapWeaponSpadeDrop"
     },
     {
+        "field": "SCRAP_WEAPON_SPADE_EQUIP",
+        "id": "ScrapWeaponSpadeEquip"
+    },
+    {
         "field": "SCRAP_WEAPON_SPADE_HIT",
         "id": "ScrapWeaponSpadeHit"
     },
     {
         "field": "SCRAP_WEAPON_SPADE_SWING",
         "id": "ScrapWeaponSpadeSwing"
+    },
+    {
+        "field": "SCRAP_WEAPON_SPADE_UNEQUIP",
+        "id": "ScrapWeaponSpadeUnEquip"
     },
     {
         "field": "SCREWDRIVER",
@@ -8732,12 +10376,20 @@
         "id": "ScrewdriverDrop"
     },
     {
+        "field": "SCREWDRIVER_EQUIP",
+        "id": "ScrewdriverEquip"
+    },
+    {
         "field": "SCREWDRIVER_HIT",
         "id": "ScrewdriverHit"
     },
     {
         "field": "SCREWDRIVER_SWING",
         "id": "ScrewdriverSwing"
+    },
+    {
+        "field": "SCREWDRIVER_UNEQUIP",
+        "id": "ScrewdriverUnEquip"
     },
     {
         "field": "SCYTHE_GRASS",
@@ -8764,6 +10416,10 @@
         "id": "SharpBoneLongDrop"
     },
     {
+        "field": "SHARP_BONE_LONG_EQUIP",
+        "id": "SharpBoneLongEquip"
+    },
+    {
         "field": "SHARP_BONE_LONG_HIT",
         "id": "SharpBoneLongHit"
     },
@@ -8774,6 +10430,10 @@
     {
         "field": "SHARP_BONE_LONG_SWING",
         "id": "SharpBoneLongSwing"
+    },
+    {
+        "field": "SHARP_BONE_LONG_UNEQUIP",
+        "id": "SharpBoneLongUnEquip"
     },
     {
         "field": "SHAVE_RAZOR",
@@ -8788,6 +10448,10 @@
         "id": "SheetMetalSnipsDrop"
     },
     {
+        "field": "SHEET_METAL_SNIPS_EQUIP",
+        "id": "SheetMetalSnipsEquip"
+    },
+    {
         "field": "SHEET_METAL_SNIPS_HIT",
         "id": "SheetMetalSnipsHit"
     },
@@ -8798,6 +10462,10 @@
     {
         "field": "SHEET_METAL_SNIPS_SWING",
         "id": "SheetMetalSnipsSwing"
+    },
+    {
+        "field": "SHEET_METAL_SNIPS_UNEQUIP",
+        "id": "SheetMetalSnipsUnEquip"
     },
     {
         "field": "SHELF_GENERIC_TRANSFER_ITEM",
@@ -8820,12 +10488,20 @@
         "id": "ShivDrop"
     },
     {
+        "field": "SHIV_EQUIP",
+        "id": "ShivEquip"
+    },
+    {
         "field": "SHIV_HIT",
         "id": "ShivHit"
     },
     {
         "field": "SHIV_SWING",
         "id": "ShivSwing"
+    },
+    {
+        "field": "SHIV_UNEQUIP",
+        "id": "ShivUnEquip"
     },
     {
         "field": "SHORT_BAT_BREAK",
@@ -8836,6 +10512,10 @@
         "id": "ShortBatDrop"
     },
     {
+        "field": "SHORT_BAT_EQUIP",
+        "id": "ShortBatEquip"
+    },
+    {
         "field": "SHORT_BAT_HIT",
         "id": "ShortBatHit"
     },
@@ -8844,12 +10524,20 @@
         "id": "ShortBatSwing"
     },
     {
+        "field": "SHORT_BAT_UNEQUIP",
+        "id": "ShortBatUnEquip"
+    },
+    {
         "field": "SHORT_SPEAR_BREAK",
         "id": "ShortSpearBreak"
     },
     {
         "field": "SHORT_SPEAR_DROP",
         "id": "ShortSpearDrop"
+    },
+    {
+        "field": "SHORT_SPEAR_EQUIP",
+        "id": "ShortSpearEquip"
     },
     {
         "field": "SHORT_SPEAR_HIT",
@@ -8864,6 +10552,10 @@
         "id": "ShortSpearSwing"
     },
     {
+        "field": "SHORT_SPEAR_UNEQUIP",
+        "id": "ShortSpearUnEquip"
+    },
+    {
         "field": "SHORT_SWORD_BREAK",
         "id": "ShortSwordBreak"
     },
@@ -8872,12 +10564,20 @@
         "id": "ShortSwordDrop"
     },
     {
+        "field": "SHORT_SWORD_EQUIP",
+        "id": "ShortSwordEquip"
+    },
+    {
         "field": "SHORT_SWORD_HIT",
         "id": "ShortSwordHit"
     },
     {
         "field": "SHORT_SWORD_SWING",
         "id": "ShortSwordSwing"
+    },
+    {
+        "field": "SHORT_SWORD_UNEQUIP",
+        "id": "ShortSwordUnEquip"
     },
     {
         "field": "SHOVELING",
@@ -8892,12 +10592,20 @@
         "id": "ShovelDrop"
     },
     {
+        "field": "SHOVEL_EQUIP",
+        "id": "ShovelEquip"
+    },
+    {
         "field": "SHOVEL_HIT",
         "id": "ShovelHit"
     },
     {
         "field": "SHOVEL_SWING",
         "id": "ShovelSwing"
+    },
+    {
+        "field": "SHOVEL_UNEQUIP",
+        "id": "ShovelUnEquip"
     },
     {
         "field": "SIT_DOWN_CASTOR_CHAIR",
@@ -8936,8 +10644,16 @@
         "id": "SledgehammerHit"
     },
     {
+        "field": "SLEDGEHAMMER_EQUIP",
+        "id": "SledgehammerEquip"
+    },
+    {
         "field": "SLEDGEHAMMER_SWING",
         "id": "SledgehammerSwing"
+    },
+    {
+        "field": "SLEDGEHAMMER_UNEQUIP",
+        "id": "SledgehammerUnEquip"
     },
     {
         "field": "SLICE_BREAD",
@@ -8988,12 +10704,20 @@
         "id": "SmallKnifeDrop"
     },
     {
+        "field": "SMALL_KNIFE_EQUIP",
+        "id": "SmallKnifeEquip"
+    },
+    {
         "field": "SMALL_KNIFE_HIT",
         "id": "SmallKnifeHit"
     },
     {
         "field": "SMALL_KNIFE_SWING",
         "id": "SmallKnifeSwing"
+    },
+    {
+        "field": "SMALL_KNIFE_UNEQUIP",
+        "id": "SmallKnifeUnEquip"
     },
     {
         "field": "SMASHED_BOTTLE_BREAK",
@@ -9004,12 +10728,20 @@
         "id": "SmashedBottleDrop"
     },
     {
+        "field": "SMASHED_BOTTLE_EQUIP",
+        "id": "SmashedBottleEquip"
+    },
+    {
         "field": "SMASHED_BOTTLE_HIT",
         "id": "SmashedBottleHit"
     },
     {
         "field": "SMASHED_BOTTLE_SWING",
         "id": "SmashedBottleSwing"
+    },
+    {
+        "field": "SMASHED_BOTTLE_UNEQUIP",
+        "id": "SmashedBottleUnEquip"
     },
     {
         "field": "SMASH_BONE_FINISH",
@@ -9056,12 +10788,20 @@
         "id": "SmithingHammerDrop"
     },
     {
+        "field": "SMITHING_HAMMER_EQUIP",
+        "id": "SmithingHammerEquip"
+    },
+    {
         "field": "SMITHING_HAMMER_HIT",
         "id": "SmithingHammerHit"
     },
     {
         "field": "SMITHING_HAMMER_SWING",
         "id": "SmithingHammerSwing"
+    },
+    {
+        "field": "SMITHING_HAMMER_UNEQUIP",
+        "id": "SmithingHammerUnEquip"
     },
     {
         "field": "SMOKE",
@@ -9082,6 +10822,10 @@
     {
         "field": "SMOKE_BOMB_THROW",
         "id": "SmokeBombThrow"
+    },
+    {
+        "field": "SMOKE_BOMB_UNEQUIP",
+        "id": "SmokeBombUnEquip"
     },
     {
         "field": "SNIPER_RIFLE_AIM_RELEASE",
@@ -9132,12 +10876,20 @@
         "id": "SnowShovelDrop"
     },
     {
+        "field": "SNOW_SHOVEL_EQUIP",
+        "id": "SnowShovelEquip"
+    },
+    {
         "field": "SNOW_SHOVEL_HIT",
         "id": "SnowShovelHit"
     },
     {
         "field": "SNOW_SHOVEL_SWING",
         "id": "SnowShovelSwing"
+    },
+    {
+        "field": "SNOW_SHOVEL_UNEQUIP",
+        "id": "SnowShovelUnEquip"
     },
     {
         "field": "SOW_SEEDS",
@@ -9152,6 +10904,10 @@
         "id": "SpadeCudgelDrop"
     },
     {
+        "field": "SPADE_CUDGEL_EQUIP",
+        "id": "SpadeCudgelEquip"
+    },
+    {
         "field": "SPADE_CUDGEL_HIT",
         "id": "SpadeCudgelHit"
     },
@@ -9160,12 +10916,20 @@
         "id": "SpadeCudgelSwing"
     },
     {
+        "field": "SPADE_CUDGEL_UNEQUIP",
+        "id": "SpadeCudgelUnEquip"
+    },
+    {
         "field": "SPEAR_BONE_BREAK",
         "id": "SpearBoneBreak"
     },
     {
         "field": "SPEAR_BONE_DROP",
         "id": "SpearBoneDrop"
+    },
+    {
+        "field": "SPEAR_BONE_EQUIP",
+        "id": "SpearBoneEquip"
     },
     {
         "field": "SPEAR_BONE_HIT",
@@ -9180,8 +10944,16 @@
         "id": "SpearBoneSwing"
     },
     {
+        "field": "SPEAR_BONE_UNEQUIP",
+        "id": "SpearBoneUnEquip"
+    },
+    {
         "field": "SPEAR_BREAD_KNIFE_BREAK",
         "id": "SpearBreadKnifeBreak"
+    },
+    {
+        "field": "SPEAR_BREAD_KNIFE_EQUIP",
+        "id": "SpearBreadKnifeEquip"
     },
     {
         "field": "SPEAR_BREAD_KNIFE_HIT",
@@ -9196,8 +10968,16 @@
         "id": "SpearBreadKnifeSwing"
     },
     {
+        "field": "SPEAR_BREAD_KNIFE_UNEQUIP",
+        "id": "SpearBreadKnifeUnEquip"
+    },
+    {
         "field": "SPEAR_BUTTER_KNIFE_BREAK",
         "id": "SpearButterKnifeBreak"
+    },
+    {
+        "field": "SPEAR_BUTTER_KNIFE_EQUIP",
+        "id": "SpearButterKnifeEquip"
     },
     {
         "field": "SPEAR_BUTTER_KNIFE_HIT",
@@ -9212,8 +10992,16 @@
         "id": "SpearButterKnifeSwing"
     },
     {
+        "field": "SPEAR_BUTTER_KNIFE_UNEQUIP",
+        "id": "SpearButterKnifeUnEquip"
+    },
+    {
         "field": "SPEAR_CARVING_FORK_BREAK",
         "id": "SpearCarvingForkBreak"
+    },
+    {
+        "field": "SPEAR_CARVING_FORK_EQUIP",
+        "id": "SpearCarvingForkEquip"
     },
     {
         "field": "SPEAR_CARVING_FORK_HIT",
@@ -9228,12 +11016,20 @@
         "id": "SpearCarvingForkSwing"
     },
     {
+        "field": "SPEAR_CARVING_FORK_UNEQUIP",
+        "id": "SpearCarvingForkUnEquip"
+    },
+    {
         "field": "SPEAR_CRAFTED_BREAK",
         "id": "SpearCraftedBreak"
     },
     {
         "field": "SPEAR_CRAFTED_DROP",
         "id": "SpearCraftedDrop"
+    },
+    {
+        "field": "SPEAR_CRAFTED_EQUIP",
+        "id": "SpearCraftedEquip"
     },
     {
         "field": "SPEAR_CRAFTED_HIT",
@@ -9248,8 +11044,16 @@
         "id": "SpearCraftedSwing"
     },
     {
+        "field": "SPEAR_CRAFTED_UNEQUIP",
+        "id": "SpearCraftedUnEquip"
+    },
+    {
         "field": "SPEAR_FORK_BREAK",
         "id": "SpearForkBreak"
+    },
+    {
+        "field": "SPEAR_FORK_EQUIP",
+        "id": "SpearForkEquip"
     },
     {
         "field": "SPEAR_FORK_HIT",
@@ -9264,8 +11068,16 @@
         "id": "SpearForkSwing"
     },
     {
+        "field": "SPEAR_FORK_UNEQUIP",
+        "id": "SpearForkUnEquip"
+    },
+    {
         "field": "SPEAR_GARDEN_FORK_BREAK",
         "id": "SpearGardenForkBreak"
+    },
+    {
+        "field": "SPEAR_GARDEN_FORK_EQUIP",
+        "id": "SpearGardenForkEquip"
     },
     {
         "field": "SPEAR_GARDEN_FORK_HIT",
@@ -9280,12 +11092,20 @@
         "id": "SpearGardenForkSwing"
     },
     {
+        "field": "SPEAR_GARDEN_FORK_UNEQUIP",
+        "id": "SpearGardenForkUnEquip"
+    },
+    {
         "field": "SPEAR_GLASS_BREAK",
         "id": "SpearGlassBreak"
     },
     {
         "field": "SPEAR_GLASS_DROP",
         "id": "SpearGlassDrop"
+    },
+    {
+        "field": "SPEAR_GLASS_EQUIP",
+        "id": "SpearGlassEquip"
     },
     {
         "field": "SPEAR_GLASS_HIT",
@@ -9300,8 +11120,16 @@
         "id": "SpearGlassSwing"
     },
     {
+        "field": "SPEAR_GLASS_UNEQUIP",
+        "id": "SpearGlassUnEquip"
+    },
+    {
         "field": "SPEAR_HAND_FORK_BREAK",
         "id": "SpearHandForkBreak"
+    },
+    {
+        "field": "SPEAR_HAND_FORK_EQUIP",
+        "id": "SpearHandForkEquip"
     },
     {
         "field": "SPEAR_HAND_FORK_HIT",
@@ -9316,6 +11144,10 @@
         "id": "SpearHandForkSwing"
     },
     {
+        "field": "SPEAR_HAND_FORK_UNEQUIP",
+        "id": "SpearHandForkUnEquip"
+    },
+    {
         "field": "SPEAR_HEAD_BREAK",
         "id": "SpearHeadBreak"
     },
@@ -9324,8 +11156,16 @@
         "id": "SpearHeadDrop"
     },
     {
+        "field": "SPEAR_HEAD_EQUIP",
+        "id": "SpearHeadEquip"
+    },
+    {
         "field": "SPEAR_HEAD_HIT",
         "id": "SpearHeadHit"
+    },
+    {
+        "field": "SPEAR_HEAD_UNEQUIP",
+        "id": "SpearHeadUnEquip"
     },
     {
         "field": "SPEAR_HEAD_LONG_BREAK",
@@ -9334,6 +11174,10 @@
     {
         "field": "SPEAR_HEAD_LONG_DROP",
         "id": "SpearHeadLongDrop"
+    },
+    {
+        "field": "SPEAR_HEAD_LONG_EQUIP",
+        "id": "SpearHeadLongEquip"
     },
     {
         "field": "SPEAR_HEAD_LONG_HIT",
@@ -9348,6 +11192,10 @@
         "id": "SpearHeadLongSwing"
     },
     {
+        "field": "SPEAR_HEAD_LONG_UNEQUIP",
+        "id": "SpearHeadLongUnEquip"
+    },
+    {
         "field": "SPEAR_HEAD_STAB",
         "id": "SpearHeadStab"
     },
@@ -9358,6 +11206,10 @@
     {
         "field": "SPEAR_HUNTING_KNIFE_BREAK",
         "id": "SpearHuntingKnifeBreak"
+    },
+    {
+        "field": "SPEAR_HUNTING_KNIFE_EQUIP",
+        "id": "SpearHuntingKnifeEquip"
     },
     {
         "field": "SPEAR_HUNTING_KNIFE_HIT",
@@ -9372,8 +11224,16 @@
         "id": "SpearHuntingKnifeSwing"
     },
     {
+        "field": "SPEAR_HUNTING_KNIFE_UNEQUIP",
+        "id": "SpearHuntingKnifeUnEquip"
+    },
+    {
         "field": "SPEAR_ICE_PICK_BREAK",
         "id": "SpearIcePickBreak"
+    },
+    {
+        "field": "SPEAR_ICE_PICK_EQUIP",
+        "id": "SpearIcePickEquip"
     },
     {
         "field": "SPEAR_ICE_PICK_HIT",
@@ -9388,8 +11248,16 @@
         "id": "SpearIcePickSwing"
     },
     {
+        "field": "SPEAR_ICE_PICK_UNEQUIP",
+        "id": "SpearIcePickUnEquip"
+    },
+    {
         "field": "SPEAR_KNIFE_BREAK",
         "id": "SpearKnifeBreak"
+    },
+    {
+        "field": "SPEAR_KNIFE_EQUIP",
+        "id": "SpearKnifeEquip"
     },
     {
         "field": "SPEAR_KNIFE_HIT",
@@ -9404,8 +11272,16 @@
         "id": "SpearKnifeSwing"
     },
     {
+        "field": "SPEAR_KNIFE_UNEQUIP",
+        "id": "SpearKnifeUnEquip"
+    },
+    {
         "field": "SPEAR_LETTER_OPENER_BREAK",
         "id": "SpearLetterOpenerBreak"
+    },
+    {
+        "field": "SPEAR_LETTER_OPENER_EQUIP",
+        "id": "SpearLetterOpenerEquip"
     },
     {
         "field": "SPEAR_LETTER_OPENER_HIT",
@@ -9420,8 +11296,16 @@
         "id": "SpearLetterOpenerSwing"
     },
     {
+        "field": "SPEAR_LETTER_OPENER_UNEQUIP",
+        "id": "SpearLetterOpenerUnEquip"
+    },
+    {
         "field": "SPEAR_MACHETE_BREAK",
         "id": "SpearMacheteBreak"
+    },
+    {
+        "field": "SPEAR_MACHETE_EQUIP",
+        "id": "SpearMacheteEquip"
     },
     {
         "field": "SPEAR_MACHETE_HIT",
@@ -9436,8 +11320,16 @@
         "id": "SpearMacheteSwing"
     },
     {
+        "field": "SPEAR_MACHETE_UNEQUIP",
+        "id": "SpearMacheteUnEquip"
+    },
+    {
         "field": "SPEAR_SCALPEL_BREAK",
         "id": "SpearScalpelBreak"
+    },
+    {
+        "field": "SPEAR_SCALPEL_EQUIP",
+        "id": "SpearScalpelEquip"
     },
     {
         "field": "SPEAR_SCALPEL_HIT",
@@ -9452,8 +11344,16 @@
         "id": "SpearScalpelSwing"
     },
     {
+        "field": "SPEAR_SCALPEL_UNEQUIP",
+        "id": "SpearScalpelUnEquip"
+    },
+    {
         "field": "SPEAR_SCISSORS_BREAK",
         "id": "SpearScissorsBreak"
+    },
+    {
+        "field": "SPEAR_SCISSORS_EQUIP",
+        "id": "SpearScissorsEquip"
     },
     {
         "field": "SPEAR_SCISSORS_HIT",
@@ -9468,8 +11368,16 @@
         "id": "SpearScissorsSwing"
     },
     {
+        "field": "SPEAR_SCISSORS_UNEQUIP",
+        "id": "SpearScissorsUnEquip"
+    },
+    {
         "field": "SPEAR_SCREWDRIVER_BREAK",
         "id": "SpearScrewdriverBreak"
+    },
+    {
+        "field": "SPEAR_SCREWDRIVER_EQUIP",
+        "id": "SpearScrewdriverEquip"
     },
     {
         "field": "SPEAR_SCREWDRIVER_HIT",
@@ -9484,12 +11392,20 @@
         "id": "SpearScrewdriverSwing"
     },
     {
+        "field": "SPEAR_SCREWDRIVER_UNEQUIP",
+        "id": "SpearScrewdriverUnEquip"
+    },
+    {
         "field": "SPEAR_SPOON_BREAK",
         "id": "SpearSpoonBreak"
     },
     {
         "field": "SPEAR_SPOON_HIT",
         "id": "SpearSpoonHit"
+    },
+    {
+        "field": "SPEAR_SPOON_EQUIP",
+        "id": "SpearSpoonEquip"
     },
     {
         "field": "SPEAR_SPOON_STAB",
@@ -9500,12 +11416,20 @@
         "id": "SpearSpoonSwing"
     },
     {
+        "field": "SPEAR_SPOON_UNEQUIP",
+        "id": "SpearSpoonUnEquip"
+    },
+    {
         "field": "SPIKED_BASEBALL_BAT_BREAK",
         "id": "SpikedBaseballBatBreak"
     },
     {
         "field": "SPIKED_BASEBALL_BAT_DROP",
         "id": "SpikedBaseballBatDrop"
+    },
+    {
+        "field": "SPIKED_BASEBALL_BAT_EQUIP",
+        "id": "SpikedBaseballBatEquip"
     },
     {
         "field": "SPIKED_BASEBALL_BAT_HIT",
@@ -9516,12 +11440,20 @@
         "id": "SpikedBaseballBatSwing"
     },
     {
+        "field": "SPIKED_BASEBALL_BAT_UNEQUIP",
+        "id": "SpikedBaseballBatUnEquip"
+    },
+    {
         "field": "SPIKED_PICK_AXE_HANDLE_BREAK",
         "id": "SpikedPickAxeHandleBreak"
     },
     {
         "field": "SPIKED_PICK_AXE_HANDLE_DROP",
         "id": "SpikedPickAxeHandleDrop"
+    },
+    {
+        "field": "SPIKED_PICK_AXE_HANDLE_EQUIP",
+        "id": "SpikedPickAxeHandleEquip"
     },
     {
         "field": "SPIKED_PICK_AXE_HANDLE_HIT",
@@ -9532,12 +11464,20 @@
         "id": "SpikedPickAxeHandleSwing"
     },
     {
+        "field": "SPIKED_PICK_AXE_HANDLE_UNEQUIP",
+        "id": "SpikedPickAxeHandleUnEquip"
+    },
+    {
         "field": "SPIKED_PLANK_BREAK",
         "id": "SpikedPlankBreak"
     },
     {
         "field": "SPIKED_PLANK_DROP",
         "id": "SpikedPlankDrop"
+    },
+    {
+        "field": "SPIKED_PLANK_EQUIP",
+        "id": "SpikedPlankEquip"
     },
     {
         "field": "SPIKED_PLANK_HIT",
@@ -9548,12 +11488,20 @@
         "id": "SpikedPlankSwing"
     },
     {
+        "field": "SPIKED_PLANK_UNEQUIP",
+        "id": "SpikedPlankUnEquip"
+    },
+    {
         "field": "SPIKED_SHORT_BAT_BREAK",
         "id": "SpikedShortBatBreak"
     },
     {
         "field": "SPIKED_SHORT_BAT_DROP",
         "id": "SpikedShortBatDrop"
+    },
+    {
+        "field": "SPIKED_SHORT_BAT_EQUIP",
+        "id": "SpikedShortBatEquip"
     },
     {
         "field": "SPIKED_SHORT_BAT_HIT",
@@ -9564,6 +11512,10 @@
         "id": "SpikedShortBatSwing"
     },
     {
+        "field": "SPIKED_SHORT_BAT_UNEQUIP",
+        "id": "SpikedShortBatUnEquip"
+    },
+    {
         "field": "SPIKE_CUDGEL_BREAK",
         "id": "SpikeCudgelBreak"
     },
@@ -9572,12 +11524,20 @@
         "id": "SpikeCudgelDrop"
     },
     {
+        "field": "SPIKE_CUDGEL_EQUIP",
+        "id": "SpikeCudgelEquip"
+    },
+    {
         "field": "SPIKE_CUDGEL_HIT",
         "id": "SpikeCudgelHit"
     },
     {
         "field": "SPIKE_CUDGEL_SWING",
         "id": "SpikeCudgelSwing"
+    },
+    {
+        "field": "SPIKE_CUDGEL_UNEQUIP",
+        "id": "SpikeCudgelUnEquip"
     },
     {
         "field": "SPOON_BREAK",
@@ -9592,8 +11552,16 @@
         "id": "SpoonHit"
     },
     {
+        "field": "SPOON_EQUIP",
+        "id": "SpoonEquip"
+    },
+    {
         "field": "SPOON_SWING",
         "id": "SpoonSwing"
+    },
+    {
+        "field": "SPOON_UNEQUIP",
+        "id": "SpoonUnEquip"
     },
     {
         "field": "STAKE_BREAK",
@@ -9604,12 +11572,20 @@
         "id": "StakeDrop"
     },
     {
+        "field": "STAKE_EQUIP",
+        "id": "StakeEquip"
+    },
+    {
         "field": "STAKE_HIT",
         "id": "StakeHit"
     },
     {
         "field": "STAKE_SWING",
         "id": "StakeSwing"
+    },
+    {
+        "field": "STAKE_UNEQUIP",
+        "id": "StakeUnEquip"
     },
     {
         "field": "STAND_UP_CASTOR_CHAIR",
@@ -9644,12 +11620,24 @@
         "id": "SteelBarDrop"
     },
     {
+        "field": "STEEL_BAR_EQUIP",
+        "id": "SteelBarEquip"
+    },
+    {
         "field": "STEEL_BAR_HALF_BREAK",
         "id": "SteelBarHalfBreak"
     },
     {
         "field": "STEEL_BAR_HALF_DROP",
         "id": "SteelBarHalfDrop"
+    },
+    {
+        "field": "STEEL_BAR_HALF_EQUIP",
+        "id": "SteelBarHalfEquip"
+    },
+    {
+        "field": "STEEL_BAR_HALF_UNEQUIP",
+        "id": "SteelBarHalfUnEquip"
     },
     {
         "field": "STEEL_BAR_HALF_HIT",
@@ -9668,12 +11656,20 @@
         "id": "SteelBarSwing"
     },
     {
+        "field": "STEEL_BAR_UNEQUIP",
+        "id": "SteelBarUnEquip"
+    },
+    {
         "field": "STEEL_ROD_HALF_BREAK",
         "id": "SteelRodHalfBreak"
     },
     {
         "field": "STEEL_ROD_HALF_DROP",
         "id": "SteelRodHalfDrop"
+    },
+    {
+        "field": "STEEL_ROD_HALF_EQUIP",
+        "id": "SteelRodHalfEquip"
     },
     {
         "field": "STEEL_ROD_HALF_HIT",
@@ -9684,12 +11680,20 @@
         "id": "SteelRodHalfSwing"
     },
     {
+        "field": "STEEL_ROD_HALF_UNEQUIP",
+        "id": "SteelRodHalfUnEquip"
+    },
+    {
         "field": "STONE_AXE_LARGE_BREAK",
         "id": "StoneAxeLargeBreak"
     },
     {
         "field": "STONE_AXE_LARGE_DROP",
         "id": "StoneAxeLargeDrop"
+    },
+    {
+        "field": "STONE_AXE_LARGE_EQUIP",
+        "id": "StoneAxeLargeEquip"
     },
     {
         "field": "STONE_AXE_LARGE_HIT",
@@ -9700,12 +11704,20 @@
         "id": "StoneAxeLargeSwing"
     },
     {
+        "field": "STONE_AXE_LARGE_UNEQUIP",
+        "id": "StoneAxeLargeUnEquip"
+    },
+    {
         "field": "STONE_BREAK",
         "id": "StoneBreak"
     },
     {
         "field": "STONE_DROP",
         "id": "StoneDrop"
+    },
+    {
+        "field": "STONE_EQUIP",
+        "id": "StoneEquip"
     },
     {
         "field": "STONE_HAMMER_BREAK",
@@ -9716,12 +11728,20 @@
         "id": "StoneHammerDrop"
     },
     {
+        "field": "STONE_HAMMER_EQUIP",
+        "id": "StoneHammerEquip"
+    },
+    {
         "field": "STONE_HAMMER_HIT",
         "id": "StoneHammerHit"
     },
     {
         "field": "STONE_HAMMER_SWING",
         "id": "StoneHammerSwing"
+    },
+    {
+        "field": "STONE_HAMMER_UNEQUIP",
+        "id": "StoneHammerUnEquip"
     },
     {
         "field": "STONE_HIT",
@@ -9736,6 +11756,10 @@
         "id": "StoneKnifeDrop"
     },
     {
+        "field": "STONE_KNIFE_EQUIP",
+        "id": "StoneKnifeEquip"
+    },
+    {
         "field": "STONE_KNIFE_HIT",
         "id": "StoneKnifeHit"
     },
@@ -9746,6 +11770,10 @@
     {
         "field": "STONE_KNIFE_LONG_DROP",
         "id": "StoneKnifeLongDrop"
+    },
+    {
+        "field": "STONE_KNIFE_LONG_EQUIP",
+        "id": "StoneKnifeLongEquip"
     },
     {
         "field": "STONE_KNIFE_LONG_HIT",
@@ -9760,8 +11788,16 @@
         "id": "StoneKnifeLongSwing"
     },
     {
+        "field": "STONE_KNIFE_LONG_UNEQUIP",
+        "id": "StoneKnifeLongUnEquip"
+    },
+    {
         "field": "STONE_KNIFE_SWING",
         "id": "StoneKnifeSwing"
+    },
+    {
+        "field": "STONE_KNIFE_UNEQUIP",
+        "id": "StoneKnifeUnEquip"
     },
     {
         "field": "STONE_MAUL_BREAK",
@@ -9772,6 +11808,10 @@
         "id": "StoneMaulDrop"
     },
     {
+        "field": "STONE_MAUL_EQUIP",
+        "id": "StoneMaulEquip"
+    },
+    {
         "field": "STONE_MAUL_HIT",
         "id": "StoneMaulHit"
     },
@@ -9780,12 +11820,20 @@
         "id": "StoneMaulSwing"
     },
     {
+        "field": "STONE_MAUL_UNEQUIP",
+        "id": "StoneMaulUnEquip"
+    },
+    {
         "field": "STONE_SPEAR_BREAK",
         "id": "StoneSpearBreak"
     },
     {
         "field": "STONE_SPEAR_DROP",
         "id": "StoneSpearDrop"
+    },
+    {
+        "field": "STONE_SPEAR_EQUIP",
+        "id": "StoneSpearEquip"
     },
     {
         "field": "STONE_SPEAR_HIT",
@@ -9800,8 +11848,16 @@
         "id": "StoneSpearSwing"
     },
     {
+        "field": "STONE_SPEAR_UNEQUIP",
+        "id": "StoneSpearUnEquip"
+    },
+    {
         "field": "STONE_SWING",
         "id": "StoneSwing"
+    },
+    {
+        "field": "STONE_UNEQUIP",
+        "id": "StoneUnEquip"
     },
     {
         "field": "STORE_ITEM_AMMUNITION_BOX",
@@ -10140,12 +12196,20 @@
         "id": "SwordDrop"
     },
     {
+        "field": "SWORD_EQUIP",
+        "id": "SwordEquip"
+    },
+    {
         "field": "SWORD_HIT",
         "id": "SwordHit"
     },
     {
         "field": "SWORD_SWING",
         "id": "SwordSwing"
+    },
+    {
+        "field": "SWORD_UNEQUIP",
+        "id": "SwordUnEquip"
     },
     {
         "field": "TABLE_LEG_BREAK",
@@ -10160,6 +12224,10 @@
         "id": "TableLegBrokenDrop"
     },
     {
+        "field": "TABLE_LEG_BROKEN_EQUIP",
+        "id": "TableLegBrokenEquip"
+    },
+    {
         "field": "TABLE_LEG_BROKEN_HIT",
         "id": "TableLegBrokenHit"
     },
@@ -10172,6 +12240,10 @@
         "id": "TableLegBrokenNailsDrop"
     },
     {
+        "field": "TABLE_LEG_BROKEN_NAILS_EQUIP",
+        "id": "TableLegBrokenNailsEquip"
+    },
+    {
         "field": "TABLE_LEG_BROKEN_NAILS_HIT",
         "id": "TableLegBrokenNailsHit"
     },
@@ -10180,8 +12252,16 @@
         "id": "TableLegBrokenNailsSwing"
     },
     {
+        "field": "TABLE_LEG_BROKEN_NAILS_UNEQUIP",
+        "id": "TableLegBrokenNailsUnEquip"
+    },
+    {
         "field": "TABLE_LEG_BROKEN_SWING",
         "id": "TableLegBrokenSwing"
+    },
+    {
+        "field": "TABLE_LEG_BROKEN_UNEQUIP",
+        "id": "TableLegBrokenUnEquip"
     },
     {
         "field": "TABLE_LEG_CHAIN_BREAK",
@@ -10190,6 +12270,14 @@
     {
         "field": "TABLE_LEG_CHAIN_DROP",
         "id": "TableLegChainDrop"
+    },
+    {
+        "field": "TABLE_LEG_CHAIN_EQUIP",
+        "id": "TableLegChainEquip"
+    },
+    {
+        "field": "TABLE_LEG_CHAIN_UNEQUIP",
+        "id": "TableLegChainUnEquip"
     },
     {
         "field": "TABLE_LEG_CHAIN_HIT",
@@ -10204,6 +12292,10 @@
         "id": "TableLegDrop"
     },
     {
+        "field": "TABLE_LEG_EQUIP",
+        "id": "TableLegEquip"
+    },
+    {
         "field": "TABLE_LEG_HIT",
         "id": "TableLegHit"
     },
@@ -10216,12 +12308,20 @@
         "id": "TableLegNailsDrop"
     },
     {
+        "field": "TABLE_LEG_NAILS_EQUIP",
+        "id": "TableLegNailsEquip"
+    },
+    {
         "field": "TABLE_LEG_NAILS_HIT",
         "id": "TableLegNailsHit"
     },
     {
         "field": "TABLE_LEG_NAILS_SWING",
         "id": "TableLegNailsSwing"
+    },
+    {
+        "field": "TABLE_LEG_NAILS_UNEQUIP",
+        "id": "TableLegNailsUnEquip"
     },
     {
         "field": "TABLE_LEG_SAW_BLADE_BREAK",
@@ -10232,6 +12332,10 @@
         "id": "TableLegSawBladeDrop"
     },
     {
+        "field": "TABLE_LEG_SAW_BLADE_EQUIP",
+        "id": "TableLegSawBladeEquip"
+    },
+    {
         "field": "TABLE_LEG_SAW_BLADE_HIT",
         "id": "TableLegSawBladeHit"
     },
@@ -10240,8 +12344,16 @@
         "id": "TableLegSawBladeSwing"
     },
     {
+        "field": "TABLE_LEG_SAW_BLADE_UNEQUIP",
+        "id": "TableLegSawBladeUnEquip"
+    },
+    {
         "field": "TABLE_LEG_SWING",
         "id": "TableLegSwing"
+    },
+    {
+        "field": "TABLE_LEG_UNEQUIP",
+        "id": "TableLegUnEquip"
     },
     {
         "field": "TAKE_CIGARETTE",
@@ -10284,12 +12396,20 @@
         "id": "TennisRacketDrop"
     },
     {
+        "field": "TENNIS_RACKET_EQUIP",
+        "id": "TennisRacketEquip"
+    },
+    {
         "field": "TENNIS_RACKET_HIT",
         "id": "TennisRacketHit"
     },
     {
         "field": "TENNIS_RACKET_SWING",
         "id": "TennisRacketSwing"
+    },
+    {
+        "field": "TENNIS_RACKET_UNEQUIP",
+        "id": "TennisRacketUnEquip"
     },
     {
         "field": "TENT_AMBIANCE",
@@ -10328,12 +12448,20 @@
         "id": "TireIronDrop"
     },
     {
+        "field": "TIRE_IRON_EQUIP",
+        "id": "TireIronEquip"
+    },
+    {
         "field": "TIRE_IRON_HIT",
         "id": "TireIronHit"
     },
     {
         "field": "TIRE_IRON_SWING",
         "id": "TireIronSwing"
+    },
+    {
+        "field": "TIRE_IRON_UNEQUIP",
+        "id": "TireIronUnEquip"
     },
     {
         "field": "TOGGLE_STOVE",
@@ -10352,6 +12480,10 @@
         "id": "ToothbrushShivDrop"
     },
     {
+        "field": "TOOTHBRUSH_SHIV_EQUIP",
+        "id": "ToothbrushShivEquip"
+    },
+    {
         "field": "TOOTHBRUSH_SHIV_HIT",
         "id": "ToothbrushShivHit"
     },
@@ -10362,6 +12494,10 @@
     {
         "field": "TOOTHBRUSH_SHIV_SWING",
         "id": "ToothbrushShivSwing"
+    },
+    {
+        "field": "TOOTHBRUSH_SHIV_UNEQUIP",
+        "id": "ToothbrushShivUnEquip"
     },
     {
         "field": "TRANSFER_LIQUID",
@@ -10452,12 +12588,20 @@
         "id": "TreeBranch2Drop"
     },
     {
+        "field": "TREE_BRANCH_2EQUIP",
+        "id": "TreeBranch2Equip"
+    },
+    {
         "field": "TREE_BRANCH_2HIT",
         "id": "TreeBranch2Hit"
     },
     {
         "field": "TREE_BRANCH_2SWING",
         "id": "TreeBranch2Swing"
+    },
+    {
+        "field": "TREE_BRANCH_2UNEQUIP",
+        "id": "TreeBranch2UnEquip"
     },
     {
         "field": "TREE_BRANCH_BONE_BREAK",
@@ -10468,12 +12612,20 @@
         "id": "TreeBranchBoneDrop"
     },
     {
+        "field": "TREE_BRANCH_BONE_EQUIP",
+        "id": "TreeBranchBoneEquip"
+    },
+    {
         "field": "TREE_BRANCH_BONE_HIT",
         "id": "TreeBranchBoneHit"
     },
     {
         "field": "TREE_BRANCH_BONE_SWING",
         "id": "TreeBranchBoneSwing"
+    },
+    {
+        "field": "TREE_BRANCH_BONE_UNEQUIP",
+        "id": "TreeBranchBoneUnEquip"
     },
     {
         "field": "TREE_BRANCH_BREAK",
@@ -10484,12 +12636,20 @@
         "id": "TreeBranchDrop"
     },
     {
+        "field": "TREE_BRANCH_EQUIP",
+        "id": "TreeBranchEquip"
+    },
+    {
         "field": "TREE_BRANCH_HIT",
         "id": "TreeBranchHit"
     },
     {
         "field": "TREE_BRANCH_SWING",
         "id": "TreeBranchSwing"
+    },
+    {
+        "field": "TREE_BRANCH_UNEQUIP",
+        "id": "TreeBranchUnEquip"
     },
     {
         "field": "TRIP_OVER_OBSTACLE",
@@ -10504,12 +12664,20 @@
         "id": "TrumpetDrop"
     },
     {
+        "field": "TRUMPET_EQUIP",
+        "id": "TrumpetEquip"
+    },
+    {
         "field": "TRUMPET_HIT",
         "id": "TrumpetHit"
     },
     {
         "field": "TRUMPET_SWING",
         "id": "TrumpetSwing"
+    },
+    {
+        "field": "TRUMPET_UNEQUIP",
+        "id": "TrumpetUnEquip"
     },
     {
         "field": "TUNE_IN",
@@ -10604,12 +12772,20 @@
         "id": "UmbrellaDrop"
     },
     {
+        "field": "UMBRELLA_EQUIP",
+        "id": "UmbrellaEquip"
+    },
+    {
         "field": "UMBRELLA_HIT",
         "id": "UmbrellaHit"
     },
     {
         "field": "UMBRELLA_SWING",
         "id": "UmbrellaSwing"
+    },
+    {
+        "field": "UMBRELLA_UNEQUIP",
+        "id": "UmbrellaUnEquip"
     },
     {
         "field": "UNLOCK_DOOR",
@@ -11332,12 +13508,20 @@
         "id": "ViolinDrop"
     },
     {
+        "field": "VIOLIN_EQUIP",
+        "id": "ViolinEquip"
+    },
+    {
         "field": "VIOLIN_HIT",
         "id": "ViolinHit"
     },
     {
         "field": "VIOLIN_SWING",
         "id": "ViolinSwing"
+    },
+    {
+        "field": "VIOLIN_UNEQUIP",
+        "id": "ViolinUnEquip"
     },
     {
         "field": "VOICE_FEMALE",
@@ -11792,6 +13976,10 @@
         "id": "WoodenLanceBreak"
     },
     {
+        "field": "WOODEN_LANCE_EQUIP",
+        "id": "WoodenLanceEquip"
+    },
+    {
         "field": "WOODEN_LANCE_HIT",
         "id": "WoodenLanceHit"
     },
@@ -11804,6 +13992,10 @@
         "id": "WoodenLanceSwing"
     },
     {
+        "field": "WOODEN_LANCE_UNEQUIP",
+        "id": "WoodenLanceUnEquip"
+    },
+    {
         "field": "WOODEN_MALLET_BREAK",
         "id": "WoodenMalletBreak"
     },
@@ -11812,12 +14004,20 @@
         "id": "WoodenMalletDrop"
     },
     {
+        "field": "WOODEN_MALLET_EQUIP",
+        "id": "WoodenMalletEquip"
+    },
+    {
         "field": "WOODEN_MALLET_HIT",
         "id": "WoodenMalletHit"
     },
     {
         "field": "WOODEN_MALLET_SWING",
         "id": "WoodenMalletSwing"
+    },
+    {
+        "field": "WOODEN_MALLET_UNEQUIP",
+        "id": "WoodenMalletUnEquip"
     },
     {
         "field": "WOODEN_STICK_BREAK",
@@ -11832,6 +14032,10 @@
         "id": "WoodenStickCanDrop"
     },
     {
+        "field": "WOODEN_STICK_CAN_EQUIP",
+        "id": "WoodenStickCanEquip"
+    },
+    {
         "field": "WOODEN_STICK_CAN_HIT",
         "id": "WoodenStickCanHit"
     },
@@ -11840,8 +14044,16 @@
         "id": "WoodenStickCanSwing"
     },
     {
+        "field": "WOODEN_STICK_CAN_UNEQUIP",
+        "id": "WoodenStickCanUnEquip"
+    },
+    {
         "field": "WOODEN_STICK_DROP",
         "id": "WoodenStickDrop"
+    },
+    {
+        "field": "WOODEN_STICK_EQUIP",
+        "id": "WoodenStickEquip"
     },
     {
         "field": "WOODEN_STICK_HIT",
@@ -11852,6 +14064,10 @@
         "id": "WoodenStickSwing"
     },
     {
+        "field": "WOODEN_STICK_UNEQUIP",
+        "id": "WoodenStickUnEquip"
+    },
+    {
         "field": "WOOD_AXE_BREAK",
         "id": "WoodAxeBreak"
     },
@@ -11860,12 +14076,20 @@
         "id": "WoodAxeDrop"
     },
     {
+        "field": "WOOD_AXE_EQUIP",
+        "id": "WoodAxeEquip"
+    },
+    {
         "field": "WOOD_AXE_HIT",
         "id": "WoodAxeHit"
     },
     {
         "field": "WOOD_AXE_SWING",
         "id": "WoodAxeSwing"
+    },
+    {
+        "field": "WOOD_AXE_UNEQUIP",
+        "id": "WoodAxeUnEquip"
     },
     {
         "field": "WOOD_DOOR_BLOCKED",
@@ -12036,12 +14260,20 @@
         "id": "WrenchDrop"
     },
     {
+        "field": "WRENCH_EQUIP",
+        "id": "WrenchEquip"
+    },
+    {
         "field": "WRENCH_HIT",
         "id": "WrenchHit"
     },
     {
         "field": "WRENCH_SWING",
         "id": "WrenchSwing"
+    },
+    {
+        "field": "WRENCH_UNEQUIP",
+        "id": "WrenchUnEquip"
     },
     {
         "field": "WRING_OUT_WET_CLOTHES",
